@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>MORNING WAVE</title>
+    <link>https://tetu04190-lgtm.github.io/morning-wave-/</link>
+    <language>ja</language>
+    <description>毎朝、その日のニュースを自動で編成してお届けする個人向けラジオ。</description>
+    <itunes:author>MORNING WAVE</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://tetu04190-lgtm.github.io/morning-wave-/cover.png"/>
+    <lastBuildDate>Fri, 10 Jul 2026 17:17:55 +0900</lastBuildDate>
+    <item>
+      <title>7月10日 朝のニュース</title>
+      <description>・台風9号 沖縄 先島諸島へ 暴風高波 土砂災害などに厳重警戒（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015173061000
+・兵庫 女児の手首縛り監禁か 大阪 豊中の消防職員逮捕（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015173751000
+・九州から東北で猛烈な暑さに 熱中症対策徹底を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015173401000
+・大阪地検特捜部 特別公務員暴行陵虐事件の裁判 検事が無罪主張（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015173071000
+・【詳報】皇室典範改正案 衆院本会議で可決 今国会で成立の公算（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015173031000
+・「日本茶」国のブランド保護制度に登録 海外産と差別化ねらう（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015173661000
+・「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news114.html
+・ChatGPT Workは何がスゴイ？Word・Excel業務まで「最後まで実行」するヤバすぎる実力（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjZEdHQ1Z5MjZKWU11dHJpM2lqRWFvZDNFNzBBaDRkdWVVZHlCeUVodUVzYTBpaTZ0SWp4Zk84ZmlySklEaXFGOFNqd0xSLWJTczRF?oc=5
+・企業の“AI管理”に認識ギャップ、6割が「管理できている」と回答も、実態はコスト不明7割・ログ未把握9割（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1GMEJrbXJGRkRkeVJ1cDVKVVFtWlFOWktybkxGNW1KZDBLaF9xcWlfVXhiUmxkaUxyTHpTcHBTeHVWUHd1WGVsWjRWNGlaU1lKVVp0ZHlDTEM4dENrd25FM29Ibnh5ZHFFU1E?oc=5
+・M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/
+・ChatGPT は、あなたの最も意欲的な取り組みのパートナーに（OpenAI）
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE1ma3VEQkp2ZWJhcEx1d0xwSjQ5clk1cGp1R0plRnE0RWRBV3JzUVc2WV9GaGVRTFNVLUFhZlFyVHJQbnFWR2lUVkpJRTNHcFgyRTlnaVk1c0tRNWJVS2l6SGZkUUVVWVNwQ1RPMERUS2xiLVpwdjdZ?oc=5
+・トランプ政権と対立するAI企業アンソロピックの軍事利用をめぐる攻防（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5aajlqSFY1MVA5TlVJb0puaDZKS0NxbndwUllEa0ZsaXRaQzBEMnM1bXdveFY5djc5RGRZQXpFSEtjdkxFTnlhWDB1WkFOQ0Q5dkhuQ0FCY1ZuelUyUlNvSUNZempoeldQeTlpU1otN1FJeTlKX0pCVl9qS1NtaWc?oc=5
+・MacBook Neo（512GBモデル）とiPhone16の整備済製品が入荷（iPhone Mania）
+  https://iphone-mania.jp/sale-603398/
+・将棋AIの読み筋をAIが解説。「将棋AIサミット2026」にマウスが機材協賛（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2124277.html
+・イラストを“チカチカ動画”にしてAI学習を阻害するというツールが「X」（Twitter）で人気／作者いわく「気休めです」とのことだが……？【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2124216.html
+・iPhone18 Pro Maxの原価は約136,000円か〜現行比で大幅な値上がり（iPhone Mania）
+  https://iphone-mania.jp/iphone18-603390/
+・LG、PD給電対応の31.5型4Kなどモニター新製品を一挙7機種（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2124234.html
+・経営者の『7月10日問題』 ～「ChatGPT」はどこまで士業に迫れるか【生成AIストリーム】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/aistream/2123986.html
+・「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news114.html
+・品のいい和梨のフレーバーで暑い夏の日にぴったりな爽やかさの「三ツ矢冷やし和梨」を飲んでみた（GIGAZINE）
+  https://gigazine.net/news/20260710-asahiinryo-mitsuya-hiyashi-wanashi/
+・「docomo Starlink Direct」、開始2カ月で接続者数500万を突破（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2124252.html
+・介護施設向け「ぷよぷよトレーナー」10月提供開始 演出は控えめ、詰将棋モードも（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co</description>
+      <pubDate>Fri, 10 Jul 2026 09:30:00 +0900</pubDate>
+      <guid isPermaLink="false">morning-wave-2026-07-10</guid>
+      <enclosure url="https://tetu04190-lgtm.github.io/morning-wave-/episodes/2026-07-10.mp3" length="6054624" type="audio/mpeg"/>
+      <itunes:duration>0:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
