@@ -1,0 +1,41 @@
+name: MORNING WAVE
+
+on:
+  schedule:
+    - cron: '15 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: morning-wave
+  cancel-in-progress: false
+
+jobs:
+  broadcast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 番組を焼く
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python build.py
+
+      - name: 公開する
+        run: |
+          git config user.name  "morning-wave"
+          git config user.email "actions@github.com"
+          git add docs
+          git diff --staged --quiet || git commit -m "放送 $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+          git push
