@@ -1,0 +1,68 @@
+・台風9号 沖縄 先島諸島など今夜にかけ暴風のおそれ続く 警戒を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015174261000
+・九州で危険な暑さ 熱中症対策の徹底を 北海道では大雨（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015174241000
+・ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015174371000
+・【動画】Pickup NEWS(7月11日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015173861000
+・アップルがオープンAIを提訴 “企業秘密盗まれた”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015174381000
+・“国内最高齢のピアニスト” 室井摩耶子さん死去 105歳（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015174441000
+・テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news157.html
+・Anthropic、「Claude Fable 5」を従量課金制に。“定額AIの終わり”が意味すること（WIRED.jp）
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGF2dHUxbENOX1JVT2FDOWViRW0wMnFKUDRYcTVwcENzWG9FUVdxX0hxdnpuYXEtWmJIdVBCSW1IUzVtcEVSdGVBejFvczlZN1REdDZLLTlHTkRONVhTdXpRYlVEVEhWR0Zqa1g4SVZ0cmN5ZzRfTDFOYXAyTnBpVXlYTWpoSVY1blQ5SUZwUWdSVWRRQzRlRGpReXBqNFo3YUE?oc=5
+・株式会社if、AI駆動開発の伴走研修で新規事業の予約システムを内製開発──社員が全12回でテスト自動化からデプロイまで習得【導入事例】（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE15MmZTSVRfekltMTNJM2I5aUNlbmpSRlBrY3o5OUxqOUZuRnB5RTE5emxOMm1uTjdZQWlPT2JoVURCcmJldzVySDRqcER3ck04OFN2N3hxYlFtMnFJNGxnTGg5MTM1Z3BUZ0E?oc=5
+・「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news114.html
+・【調査レポート】リハ現場の生成AI利用率が大きく上昇 「試す」から「日常利用」へ ─ 2026年リハ職AI活用アンケート - PT-OT-ST.NET（"生成AI OR ChatGPT OR Claude when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ORkZZOWlVMDU5Nzl1WFY2ejdRZXhTc1ZRN1JBdVF0X1BpSDRMNWFiRGtESEJJSll1MUhNN2pzM213a29NN0ljbmNkVGxsSklYT3J1UmdCRzVLTGJDQWpWY0Y5OA?oc=5
+・AIで収益を伸ばす企業が実践する4つのステップ 単なる生産性の向上で終わらせない | 戦略（DIAMOND ハーバード・ビジネス・レビュー）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE41VDRrckVIVmVXTFJjZWFNR2ZKdmowT2FXeFd6R2hudjREUVZBR29pNk1LcVRsZldqMEIzRGpDeUxydDIwVmtyb0xsRHVQT09JSUE?oc=5
+・iPhone Ultraのバッテリー容量は4,883mAh？駆動時間を予想（iPhone Mania）
+  https://iphone-mania.jp/iphone18-603430/
+・【本日みつけたお買い得品】エネループの20本パックが1,780円引き！4本パックも20%オフ！プライムデーセール（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2124439.html
+・Cisco製品などを「Network Sketcher」に統合する「Network Sketcher Cisco Extension」v0.5.1 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2124336.html
+・iPhone18 Pro Max最大2ミリ厚化説を有名リーカーが否定（iPhone Mania）
+  https://iphone-mania.jp/iphone18-603427/
+・【本日みつけたお買い得品】Galaxy Tabが3万4,770円に割引！ペン付きモデルも安くなってる（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2124426.html
+・イラストを“チカチカ動画”にしてAI学習を阻害するというツールが「X」（Twitter）で人気／作者いわく「気休めです」とのことだが……？【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2124216.html
+・“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news127.html
+・親が「スマホに気を取られている」と感じる子どもほど親との愛着関係が不安定な傾向にあるという研究結果（GIGAZINE）
+  https://gigazine.net/news/20260711-parent-phone-use-child-attachment/
+・TP-Link製品がAmazonプライムデーで最大40％オフ、Wi-Fi 7ルーターやTapoカメラなど（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2124162.html
+・Apple、OpenAIと元従業員2人を提訴 「iPhoneの機密を盗んだ」と主張（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/11/news038.html
+・無料でAI向けのブラウザ自動化ができる「Browser4」（GIGAZINE）
+  https://gigazine.net/news/20260711-browser4/
+・東京都が「東京アプリ生活応援事業」の対面サポート、7月13日予約開始（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2124284.html
+・韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015174281000
+・地方税収、初の50兆円に 好調な企業業績が押し上げ 総務省（毎日新聞）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE05N3VpeXVVejVjd0VSR3JjY3hCeEYwQjVNcWxPQlZlbGpfak5fcWJyS3d3RkU1Ylg2VXRzXzFLV0JhVndSWTRCNEFiRGp5UFR4Z0pIdGZsTjlPWmVic2U0c1p0Y2J4MmJm?oc=5
+・ソフトバンクやPayPayなど セブン＆アイHDに出資を検討（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015174161000
+・来週の米主要企業決算 大手銀皮切りにシーズン開幕（株探）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuTDZwZk9DNFBUaGl2dFdRdEZWMUluUHllUVludGFpUjAtR2NjV29WRF9BRGlzZWhGWWJFcjhtQXZQVEtJZ1BWRWxNb3Nrb0Jhbmc?oc=5
+・スーパーのコメ平均価格 約1年半ぶりに3500円を下回る（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015173611000
+・米国株式市場＝Ｓ＆Ｐ続伸、最高値に迫る 四半期決算シーズンに注目（ロイター）
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPRjBkOGxrT2pZQWZZV0J4elV4OTYxYmc0cWM2aHd5QW1XZ05JQlFLRGxaanV0NF9PeHN3SlpaSlA5UFVlTFJFMGZWcXNMckhSUFlkbzNnQVhBamxHRXlEbHZnSnk3aWR1djlxUG9wS3ZJNW0yelZmRElQVEZ2NnZOeQ?oc=5
+・【千葉県印西市】移動スーパーの運行開始について（平賀学園台地区）（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UZjBZbklwY0cyS3d0TVl2NWx2Q0g4c3ktSUNja3kxVFY5S2pSZnlOSjlLVktuc2hCVVRaUHpQaEp4NXJvam80c21qRFdlcWFqOWhabGRBRQ?oc=5
+・千葉県の今日のアメダスの記録(07月11日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ybnduU3pLVVZHd3h2b3NHWlB5WmtyblZxclVzMVdoRno1RnRNa3U1SzNaNkQ0T1B6cnhYMWFVQmxGWDlVd0VxYmFYdlpSQQ?oc=5
+・新着情報“スペーシアハイブリッドG”2019年式オフブルーM入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE16VmpaaXpvLUFxLTlaTms1MjhyTDFsZzVwaXdDajlrQ2NScC1qeUFfUXJvbnBjRUotTGJXdE01TFJ5LXpEaGpaeXNYaTdLS09LQ1RPQXZCYlRjRjZnMHJRbFZXaVlhLXg0UVN3akhIckFxRVpNLTl2RkRWM1BSNWM?oc=5
+・成田空港用地の“強制収用”同意 千葉県知事「やむを得ず」 警察と衝突の苦い歴史も（テレビ朝日系（ANN））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBBWHNaVzJNWWZkU01BTVc2VmhORDNJQUltUFJKUnhOSWlfSzIwZ1FCSTZPNWpKQVVCZ3g2Z1FWclA0VmVSSGFaSWw3NGRieElsTFV4RUR0clp1c0pfSl9IQjZzR3lfNmtpal9NZjRYRHVOVU1XZDZNLUEtQ0Q3SEU?oc=5
