@@ -1,0 +1,68 @@
+・イラン“ホルムズ海峡封鎖” 米軍“イランへの攻撃開始”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015174811000
+・秋田 仙北市 角館町西長野の924世帯2083人に避難指示（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015175021000
+・北海道 陸別町 926世帯 1922人に避難指示（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015175011000
+・日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015175001000
+・四国梅雨明け 九州や中国は38度超の危険な暑さ 熱中症対策を（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015174761000
+・アルゼンチンが準決勝へ スイスとの延長戦制す メッシは無得点（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015174781000
+・テスラ車内で「Grok」と会話、日本でも展開へ ナビ設定やルート確認を音声で（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news157.html
+・生成ＡＩは「人間に責任」著作権侵害のリスクも…新潟商工会議所女性会、活用テーマに講演会（新潟日報）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE52LUpWN19HUE9kd3JTY0s3UWw4anlMZ0lhTWpMdWZfQTRGLUZGSHpMMUNhVnBGVnJWdUowbkw0aW0tbklOeTJFYUdxcEptV0pETnBZTXVIdFpGUUpxZ2c?oc=5
+・競合他社も同じAIで意思決定している時、何が起きるのか AIエージェントによる収れんの罠 | 意思決定（DIAMOND ハーバード・ビジネス・レビュー）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzQmtVNjJMUHd0bTdmWDNSY3hWNzZ0bHdmR2VYR3JYaTJjbVIzQzJ3Vng1TG1qTkNOcDEzajBtSjNSM2ZXaXNVaHZZUDNBbGU2UEE?oc=5
+・「まるで人間」 OpenAIの新モデル「GPT-Live」のトーク力が話題 間を空けずに考えながら会話できる（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news114.html
+・生成型人工知能(AI)が企業の働き方を変える段階を越え、自ら判断し行動する「実行主体」に進化している。 過去のチャットGPTやクロードのようなサービスが質問に答える秘書の役割に止まったとすれば、今は契..（매일경제）
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UczZwOFBGQmUxa2lnbHV0a2V6akZWUlNOdTlZU0tXNVhiUWdNQ2FEbG1iU0s3MFBoOUYzUDZKZzFWWXIwVFBlZVNPdw?oc=5
+・M365 CopilotにOpenAI最新モデル「GPT-5.6」追加 複雑な作業を「より効率的に処理」（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/10/2000000184/
+・iPhone Ultraは税込30万円が心理的ラインか〜競合機種の予想価格から試算（iPhone Mania）
+  https://iphone-mania.jp/iphone18-603459/
+・【本日みつけたお買い得品】コンパクトキーボードのREALFORCE RC1が3,828円引き中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2124446.html
+・Cisco製品などを「Network Sketcher」に統合する「Network Sketcher Cisco Extension」v0.5.1 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2124336.html
+・iPhone18シリーズはSwitch 2のようなバッテリー交換式にはならない模様（iPhone Mania）
+  https://iphone-mania.jp/iphone18-603456/
+・【本日みつけたお買い得品】エネループの20本パックが1,780円引き！4本パックも20%オフ！プライムデーセール（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2124439.html
+・イラストを“チカチカ動画”にしてAI学習を阻害するというツールが「X」（Twitter）で人気／作者いわく「気休めです」とのことだが……？【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2124216.html
+・なんでPSのディスク版ゲームがなくなるの？ 不満たらたらのゲーム好きマンガ家を黙らせた担当の一言とは（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/12/news013.html
+・AppleがOpenAIを企業秘密侵害で提訴（GIGAZINE）
+  https://gigazine.net/news/20260712-apple-sues-openai/
+・TP-Link製品がAmazonプライムデーで最大40％オフ、Wi-Fi 7ルーターやTapoカメラなど（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2124162.html
+・“防爆シェルター”を3Dプリントする技術 日本のスタートアップが開発 海外イベントの防衛装備庁ブースで展示へ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/10/news127.html
+・あなたの付近の不完全な地図データが「クエスト」となりクリアすることでOpenStreetMapを更新できるアプリ「StreetComplete」（GIGAZINE）
+  https://gigazine.net/news/20260712-streetcomplete/
+・東京都が「東京アプリ生活応援事業」の対面サポート、7月13日予約開始（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2124284.html
+・日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015175001000
+・岡山、広島、香川 株主総会ピーク 上場９社、好業績などで混乱なし（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwYWxSSEROaXhmN2k5Y3Y5ZC1WLXlGV2NnamRXNWJsUzd5d3NLbUJnT0dRRnBBdkU3QzBlY09tbTZDWWpBbHJxQTNEVFQ5aEVkemc?oc=5
+・韓国半導体 SKハイニックス ナスダック上場 約4兆3000億円調達（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015174281000
+・フィデリティ・グロース・オポチュニティ・ファンドDコース(毎月決算・予想分配金提示型・為替ヘッジなし)の基準価額・投資信託情報（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmRDBqUy1NN1RvMWxlUlktYXF5c0ktZXJvQm9FS00wVDk4SlhWa0VwM280ZUdadjIzODVESVVmXzhjMzY5Y2h2cmxDT3dWVzJaWE5odg?oc=5
+・ソフトバンクやPayPayなど セブン＆アイHDに出資を検討（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015174161000
+・［株式週間展望］日米企業決算や中東情勢に関心 平均株価6万円台後半か（沖縄タイムス社）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5HWnJzaUlrUXlrcThnRmRld202cHZlWm5jaEVscFJWcG5ZMzlueWRhUDM0MVRMYVBHRTA2QkRBalhsVm9BRmhYZFBiMy1RNWpVODZsR25BQWo1dmNrN0E?oc=5
+・千葉県の過去のアメダス実況(2026年07月11日)(降水量)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9lU3VaTWZOWXFjbXI0NEhEM05DbnBfN3ROY3pnY1RTQUJqWmg4OG1mRW9UVlcyUU9fZG5DczlZWTJ5VFJVVG1faVFsLVRVNWR6bUM5eDRtVnlZT2FkZy1kSkE3ZXVNX2c?oc=5
+・昨夏千葉県王者の市船橋、継投ノーヒットノーラン達成！ 打線爆発で20得点コールド勝利（サンケイスポーツ）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE90eUhQOUVxci1MMDRuNnp0MlpTRzdTMlNHak1mUzlzcTBRY0h2RWNSN1gxZ21zS2JnUVFOUmFDVHpQUGJRQlVBZ3U1RHhzMVRYRVlpR0Z6NGs0dVUyQnYwSHRybkpQZDNMVy1jY0FZZTFIQi1fRnRBTkM2b2xHSVE?oc=5
+・「肝試しをしようと」千葉県の施設跡に侵入か 22歳の男ら2人逮捕（テレ朝NEWS）
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9xYWFGaEZKMVdZRExLeVZzeXc1OGdPY0taeUt5V1dCRm96Nk9rMnpuSnNWTElDRG51N3BKVDlGY192Q3F5U3M4SU9jeWQ5VEJRTGcyTU9BbUZXYUY0Qk5wQWpQYVprSFZvSEluSnY1VXoxdw?oc=5
+・（仮称）千葉県フェーズフリー推進条例（案）のパブリックコメントが開始 8月7日まで（yutakato.jp）
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FZzVsUXh6MExCOTRibHpoQVVESG1iS25BVF9LenQyZDZTQzR5SUF3aGRRbGZaT216Y2xzVUd2TDJXT2J0eGIyWXFkWkhPZWM?oc=5
