@@ -1,0 +1,68 @@
+・クロマグロ国際会議 漁獲枠拡大 合意に至らず（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015176661000
+・コンビニ冷蔵設備入札で違法な受注調整か 3社に立ち入り検査（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015176401000
+・福岡県議会 中尾副議長が会見 金銭授受を改めて否定（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015176371000
+・公用車事故受け 安全性重視の基準策定 政府（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015176611000
+・大阪 道頓堀ビル火災 たばこをポイ捨てか 従業員を書類送検（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015176341000
+・来年秋の朝ドラ 新米獣医師の成長描く「なぎさの進化論」（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015176491000
+・AIが「ホームディレクトリ全削除」 重要データ消失で相次ぐ悲劇（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2607/14/news031.html
+・Anthropic、「Claude Fable 5」を従量課金制に。“定額AIの終わり”が意味すること（WIRED.jp）
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxOUGF2dHUxbENOX1JVT2FDOWViRW0wMnFKUDRYcTVwcENzWG9FUVdxX0hxdnpuYXEtWmJIdVBCSW1IUzVtcEVSdGVBejFvczlZN1REdDZLLTlHTkRONVhTdXpRYlVEVEhWR0Zqa1g4SVZ0cmN5ZzRfTDFOYXAyTnBpVXlYTWpoSVY1blQ5SUZwUWdSVWRRQzRlRGpReXBqNFo3YUE?oc=5
+・【登壇企業募集開始】AIテーマ特化型オンラインウェビナーシリーズ「AI Market Focus」を2026年9月より順次開催｜AI導入検討企業との接点創出を支援（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9RWlBzRm04alFmVVk0TmdTUGI3S1JuZC1nN0dZQS1lb2UwdnhMYUc5TUcwa0ZnckJMVUVrOFp6REFrY0dtSmFpbTNuZl80SGZ3SWt1QVVJeHpfNG5rTUhEM01NVGg0MnE5dGc?oc=5
+・Dropbox、Claude連携スタート ChatGPT、Geminiに続き……「AI共通のコンテンツ基盤」に（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/14/2000000190/
+・令和8年度生成AIパイロット校事業 - city.shiga-konan.lg.jp（"生成AI OR ChatGPT OR Claude when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBKZ0R1ZE5NTHFhbEFJdzdtc2pCSUQzTGJJcUhkSkVKNXBVblBsWHpPcXV2b2xTZHd2SjVESHAyOG05TTliOGZjTGxZNlp2cUF2bUpEeEJXVTd3SzV4c3g3blU2d1ZmY2VxcjVVTnVvU3JpUFBZR3c?oc=5
+・MSナデラCEO「企業のAI活用で核心ノウハウが流出、独自の学習環境構築を」（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5pWXV4WGFNUEt1V3l6LUw2NHRJWlR6UDZ2bDlJamZub1Q2Xzd3X1ZUbDJHUVR2Tzc2WlowNDFKeVZUUEdlak4zZ2tGR0QzeUJUeGxDNjhyZWt2WGNRMjZxMVZkemFhVENlVXg0ZmVKZUZsZHNl?oc=5
+・iOS26.6であやしいメッセージを警告する新機能が判明（iPhone Mania）
+  https://iphone-mania.jp/ios-603540/
+・サンワ、LANで4K映像を120m先まで届けられるHDMIエクステンダー（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2124985.html
+・「Microsoft Edge」に新機能多数、CSSやPWA関連、キー入力の「focusgroup」など ～公式ブログに開発者向け新連載／CSSギャップ装飾やオンデバイスAIによる音声認識など盛りだくさん（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2124962.html
+・AppleからOpenAIへ元従業員400人が移籍！裁判資料で判明（iPhone Mania）
+  https://iphone-mania.jp/apple-603538/
+・商用利用OKのアニメ特化動画生成AI「AnimeGen」が無償公開（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2124932.html
+・Xの無料ユーザーも最新AIモデル「Grok 4.5」を試用可能に、AIコーディングエージェント「Grok Build」で／（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2124719.html
+・ATM出金上限を200万円→50万円に auじぶん銀 初期設定も30万円に引き下げ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/14/news075.html
+・SNSの依存性の高い機能を16歳未満で制限させる法案をカリフォルニア州が検討中、無限スクロールなどを問題視（GIGAZINE）
+  https://gigazine.net/news/20260714-california-infinite-scroll/
+・日本でGoogle Playの手数料引き下げが前倒し、9月30日～（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2125000.html
+・GMO、在宅勤務を完全廃止 コロナ禍以降続けてきた週1日の「推奨」も終了（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/14/news074.html
+・Appleのオンデバイス音声認識API「SpeechAnalyzer」が英語ベンチマークでWhisper Smallを上回る（GIGAZINE）
+  https://gigazine.net/news/20260714-apple-speech-analyzer-benchmark/
+・LINE GAMEのユーザー識別子が外部広告ツールに無断送信、2022年から約4年間（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2124979.html
+・クロマグロ国際会議 漁獲枠拡大 合意に至らず（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015176661000
+・トーシンＨＤ（日本経済新聞）
+  https://news.google.com/rss/articles/CBMizAFBVV95cUxQMzNVOFZfVEFxTmxXMm9nR0NmXzhlV1FqcmtGNEh4VTNjZHlfZVJqSWhYNVh3Tm1lLXFjRWFWV01waDY2SDFFVVZZVmpCRWlEbjRya2dKRVRmbGtqd0JkMnRvTlR0dEUwaml1QnJxelYxQkRqWE5XcFZVb1ZfbFRPOHE3ajZkeHluQmhfRmRhWVlSRnF4UXQ2NThFY1JIMndKdnBIUjVhWnlBc1FKU2NUUEpHSTh6ZFNlOUtYNV9VRXh3aWFYMS1ZRVJlRC0?oc=5
+・ソフトバンクG 孫社長 “AIエージェント普及で景色変わる”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015176631000
+・株式新聞プレミアム＝４－６月決算発表、３月企業のピークは８月７日―ＡＩ需要や中東影響を注視 速報（kabushiki.jp）
+  https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQMFhMTGZ6TU44Ylp3ckpsN29vbVNhNWZmQ3g1ZFNjOEFjek9weGNqelFPS200anY2YVRKRTBjR250RTdLUHVv?oc=5
+・片山財務相 GPIF運用割合 “適時適切に検証を行うルール”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015176601000
+・2027年3月期第1四半期及び半期決算上の留意事項並びに第1四半期及び半期決算のトピック（EY）
+  https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcC1OaDhVSWNiOGlhY0o3SXRiUGhlOWNPT0J3ZExVWnhJTDF2N1VSZU05MHg5ZFF5XzBTblZFUWFkOU0yb0Uyb1hRZ0I1NldnRXNCZjQzczF3UUJ4Nk1xZ1Q2dzVZTEM4eVZDV213Q0ZMd1VaV2FoTXZUM1J0eWJpdFdlemItUEZaeGJkMWxIeGdtMnJuTUVWWW53VThXTWM5aDlpbU51YnRvdjg?oc=5
+・【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBHZXJQVlRMU2NJSjRjTTRtajkxa19sOEY5eFRTeExZRHppWVNQN2twel9EN2ROMXZPRDNQNDc5VUFUU0I1b1Bfem4zSlI5bDl3QzVpUmxHekNHRWVOYUlSQnI3UGY0UG1JVEE?oc=5
+・千葉県ブルーカーボン推進協議会による令和8年度研修会の開催について（pref.chiba.lg.jp）
+  https://news.google.com/rss/articles/CBMieEFVX3lxTFBtSW42UGxzX2RhSHVtZzY2VXlqQXZwWlg3NDZkRUFxQTFsLU5JTUY1dGlrbDd0SjcwYWRDdHl6ZUVuN0h6amJUTVEta1NvY1liRktFb015blJpMEYwMWNFVWMzYnFxNUJrdGRab0l4MGlweHc3TXlmUA?oc=5
+・【千葉県印西市】印西市教育委員会、小中学校向け「生成AI導入授業パッケージ」と「生成AIハンドブック」を作成（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VSVMtSzc4UGFYbnNZNk9MczFaUWFONF85ZVVoc3dIeFN1aEdGMmJFOXFvLUpxVU5wZ1BSN3JwM0VQcGNtZ1ZxbFJmLS1ZOWZGRFF5aFdKZw?oc=5
+・千葉県「幼児交通安全教育セミナー」7/30、一般も受講可能（リセマム）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ydUROSUpzX1ZQNHJIdVRlbU9xMmliZGwxWFFScnJBYjdjN1Z2eFBoSDlFUVUyLVVBNUdkRFJOWkN5VG5QamRITFcxakk2M25aX3E4T3owOU9MUlpNX1htUFNOWG9EUQ?oc=5
