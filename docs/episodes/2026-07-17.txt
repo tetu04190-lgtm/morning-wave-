@@ -1,0 +1,68 @@
+・鹿児島 川から服着ていない遺体発見 不明の5歳男児の可能性も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015178991000
+・関東で局地的な大雨 浸水などに厳重警戒 北海道などで猛暑日（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015178661000
+・国旗損壊処罰法 参議院本会議で可決・成立（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015179001000
+・広島 コメ返礼品のふるさと納税 寄付設定額引き下げ相次ぐ（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015179101000
+・皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015179021000
+・食料品の消費税減税「来月上旬までをめどに方針決定する」政府（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015179061000
+・「AIエージェントの約半数が"戦力外"になる」 なぜ企業は使いこなせない？（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html
+・Claude Maxプランとは？料金・機能・他社プランとの比較を最新情報で解説（AIsmiley）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CVmFCNXVPNl9QOXByWi1vVHlfWUlRTnVfVGxjaWNuaHNqS2w0M2RFbzJWWlNEYV9TNFhPN19LcXhjVWNqakpjcE1Ya3lhb2NlM2ZjMFhmdHFZVEE?oc=5
+・国内企業のAI導入は広がる一方、新たな価値創出やビジネス変革への発展が課題に～IPA「DX動向」調査（クラウド Watch）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxOVlI5TTg0MHFHVDRmY0RWQnFmMlFvazZZcHJRWWdjempSUGJyUFMxSWtVNWlTZENOcWFfeVVxWm1EeWZuX0ROY0RsMWtaWjRsdVlIV1VsSGhLdDQ1VWs4UV9JNVBZS0tYWlNWb2xDSmdyd1M2S1ZMM3FwRHU5dUtsQ1kzZ2k3Y0ZUY1lfSmRn?oc=5
+・「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/
+・テキストになるだけじゃない！ ChatGPT、Gemini、ClaudeのOCRを日常にありがちな場面で比較、採点した（アスキー）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFByakZZN2REMDNyMG1RLTRGYmtJV0JSVGNmdWMyXzJLZnQ5R1d5RXQ0b01jZWcxRzZnU1IyQXM1SDRMM0d2cWppa3pMNGVNQlc2VDZXOGVmMVlSMnMyVWZ0VEVNTDM2Y0w0NmpzajZCVWlHMmdub19RaEhkTTJ5OTg?oc=5
+・『AIを導入しても、業務KPIが改善しない企業には何が足りないのか』というテーマのウェビナーを開催（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1vcFJTRXNHZi1rMEg3SVNzTGNjSmRSUVAxY2J1emRNR3lpcHliZG9FU1NBb0VLX000cHJTMmNJREV2c3l0Z096VDBWSWJxaEVNaG9ETVNXdnBOMC1wMmdhRDFQT2FUaTVHZGc?oc=5
+・AppleがWWDC26で発表されたテクノロジーを直接体験できるワークショップを開催（iPhone Mania）
+  https://iphone-mania.jp/apple-603633/
+・MSI、320Hz/WQHD対応の27型ゲーミングモニターなど2機種（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126102.html
+・30年前にこんなのあったんだ…… Microsoft、IRCをマンガにする「Comic Chat」をオープンソース化／「Comic Sans」フォントが知られるきっかけにもなったユニークな製品（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2126038.html
+・iPhone18とiPhone17・16の違いは？買い替え診断【予想版】（iPhone Mania）
+  https://iphone-mania.jp/iphone18-603630/
+・MSI、Core Ultra 5 322搭載で指紋認証対応のミニPC（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126036.html
+・ローカルモデルの管理だけでなく、タスクもお任せ ～「LM Studio Bionic」が登場／オープンモデルだけでコーディングも知識作業も。クラウド推論との使い分けも可能（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2126007.html
+・ニチレイ、システム障害の業務を順次再開 全面復旧は来週中めど（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/17/news099.html
+・OpenAIのAIエージェントで中古車売買の顧客対応を自動化、サポート解決率50％向上・業務時間80％短縮・離脱顧客12％復帰などを達成した事例（GIGAZINE）
+  https://gigazine.net/news/20260717-openai-cars24-agent/
+・Pixel 9/10のAI処理が50％高速化、130MBのメモリー節約と電池持ちを改善するグーグル「Gemini Nano v3」新技術とは（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2126133.html
+・キオクシア、約370億円の支払い命令に「到底容認できない」 控訴含む法的手段へ 米特許訴訟で（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/17/news097.html
+・マンガ形式でチャットするIRCクライアント「Microsoft Comic Chat」がオープンソース化（GIGAZINE）
+  https://gigazine.net/news/20260717-microsoft-comic-chat-open-source/
+・千葉県全域で「総額50億キャッシュレス還元」キャンペーン開催、千葉市は独自に追加施策（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2126129.html
+・クロマグロの漁獲枠 “他国などと連携し協議再開を” 鈴木農相（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015179071000
+・2026年度1Q決算の超速報 全体の3分の2が増益も、株価は悪材料へのネガティブ反応が目立つ 野村證券ストラテジストが解説（nomura.co.jp）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5yUGdHeTlkVzZ2c3M4R1BwTzI5WTh4TVJ0SEk1RERMWVdNTW1yWDI2QnhET2tyQ0U5YkhqT2M0b1hJRlFqT1d0R3NaQlJDeF9XVVNvT1JkaFpFdVhQYm5r?oc=5
+・日本で開発された種苗 海外流出を防止へ 改正種苗法が成立（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015179291000
+・S&P500 来週の見通し｜好決算でも上がらない？7,500ポイント攻防へ、アルファベット・テスラが決算 2026年7月17日（外為どっとコム）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pLVgxMGdGaUJ1OUhRbGRNWXJSckQwRU51UTlIMjc2OGJVTXNmMWN5TVdDVzNxX0lZVlRmNnRoRTRQS2tHZnB0c2duOW4wNEhZNXNkTUZQbWdFSVVscFd5VTFkOA?oc=5
+・日本の資源開発大手 インドネシアLNG開発に向けた準備で式典（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015179271000
+・エヌビディア【NVDA】：株価・株式情報（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE4xcERaYlUwR2Rhb0pfZnNyNExXTmhkeHd5MjVsSTNwdG9tR041dE1hYkdPSGswOTFranNkVW85U0cwQ25CaGh0bzJEbnk3UkU?oc=5
+・【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE13OUk1cW9qZFdtSXJ3aURmLUV6aFc1YlpJSTRzeG11VUlJa1pYNjc1RTRvbWM4dXB6cEkwcHV3aE1ZX1JKdzBUZHpXV2M5SEF5Vm9HeEk3NA?oc=5
+・令和8年度要望活動（千葉県）（city.kamagaya.chiba.jp）
+  https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2xyWTE1SDZQUkJ0dFZlZDd1YVcyTUJ6V0djQ1hvOHFGOHFCVGF6V1R6YUpiOXFnbGZ0dHdmc094aGlZbGVwXzluTUFNWnBScW1DdVMwM2RoS3I5cUJoWERoTkNCOVJhX2FqdUU2R1FCY2Zsd2Q5QmlGR29ZTG9sUFItOW9fa3lLVVlGNGxmWVVabkZUWE5XTmVEdy0?oc=5
+・キングダム 魂の決戦 USシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EV1Q2b3dKVFE3cXd1c1FEN0hCdms0Y3VCclBMTU9PWlhfRE1JQ1YwZ0ZhdFN5RHpRM1ozU25uSFZqVndYaXViM05DeG8yRW1nMUhGV3BWdko2VmcwNTNIWg?oc=5
+・県立房総のむら「むらの縁日・夕涼み」（pref.chiba.lg.jp）
+  https://news.google.com/rss/articles/CBMidkFVX3lxTE5BeEs0cHZRS2F1NFB2WmItZy02WUhZV3RiNWkxNTlaZFV4MnQ5UkswdnV0VEI0T3ZZR2FhNG5FMndpaGI5VklmZmllTjRnOWlFZ0NvbXR6SHpwenhVRlVHTEJLS0c5dDlIRjRabHBHdE5qT2U5dUE?oc=5
