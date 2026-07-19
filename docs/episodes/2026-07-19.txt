@@ -1,0 +1,68 @@
+・木が倒れ子ども含む複数人搬送 静岡 御殿場（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015180731000
+・遊漁船火災 全員避難 けが人なし 神奈川 三浦（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015180681000
+・西日本・北陸は各地で猛暑日に 北海道は大雨に十分注意（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015180531000
+・マンションで男性転落 巻き込まれた女性死亡 名古屋 栄（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015180661000
+・JR東海道線 運転再開（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015180691000
+・W杯 決勝の見どころ スペイン4大会ぶりか アルゼンチン連覇か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015180651000
+・「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/
+・Anthropic、Claude Fable 5の課金方針を再転換、上位プランでの提供継続を発表（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9hR2FOcXp0M1haaF8yVl8wWUZEVzhINmU1NWxGanlHWU5ZVWI2UzVRWFNtRlBTRmZVVGNJMDMtNm5FUTRvR0lXTWNad1JQVmVUd1ZyODdxVTNncThTbk9oNjZJZFUwRG9GTFl6SHJRLVhjdXZ5?oc=5
+・AIの業務活用力を身につける資格『AI業務支援士（7月9日試験開始）』養成研修の申込者が80名を突破（PR TIMES）（毎日新聞）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE00NTFBYWtNNjhBRWJ0eHFuX0xHaGpLQll6R2g5amVuYkFoYVFDa2lseVJYYUNQWGdRWG5HWE0wcFB6WWNWMjJ6NFBpcUEzTHBlV2NqVjdzZzVCblJWU296bEhqa0dvWHo3?oc=5
+・「Claude Fable 5」サブスクに統合 Max・Team Premiumプラン対象（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/18/news019.html
+・動画生成AI時代、専用チップに商機。中国快手のAIチップ企業、「非GPU」で挑む（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1FZndQWFlfQl92ZGJUOExkbEt5alNuNDFKWTB2VmZfNlFrLTVYOWFDTHJqa2RFaTB2TU5FcGZTc0xTbURHVjF3a2RQd2htNUplU1piUXItY1R4MGtza1o3WGJrbm1oTzBZZkNkVW9TTTIxR0Vnd3QzdERmQ0dZNGc?oc=5
+・日本の企業は、AIが収益を生み出す能力にまだ満足していない。（Vietnam.vn）
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxNN21YUUc4VElPdEZERnItU3RHOGdUNDB4SGVWOVRQZjNaQ0QwanZpRUl0emU4ckc2UFlVeHZPY25JYV9IdFJ1NGVCN3NHVEVCS1l5QWpKZWRCWUtOeGVHMmpUWFBxaldVRDhlblVkVkI1VUxsUkxGaWVCdUZiZEZyb3ZkOF9MSVMxZC1ucUhOOEd6eXM?oc=5
+・iOS27のメモアプリのすべての新機能！分割線やセクションへのリンク機能などが追加（iPhone Mania）
+  https://iphone-mania.jp/ios-603628/
+・ChatGPTの利用制限リセット再び、4日間で3回目。Claudeへの当てつけ？（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126300.html
+・AI生成したWebサービス向けにセキュリティや可読性などを診断できるツール ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2126260.html
+・Apple Watch整備済製品が値上げ〜新価格と値上げ額は？（iPhone Mania）
+  https://iphone-mania.jp/iwatch-603671/
+・Claude Fable 5がサブスクで継続利用可能に。MaxとTeam Premiumで（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126298.html
+・「Google Earth Pro」デスクトップアプリ、2027年6月25日で新規ダウンロード終了へ／Web/モバイル版への移行を（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2125536.html
+・AWS“兆ドル”誤見積は「ちょっとした計算ミス」 ジョークのつもり？ で大炎上→日本のAWS社員「あり得ない」と批判→対応（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/19/news010.html
+・アニメ・映画・ドラマで見かけた「Emacs」いろいろまとめ（GIGAZINE）
+  https://gigazine.net/news/20260719-emacs-in-pop-culture/
+・「Xiaomi Store イオンモール Nagoya Noritake Garden店」がオープン、国内10店舗に（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2126294.html
+・転売ヤーが紙の本を殺す？ 「週刊少年ジャンプ」買い占め騒動を見てマンガ家が感じた怒りと不安（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/19/news007.html
+・鋼鉄の2倍・アルミニウムの3倍の強度を持つ「耐火ハイエントロピー合金」を新手法で作製、今後の金属の作り方を変える可能性（GIGAZINE）
+  https://gigazine.net/news/20260719-super-alloy-metal-manufacturing/
+・よみうりランドで「d払い」最大100％還元（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2125057.html
+・リニア中央新幹線 静岡県内着工へ 静岡県とJR東海協定締結（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015180281000
+・(株)海帆【3133】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CbnBsb3JqNjRjZDRJcWswcmt0Y011UWFPSmFvSXJXRmVRTlVZZGNjak9wVEt0OU1ZbmhNdGliX1ZFVnVzd01hTHpSZmpuSFVDMUE?oc=5
+・米アップル 日本でiPhoneの販売価格を約10％値上げ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015180171000
+・【米企業決算】アルファベット決算、ウォール街のAI投資26兆円賭けの試金石に（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1jWURtZWlHcFJOTHhyLURIalB3NHNEUFcydDdTYVFUbkdFcWxJdWcwcmhWN3pkTHJKTU1WNlk1aGNYWXdtZWpoN1RPZ3BxR0dUV0RETjdWSzVkb0JnMXBhVE5WQzNiTUVYYnYxTVFWVEkwS2Jq?oc=5
+・EU 「排出量取引制度」排出規制の緩和などを提案 産業界に配慮（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015180071000
+・AI企業「オルツ」粉飾決算事件 前社長が初公判で起訴内容認める 最新の社会ニュース【随時更新】（ABEMA）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RQXprSnFIcEM5NktVaDRsSU1MU2JZZ3ctRDk3LVJDMlFTSmJJY1FUREpIdmJrNXNVUG04TGxBMkRlc1dVNUlvVUhjWnBmeFhvQXhYQTBxU0RIN3c?oc=5
+・【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZM2o0U2h6NVJmZHNNQ1RZaG5pZzFzXzFBdll5aVZjUDVuZUt6eEtkaGZUYks5Zlk2Zk1RVjVQUHdFa2tCQzJ1N3ZUVnFSTHJtYlE?oc=5
+・千葉県の過去のアメダス実況(2026年07月18日)(風向・風速)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xeldaQkFBU3dNRXlOM196eTZwYTcxVGEyUWsxR2gzYmJNdFp4Qm9ZNWpKZHNjMjlrZHAzcmNXZG41UWVRQWF4aWpvWDM1RW93TkxTVzRmemNyUmdIcjBheGR3VnU?oc=5
+・データセンター集積で住民との摩擦拡大の千葉・印西市、今度は変電所の新設計画浮上…再び反対運動 (読売新聞オンライン)（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMijgFBVV95cUxPNk94TWVVSHFMbDZaeHA4U1BxUzlERG5YUE4wV1FCMjNqUVZCV05HTmxsOV9yMV9PWGd5Mm5ZU215RWxfc1hfSGxudVhueDNPOGJnU0RRSXpGXzlDS0wwNGpfckl4V3FJYjJ6UUpxRk9rRFVSLXl0M0FsMFpBRTJKWDQ1MUJXU0lfT0poVkJ3?oc=5
+・b-monster、初の千葉県進出。「柏スタジオ」を2026年10月オープン（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kM2x1TUpyREdmQmx2Qzkwbm1qMXZWNnNJdW9BU0txZUxaYlFELWYzR2hHR2IxbjJZX2FWLWlhWXAyMFB0ZlFUMzB0LUpMVENjZmpzMllOUQ?oc=5
