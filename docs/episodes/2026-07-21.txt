@@ -1,0 +1,68 @@
+・岐阜 愛知で40度超 初の「酷暑日」に 熱中症に厳重警戒（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015181481000
+・石川 小松 80代男性が自宅で倒れ死亡 熱中症か（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015181871000
+・中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015181411000
+・明石歩道橋事故から25年 遺族が市職員に安全の発信訴え 兵庫（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015181681000
+・イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015181491000
+・【動画】Pickup NEWS（7月21日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015181301000
+・Anthropic、著作権訴訟で史上最大「2400億円」和解金支払いへ 学習利用は「フェアユース」認定（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/21/2000000210/
+・日立とAnthropicが協業、Claude活用でシステム開発やインフラ運用を高度化し社会のAXを牽引|ProductZine（CodeZine）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE03WU4tMnhGcFFFb25PS05FVGVtM0pxNlloWlA0SUFlQUZ0bF9JYlZZNUV0ODVMYUYzTUxfdnZNVFl1Ylh5ZnYxdmMxckdURDlDRTZ1bmtNSVZxQWZzcWZKUQ?oc=5
+・8割の企業が超えられない「AI本格活用の壁」とは？ …「情シス向けAI活用意識調査2025」より（ASCII.jp）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBlOG9VQmlxTzFfTUxjUTdPYnlDZk1Qc2pmUElQUjZwSUpJOG9ZSlJYOWRYYVFBMmk1bFBaankxMS1ab09mMk9sTjRIbDdUVm5UazdUNA?oc=5
+・ドラクエと「Gemini」がコラボ 画像生成の“特別なテンプレ”提供、リアルイベント開催へ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/21/2000000209/
+・「Claude Cowork」にコーディング以外の7つのタスクを任せてみた--その結果、「欠かせない存在」に（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xRmpqdmYwVzltMUhCWmhQZVJxVXFjM2dzUThDM1VmdGxCc3U5Wm5FakdkMkdYOHR2ZFBMS1RGMmhPaGZHbzFaT3RfdXl0RkR0TTM0?oc=5
+・AI活用とガバナンスを一括支援、アイディルート（LOGISTICS TODAY）
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE5IYmtrUTBrbTVUc2lNYUExbG1odzFWbHQ5dEVrZUxvaDRuMlBtd2xxRWVGcU8tY3AxY0VqOGMwRUxkVzJlb3JBWA?oc=5
+・AppleがiOS27など各OSのベータ4を一斉公開（iPhone Mania）
+  https://iphone-mania.jp/apple-603763/
+・プラネックス、10Gbps対応LAN拡張カード。RJ-45とSFP+の2タイプ（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126613.html
+・Windowsのパッチサーバー「WSUS」で同期処理に不具合、手動での対処が必要になることも／処理に異常な時間がかかったり、タイムアウトしたり（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2126470.html
+・iOS27のカレンダーアプリの新機能！自然言語入力機能、デザインの刷新など（iPhone Mania）
+  https://iphone-mania.jp/ios-603733/
+・スマホの横幅より小さいType-Cハブ、100W給電や映像出力に対応（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126605.html
+・Android版「X」（旧称Twitter）アプリがリニューアル ～高速かつスムーズ、信頼性もUP！／約1年がかりでゼロから再構築（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2126497.html
+・XのAndroidアプリ、1年かけ“過去最大級の刷新”も賛否 「UI変わりすぎ」「スペース使えない」の声も（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/21/news081.html
+・AppleのApp Store上に「ブラジルのIPアドレスからアクセスするとギャンブルアプリに変身する偽装アプリ」が60個以上あることが調査で発覚（GIGAZINE）
+  https://gigazine.net/news/20260721-disguised-gambling-apps-app-store-brazil/
+・40周年の“ドラクエ”がGeminiとコラボ、リアルイベント「ジェミニクエスト」開催（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2126518.html
+・WordPressに認証不要でコード実行される緊急の脆弱性 即時更新を呼び掛け（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/21/news084.html
+・イスラエルはアメリカの世論を誘導する影響力工作に多額の資金を費やしてAIメッセージやインフルエンサーを利用している（GIGAZINE）
+  https://gigazine.net/news/20260721-israel-influence-campaign-ai-american-opinion/
+・みんなの銀行が「ユメノソラ支店」を開設、Fantia連携の決済サービス利用などで現金最大1500円（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2126489.html
+・首都圏新築マンション平均価格 上半期初めて1億円超に（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015181881000
+・日経平均は1941円高、今週は内外企業の決算に関心(フィスコ)（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOd0h5X3JrYmlwZHBWRHpFbXVfY2VteGVPZXBzSVNpVTZ1MzZfb2tzVUV0dUZIOGlobFM2NXh0VmhjRnM1Q05mNWJxR2FxckJoa2VXZWtSV3lYSjR3LXh1Y2FWZFFIc2tINlNlbklKSF9uSXpYQU4wZ2ZuV1J2TUNZMnA0dlRIODA?oc=5
+・「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015181561000
+・7月21日に業績・配当予想を修正した会社はこちら（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZNDVBTklQV0xrT2dOMWZVXzdLdTM2Z2hEZVQyVUNRNE5wUHdvODdqNEdoTVJlSEc2UlV2NWhrV3pIck05NGlYck1iUFpiUGJhaTB6Y2VHbw?oc=5
+・【きょうのおはBiz 7月21日(火)】夏は夜に商機！（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015181711000
+・「分析はAIに任せる時代」に生き残るFP&A組織像──好業績企業に共通する組織デザインからひも解く（EnterpriseZine）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3WEVrZl9HT254UVZ5N05DSzQ1aEZZM19LTmNiQ2p5R2IwOHpfZHhWMndYYmJ1RldzWERZZGZFRUFZMDJvX2ZheDlKU2MwcV9kOC1SaVZMNFdOZw?oc=5
+・【印西市】社会を明るくする運動（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QaWhzYkpvRDg1elR4VE55dm5qVnJDUWdnYXJBMUxUalh1S0hselBjYjFUR0Z1Sm5zalBSN01zaFVnN0RVU003STc2RVlKSTFOaXlTaW45ck16S1VnOEFN?oc=5
+・（自動車騒音常時監視業務委託）の質問に対する回答について（令和8年7月24日）（city.shiroi.chiba.jp）
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE5lTXZKd3Fqa1l6cnJ6enhtdDNFUTNkSWtYQXZjZTd2RllYZ1NPUmZFVFIxVE9wU21SUzlseXVJOW00VG5sRWFsekw3cE9uOTFFb1VScWp4OUZKUXQ1MWJCZDNZVlRVcVBmQTZIUkpQXzA?oc=5
+・「DC銀座」で産官学民の会発足 千葉、乱開発の抑制も期待 [千葉県]（朝日新聞）
+  https://news.google.com/rss/articles/CBMigwFBVV95cUxPc05TaUppYmJkNEprY3NGOURDcVlBUjk0QmhRejJpZEU0QjdNcTN0V1Q1TkJlOXU0UUpXdS1PXzVaUy0xQnYxN3pIVnMtVUZMTFJiN3pSQlFHRjIzYlMyOVJzQ295b1RKbFNnQWh4aDhqQmotMndQWkhGS0Ytb01ja3pOdw?oc=5
+・【千葉県香取市】地域おこし協力隊を2分野で同時募集！「関係人口創出」と「移住・定住」で地域の未来を担う人材を募集（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE13VXFDdnBEcHVrR0dHQjVGU0lzV0dhemR1U3NQc0JiUWN2ZXpLZ1FfbnprMVQ3akhlRzJRZkUwSi1nZGt2Vjg2R19QeExSNXJSWmhpdzZpQWZISHlfMW5GT0hUXzBrN2k2N1E?oc=5
