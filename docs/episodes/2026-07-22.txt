@@ -1,0 +1,68 @@
+・三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015182151000
+・美浜原発3号機タービン蒸気漏れ 原子力規制委が関電の対策了承（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015182671000
+・評論家 山田五郎さん死去 67歳 西洋美術などユーモア交え解説（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015182541000
+・JRが支払う整備新幹線「貸付料」増額可能性も 国交省が案示す（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015182621000
+・千葉 八街で住宅全焼 4人死亡 警察が確認進める（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015182281000
+・国民 古川代表代行 “睡眠は大事 高市首相は休息確保を”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015182661000
+・OpenAIのモデルがサイバー攻撃能力評価中に暴走 テストの答えを求めてHugging Faceに侵入（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/22/2000000214/
+・ChatGPTが制御を突破し外部プラットフォームをハッキング…前例のないAIセキュリティー事故「衝撃」（中央日報日本語版）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5VY3NlSGpsRFJ6V3I4My0tdHQ5amI0ZkE0NHAzelY2ZVhyYlBURzVoWnJiOGhmUUliQ2VJQncyUlNGbnRrSm1fS1paemh1ZUFaU3dwZEFQVUZMVkNoNktwU3ZWRGFndnNPXzFsSFFXNlJSS201a05MaHl4SGpPejA?oc=5
+・オートデスク、「2026 年度版 デザインと創造の業界動向調査：AI 動向」日本語版を公開 ― AI 活用は「導入」から「成果創出」のフェーズへ | オートデスク株式会社（Digital PR Platform）
+  https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBlNTdCVEEtQ09VMU5rNmZhMGFYZjVEMFlVUWFneElzdmZjSF9XZkU5WDdrYW5vTnhjWDF3enNwUEFrNW8?oc=5
+・無料で身に付くデータサイエンス 延べ23万人が受講、総務省が募集開始（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2607/22/news024.html
+・生成AI・AIエージェントフォーラム Online 2026 夏（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QOWRDN21BTHlQbmxoQUllVnlVUXN4cmFaNnhrUTloWTFrMDhjR01INVRXemFXUVd1UnlieDA0WDkwY3M2WUNGV0o2Smd0S0Z6MjhZWnlB?oc=5
+・AI関連銘柄の動向：導入が加速（Moomoo）
+  https://news.google.com/rss/articles/CBMimgFBVV95cUxNc1g0SzRPUUhLd2IyelpiR2RIR0FUTWgtbVlwOExYMHkwVEdhbERTM2JxVFF1UnE5UVVVSzRmVlJKb2NKQ2NCeldtTHJ3MDBFcC1QLXRHOG0xY2Zfa01wcUJMRVY5c0tjLXdOS0NGQlBvZUhQRzJyUmZoekpGbEIzQUpiVVd1N3dXMVRaMURJS3V2NllJdG91Ukxn?oc=5
+・AppleCare+盗難・紛失保証がiPadとApple Watchに拡大（iPhone Mania）
+  https://iphone-mania.jp/apple-603806/
+・直挿しでスマホとPC両対応、エレコムのAI写真編集ソフト付属ポータブルSSD（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126960.html
+・「Google Chrome」にセキュリティアップデート、脆弱性12件に対処／Windows環境にはv150.0.7871.181/.182が展開中（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2126745.html
+・中古iPhoneの修理履歴はどこを見る？表示別の確認ポイント（iPhone Mania）
+  https://iphone-mania.jp/used-603794/
+・NVIDIA、「DLSS 5」を今秋投入。クリエイターの意図はそのまま、生成AIでよりリアルに（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2126936.html
+・［Enter］キーで“うっかり送信”……を防止するブラウザー拡張機能「Kanary Enter Guard」、SNSやAIチャットを便利に／［Enter］で改行、送信は［Ctrl］＋［Enter］で【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2125538.html
+・人気SNS「setlog」、デザイン変更に大ブーイング 2日で旧デザインに戻す（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/22/news098.html
+・NVIDIAがAIエージェント向けCPU「Vera」の詳細を公開、独自設計コアを88基搭載しDeepInfraの実測ではSapphire Rapids比2.2倍（GIGAZINE）
+  https://gigazine.net/news/20260722-nvidia-vera-cpu/
+・圏外でもドローンが飛べる、KDDIが「au Starlink Direct」で国内初成功（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2126840.html
+・AWS、デプロイ速度が最大4倍になる「AWS CloudFormation Expressモード」を提供開始（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/22/news094.html
+・Ciscoが脆弱性の場所を特定する小型AI「Antares」を公開、GPT-5.5級の性能を低コストで実現（GIGAZINE）
+  https://gigazine.net/news/20260722-cisco-antares/
+・「Apple Sports」にJ1リーグ追加、欧州6リーグ含む7つのトップリーグ対応（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2126968.html
+・JRが支払う整備新幹線「貸付料」増額可能性も 国交省が案示す（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015182621000
+・企業業績は株式市場の上昇基調を維持できるか？（Neuberger Berman）
+  https://news.google.com/rss/articles/CBMikwFBVV95cUxQdnZpRFZNaUR3MHozZ1poTG03NFFjc1hsdHNpOVhTWUx0RWJtZTJvNmVRZFVMWUJ4T1J1bnlpS3htZzJybk4xd1VGVF9lbFNXaUpRRDF5a1JacDNCWDg5endkWGNRSTFMbHZnd0llOWZWZkI5b3U4dVphTHV2ckkzcVpYLXdZRlVLSmgwcEsyZk9wWjg?oc=5
+・【きょうのおはBiz 7月22日(水)】AIミュトスで日本企業は（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015182371000
+・日経平均は39円高、米企業決算に関心（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nSUM0NFNMcjdXTjhFUVlnRnkyQXJFRXVqR1hKc2tGMzhVR3JkZExfRThEVXdFcEZpS1NhUG42Q1lrY1l3eE9HVnU3dUtkbVVSUnI2YTlCUThEeWJXcC1BSQ?oc=5
+・円相場 1ドル＝163円台での取り引き ドル買う動き進む（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015182331000
+・決算:27年3月期の市場予想、6割の企業で上振れ 首位はキオクシア（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1SN1o5aU1UcHAxSnZ4U0g4bzdWRmltelEyaEdTclRDaEwtb2RjT2xYSGpQQkRxbm9Jd1ZkdS1uVldFT19oZnpHam1weUdlSTkyVndhdi1vbS04MHU4dGg3aFA5MUZwTTRudmVtMw?oc=5
+・新着情報“シビックタイプR レーシングブラックパッケージ”2026年式チャンピオンシップホワイト入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBjUk1KLXo2ZnlZeVRmYUQwcC0wdmw0WFhuXzRnSVBzVWJWY0ROT25CLWVIUjdtRlE4WXBJNnpfd21YaTN0bTRhSVRDWER0SDgtS0hsaWZDWEt5bFgxd19MRnotTm9QdC1Idzc4VVVfU2FtNFVaUW1qdjkwajZlMzQ?oc=5
+・【JR東日本グリーンウォリアーズ】「グリウォリ祭り」開催（city.shiroi.chiba.jp）
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9fX1NfWGhPa2pNaGVGT3dPbXJ4THlLeUloYm9maXRiLV9vMmhKMWhMaXcwRWJEU2FlNEZwTVNlZG5MTEx3OGJYeXNhcDNHWlItdWp6Njl4MFVYZzJSYXcyQ0hOakhpRkhVNHZEZFV3M3R1UQ?oc=5
+・新着情報“Ｎ－ＢＯＸジョイベースグレード（2トーン）”2025年式プラチナホワイトパール入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1DWGpfNnB3RFctaFFEd2JZUTVOLW9aczBfQWpURGE3bjlReURYWk5OUU9KYjR6VmY2QkhiWFBNSlV0ZHdnLXpfQ2RzSUEtM2lQakxsUFVrYXZsY3lUN0hFWDhEYlBQVHJwdDFRSDNTZ0lNQVBuUGV4OWhaUHpQMU0?oc=5
+・Green Energy Frontier、千葉県成田市に中央受配電所「Central Power Substation」を着工（オートメーション新聞）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnbUVGNENEMTdCOUd2ZTM4Z0dtOWpiOW5RWFZOVWhqZGt1bXlZNnY5Ni03QUFxaVRmNWhiTHoyQ1ZTNlIwaFIzT1pKM2RZUjFKbXlLTDV1VWhldw?oc=5
