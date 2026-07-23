@@ -1,0 +1,68 @@
+・静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015183051000
+・暑い日にあなたは何色の服を着る？9色で実験した結果…（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015183601000
+・サッカー三笘薫選手を過失運転傷害の疑いで書類送検 警視庁（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015184061000
+・野村証券元社員 強盗殺人未遂事件2審も懲役18年 広島高裁（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015184001000
+・日中外相が接触 関係悪化以降初めて 意思疎通の重要性を伝達か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015184051000
+・関西や東京など運休相次ぐドクターヘリ 国の検討会で議論開始（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015183961000
+・三菱電機とソニー、AIビジョンセンサーで新会社設立へ（ITmedia AI＋ 最新記事一覧）
+  https://eetimes.itmedia.co.jp/ee/articles/2607/23/news079.html
+・Claude Fable5が 87年未解決の数学難問「ヤコビアン予想」をたった3行で反証（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qNmZKeEI1STJkNTlDYktuUlhuR2RYRFV0b1luaHhzNXhIc0dsWGlxRDZfdzYxSTVhaEhhbk9FMjN2ZmRGRGJ5UXRJTDJhd2pCXzZR?oc=5
+・信毎SHINC活用セミナー 講演「AIの現在地と、企業が今取り組むべきAI導入について」（信濃毎日新聞デジタル）
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ub1BMVzljejE3ZXp6cmp1XzFFM1ltbldhejBPYS1UOTc3QVY0aEZrYlhHOFY0ZU9BSEpuN3JqSVdqX2NVY3JLdEYtREpnQkZTYmhOZWhPaW1wQVNpYUI0RC16LVp0WVpVVVhF?oc=5
+・Markdownファイルが、AI時代の負債に？ Googleが提案する「ナレッジ標準化」の一手（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2607/23/news055.html
+・【生成A Iを行政でどう生かすか】（公明党）
+  https://news.google.com/rss/articles/CBMihwJBVV95cUxQZzM5Q1VuZm1GZTFod05zUGJsbkk2R2txTG9BaTJjYXRTQ3JQVzR0Ny1mdVdVUUoxdmE1c280aUJsLTQ1dnplSFk0WGZlRTRYc3VlT2V0andjUWx1MVlqSXJPUzc2c0JUQU1xbFJGampCSUVoX2VHeTVNa2JYQ0pvbl9pVkYtaE5Cdk0yVlFyRlhWZ2dRV3VjdDl6eVlWVnRyUko5V1J0eDhmZHNnZUxfS3JhX1NYdmZ2RDB6RUs0NTNPVTFObVFSVE1qUTNxZ0tUd1Q1QjV0dUkwMm1MNjhhVnpsMTN1Q0pJZ250eUNOMWdNdU9RbWFEMjJkTHhoZHdSaVhmazc5NA?oc=5
+・英企業、ＡＩ導入拡大も高度な利用進まず - Economic Media Bulletin Limited (EMB)（"AI 企業 導入 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZ2xQQjZPMjRIZ2FYRGZTYmhlWVF3SlRqa0daSF9NT292TWxGaEpNalNWRlJEQTgxOUc0Ujlyb0N2bDZTRTZ1QzRMcjRtQTRyWkVLMTVQdVVaLU0?oc=5
+・watchOS27で片手操作が進化〜指先タップでウィジェット選択（iPhone Mania）
+  https://iphone-mania.jp/iwatch-603820/
+・ASUS、GeForce RTX 50シリーズ搭載のミドルタワーゲーミングPC（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2127306.html
+・Windows 11の「アカウント管理」フライアウトが刷新、よりモダンでリッチに（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/insiderpre/2127136.html
+・iPad mini（OLED）の価格は税込116,800円〜？新価格で試算（iPhone Mania）
+  https://iphone-mania.jp/ipadmini-603808/
+・MSI、280Hz/0.03ms駆動のQD-OLED搭載26.5型ゲーミングモニター（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2127277.html
+・無料メールソフト「Thunderbird」v153.0が公開 ～「Thundermail」を利用しやすく／統合フォルダーでメールにアカウントカラーが使用されるように（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2127287.html
+・米政府、中国AI「Kimi K3」開発元を批判 Anthropic「Fable」を蒸留したとして（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/23/news105.html
+・細かいミルクプディングが入った「スターバックス DELIGHT ME ピーチミルクwithクリーミープディング」を飲んでみた（GIGAZINE）
+  https://gigazine.net/news/20260723-starbucks-peach-milk-creamy-pudding/
+・Amazonがフジロック26無料生配信、タイムテーブル公開（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2127300.html
+・PayPayとセブン-イレブン、顧客ID統合か 1億超のID基盤誕生へ 複数報道（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/23/news104.html
+・音声クローンが可能な音声合成AI「Qwen-Audio-3.0-TTS」が登場、日本語対応でGemini超えの性能（GIGAZINE）
+  https://gigazine.net/news/20260723-qwen-audio-3-tts/
+・スマホがつながりやすい社会実現へ、「インフラシェアリング推進協議会」設立（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2127226.html
+・株価 値上がり AI・半導体関連に買い注文（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015183761000
+・【日本株】第1四半期決算で探す「成長加速株」の見つけ方と4つの条件（マネクリ）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RTXc4aW5qZjY5NDlCOFVLNDNqcU9PaFVHX211UGY1MGlFY0xpVHk3RzBxUUl2LTh1alJqRi14UkJiWnI4S0cxRXJEZHYyeUtvbmtKLdIBV0FVX3lxTE10c0VBdERSVE1OSlptaFBKWWFNaE5ZT2hXU3doUThVT2VaVWV6ZWM0czhJQ1RYalZ6TnpUWmhQdzlRT2M0MGVFMkdWSFFCcFJuT3Q1aHdHaw?oc=5
+・ガソリン全国平均170円 政府の補助金で170円水準続く（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015184021000
+・日経平均は380円高、引き続き米企業決算などに関心（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5M2RwblEzcTQwa1l6ejl2bEd5elNzekNkQ0FLWVdUeUk4Njg4MEIzaWpGTFFwYmpFbjBXa0JJcm82Y3k1VV9tN3llSDFPaHRhVFRKbXpmSTdYNzlPcHQ5MQ?oc=5
+・東電新会長が赤澤経産相と会談 “福島への責任貫徹が使命”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015183871000
+・米国株式市場＝反落、ハイテク決算と原油高に注目（ロイター）
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxPdFdrdkxST3VNSDJaYll5OFBabDI1djNla1NaNENXV29uTDJqZktTeUljbEtOZVRLSERhLUtUMjJaM2hrR3dJTlgxdzU3aHZ0bm85OHNFWkNoSnFEOFcwNDE3aGVBVmc3VEZ6d3NiUkRPY3VOcHAwbDBSMnlyWnZuSQ?oc=5
+・【千葉県印西市】広島へ学びに向かう中学生18人。「平和を次世代につなぐ夏」を始動（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE13OUk1cW9qZFdtSXJ3aURmLUV6aFc1YlpJSTRzeG11VUlJa1pYNjc1RTRvbWM4dXB6cEkwcHV3aE1ZX1JKdzBUZHpXV2M5SEF5Vm9HeEk3NA?oc=5
+・千葉県印西警察署との多文化共生社会の推進の包括連携（city.shiroi.chiba.jp）
+  https://news.google.com/rss/articles/CBMic0FVX3lxTE0tWWMxd1laSURudXRXYWxqNS1XU3NHUE9vQjdacE10TzBaaWs5b3JIMjQ2ZkNBS1JsSGJrSTV3a0RfZUZlcTc1Y0JPMEl0eFM1ZzJqY0h1UkJLSXgyaFliVFl2bXptcGhqOHBuZV9LMUk0VFk?oc=5
+・カラオケ ビッグエコー千葉ニュータウン中央駅前店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】（tenki.jp）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE94LXZMdmRUX3dOU2NlZXVSQUVTaTFtdjFWcjM3WEduall6RXNnZW5YM2JKOXZHSXlBV0lack1WcHFzRDVvSVZudUVPWmI2UlJWU3c?oc=5
+・千葉県の過去の天気(アメダス・風向・風速・2026年07月)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzNjNjR00xckJPb2VFNVpOSllnN0o3SnY0QnRGQnBhQXVqejdRNnFIYUlJbkF3RE1GMnFnWkEtbnlMOU1mWVl2cmQ1dV8tZV9GLVE1aVYwTGZTRk0?oc=5
