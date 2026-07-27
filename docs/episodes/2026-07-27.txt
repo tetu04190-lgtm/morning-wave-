@@ -1,0 +1,68 @@
+・長野県で「記録的短時間大雨」 東北～九州で大気不安定（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015187251000
+・作家 東野圭吾さん 68歳で死去 「容疑者Xの献身」「白夜行」（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015187291000
+・“消費税減税 速やかに法案提出”高市首相会見 公約実現を強調（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015187261000
+・棒で交際男性殴打か 50代女の容疑者逮捕 男性死亡で関連調べる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015187461000
+・台風13号発生 今後勢力を強める予想（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015187271000
+・著名人の「声」の権利保護へ どう変わる？注意点は？【Q＆A】（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015187431000
+・NVIDIA、「オープンなAIセキュリティ」掲げる業界連合 Microsoftなど30社超が参加（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2607/27/2000000224/
+・生成AIを活用した新マーケティング手法「DNAマーケティング」を開発 - News（ニュース） - 電通ウェブサイト（dentsu.co.jp）
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5XTEFFbzd3UW9rNnNzamt0cExEY0hSeHU3dlNqZkZ4UFk0cjVXc1ZnMGRUVVVBYXZ3UkU4ZnY5b2l4RGlMVDhCdF9INzJNRTZFejJxbnF6SlN0NUtyeFRzd3ZqeExhWi1BUUc0?oc=5
+・インタビュー「AI活用の巧拙が企業格差に」上野亮祐・LTS取締役副社長執行役員、坂内匠・LTS執行役員（週刊エコノミスト Online）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1EYzM0X1B6eURIalhxQ242SnB4UXhxYzJkRUFSQU1JVG9lT1ZScUhzRGFrekJiU05CX3llajlyMXk1dW10LVdPaGpmUlBxN2hWM3g1M19vSS1IWk9jVHkybUNNblEtWXo2ZEpqSmRkZVkyOXBjMndIdS1LaUFCTzA?oc=5
+・Z世代に聞く次の流行、「AIイラスト」が1位に 「Claude Code」も上位（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/27/news092.html
+・【Claude Opus 5】自治体AI zevoに新たなClaude系LLMが2026年7月27日に追加！（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9QZFN0cWhLTEk1cms2elphRERIUFpBME9tR2pjREhVcmMxZzZvZHNpbVhLTmt5aEViQTYtQk03RlNfREwzYzNMRGpRRklILTd3RWg1U0Y2OHFqT0p4SHE0YWtPX1dqVlBoSWc?oc=5
+・企業のAI活用は「導入」から「自社資産化」のフェーズへ。Biz Architects、中小企業を中心にAI実装と現場改善を各領域で推進。「AIの自社資産化」を軸とした支援を展開。 | Biz Architects株式会社のプレスリリース（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE85dFVrYS11T2tzelo3b3o2TmRlWWdybkdYM0I2UzFwbUNTOElvUDlHcFVVR1lMTTI0Um5QOG5PVGt6WnA0VE5nM0s5MWd4blVXSmx6RjRtTXM4M1JHV1BTLXlSZ0hnZnY1cnc?oc=5
+・iPad（A16）やiPad mini 6の在庫復活〜iPad整備済製品【7/27】（iPhone Mania）
+  https://iphone-mania.jp/sale-603944/
+・「AI使っても評価されない」の壁を崩せるか？日本マイクロソフトが描くAI協働の未来（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2128236.html
+・「自分」を使った動画生成もOK、Googleの動画編集ツールがGemini Omniを直接利用可能に／「パーソナルアバター」は18歳以上限定（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2127807.html
+・iPhone15や16 Plusなどが値上げ〜iPhone整備済製品【7/27】（iPhone Mania）
+  https://iphone-mania.jp/sale-603942/
+・マウス、16GBメモリ搭載で価格を抑えた15.6/14型ノートPC（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2128234.html
+・偽セキュリティ警告や詐欺ページのWeb通知をブロックする「詐欺ブロック」v0.1 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2128246.html
+・東野圭吾さん死去、Xなどで追悼相次ぐ 「ガリレオ」など数々の人気作、エンジニアから転身（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/27/news097.html
+・AIがHugging FaceをハッキングしていたことにOpenAIは1週間気づかなかったと関係者が明かす（GIGAZINE）
+  https://gigazine.net/news/20260727-ai-hacking-notice/
+・YouTube、ライブ配信向け「ギフト」機能と動画応援「ハイプ」機能のブーストを導入（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2128204.html
+・警視庁がミストファンを導入 機動隊員の熱中症対策で（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/articles/2607/27/news096.html
+・あまりの幸福感で心臓に異常が生じる「ハッピーハート症候群」とは？（GIGAZINE）
+  https://gigazine.net/news/20260727-extreme-happiness-triggered-heart-event/
+・ソフトバンクと東北大、防災AIと災害デジタルツインを融合する「共創研究所」を8月1日に設立（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2128186.html
+・東京23区 単身向けマンションの平均家賃11.4万円余 上昇続く（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015187221000
+・決算ウイークは「AI株急落」に警戒？…いまの株式市場では「好材料」が「下落要因」となるかもしれない（トウシル）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZcHlsejQ3c1EwLXcwbl9IZG5qX0I2WWVEVDFiQmVOTnBpZ3RXT2E2MVlZZC1tbTRZT1hySHpIeHZ6YXV6QWRpY1hWU2cyeEM0QWwzdndna202dw?oc=5
+・円相場 いくぶん値上がり 原油の先物価格下落に伴い（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015187331000
+・富裕層から一般向け消費へ､主役交代の兆しある小売り業態（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE85MDR1ZnBZXy1LZmJoQzFjNEdLdHJGbkQtX2FvQ2Rwa1liTi1lbWhmSHJBN1V4cUdYbGRCd1hmYmhIaW8waTVHam03ZDY3QjZvSUJTTXlSaw?oc=5
+・株価 値上がり 幅広い銘柄で買い注文（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015187171000
+・2026年5月期通期決算説明会書き起こし記事公開のお知らせ（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5pT1VPQkVJb0E0ZGdBSERVTVBUeHlhT0U0VENWdTF5ZXI1QW9Nbkg5djJPV1ZGMmtReV9keGxGUzhUTFZNQ0w2YXQ2cC15WnBnbWdyOENycW90d05PemhhS2hqc3VxSl80Wmc?oc=5
+・3x3.EXE PREMIER JAPAN 2026 男子ROUND7＠千葉県印西市｜レッツエンジョイ東京（レッツエンジョイ東京）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6bUhvbGdPZjZkcXExeHNYU2Q0eTNkdVNMVHV5S1BVWndBeVBpVzBNMHFxaFM2ZlN0NXhlclQxNGtBTDB3dDdxZHBOc3U2TFZyV0E?oc=5
+・【千葉県】7/28の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5uZmsxQkR1ZkRRWEtZZ18zTkVGMGV6SmNGTnBlX0oxM2hlalQwWlBTRTBrTUhPNFBjNTFlSlAyZEhJNFBtRE1CS3dYMTlRbU9ic1BnYWFDUkg3VDJ0LVJIM2o4VmRxZVpCa29CdGd5dl9GRGQ0RjE5OERZSGd6dFU?oc=5
+・「北総鉄道 8・8・8記念硬券セット」発売｜鉄道ニュース｜2026年7月27日掲載｜鉄道ファン・railf.jp（鉄道ファン・railf.jp）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xTlRYWWRHTERiaWFzT2k1Y1lHeGphbW5aMmthMm1iRnRNeXBJdV9sRWlUNHgtOE1rdERNb1JVZXVTLU5Hck9XcnJTdXkwTHJ5TkpwWWp2Zw?oc=5
+・千葉(千葉県)の過去の天気(実況天気・2026年07月)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE44c3h6eFFfLTdCQVk4UWk1c19BT2ZSckk0SnFZZUdZT1g2ejZMNGlPZndSejBtNWtIXzJPQTFneGYwSTVHQ3RuT2h1aWdtWFJmRlR4TGpGSDdOdDZPZVE?oc=5
