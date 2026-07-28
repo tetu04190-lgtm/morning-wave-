@@ -1,0 +1,68 @@
+・熊本 宇城市と氷川町で震度7 有明・八代海に津波注意報（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015188221000
+・【地震】鹿児島 川内原発 これまでのところ異常確認されず（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015188401000
+・【津波速報】有明・八代海に津波注意報（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015188241000
+・【地震速報】熊本市西区・南区 熊本 宇城市で震度4（16:59）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015188431000
+・【ライブ】熊本で震度7 各地の様子（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015188251000
+・【震度7】熊本 嘉島町と甲佐町で震度が把握できず 気象庁（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015188351000
+・「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2607/28/2000000229/
+・「Claude」の共有チャットがGoogle検索で一時丸見えに（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tSVNucFlnbmNsV09uVENtYWVnVUFpZzFZbzliZF9pMmRyVjRwU29aUXJpa3d6QXVnMXNPX0ZhUDFLZ2pNZXhVbmlZM0pTY3NJTWVB?oc=5
+・インタビュー「AI活用の巧拙が企業格差に」上野亮祐・LTS取締役副社長執行役員、坂内匠・LTS執行役員（週刊エコノミスト Online）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1EYzM0X1B6eURIalhxQ242SnB4UXhxYzJkRUFSQU1JVG9lT1ZScUhzRGFrekJiU05CX3llajlyMXk1dW10LVdPaGpmUlBxN2hWM3g1M19vSS1IWk9jVHkybUNNblEtWXo2ZEpqSmRkZVkyOXBjMndIdS1LaUFCTzA?oc=5
+・医療文書の作成時間を30分から5分へ、生成AIで現場の業務効率化（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2607/28/news080.html
+・Anthropicの「Claude」、共有会話がGoogle検索に露出——新たなプライバシー懸念が浮上（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE55U2RuczIxNEVSZ3hGNzE1T1VWbktxeXlDNnQ4WmFoczF3M2F5QVpVbUphN3RlLS11aEdvV1F2c19xUlFaYkhsUlpJMjRtdHJIalUwblhhb28zSVA2Z3doRVM1YWpUSjZlT2RaR2V0azhHR0g2?oc=5
+・マイクロソフトCEO「AI導入を怠る企業は企業でなくなる」（BeInCrypto）
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFA5N0JJSVYyc01xTHZVY3JVQ1RQTHhtMlFqY29XRXpHSG9hVEd6WG5hdlFlSXFpYVVJUHMwZEEzNVpLZUh0bFROaVlENzFMbmJnd2RadFBkOE5pMGQ3bHdhRkpHRm5YcmZYS3ItM2ptWQ?oc=5
+・iPadとApple Watchの盗難・紛失プランが4カ国に拡大（iPhone Mania）
+  https://iphone-mania.jp/apple-603972/
+・世界的に見ると日本のiPhoneは安め、次世代機は8～13%値上げか。MM総研調べ（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2128534.html
+・「Windows Live Writer」をオープンソース化した「Open Live Writer」に9年ぶりの動き、Mac版が登場／オープンソースの無償ブログ投稿ソフト（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2128322.html
+・iOS26.6正式版公開〜90件超の脆弱性を修正（iPhone Mania）
+  https://iphone-mania.jp/apple-603970/
+・【福田昭のセミコン業界最前線】次世代のAIインフラを支えるウルトライーサネットやPCIe 8.0などをFMS 2026で披露（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/semicon/2128501.html
+・AICU、AI漫画『YOUKAI』の次世代Webプラットフォームを公開し出版IPの統合管理を実証／連載を続けながら読者との接点や権利情報、ファン活動を蓄積（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2128295.html
+・「痺れるほどにミスを繰り返す」Gemini 3.6 Flashは変わった？ 公開から1週間、当初のおバカ回答を今検証する（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2607/28/2000000229/
+・熊本県で最大震度7の地震が発生、規模はM7.1推定（GIGAZINE）
+  https://gigazine.net/news/20260728-earthquake-kumamoto/
+・デジタル庁、新「マイナアプリ」提供開始は8月25日を予定（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2128577.html
+・新「マイナアプリ」8月25日提供開始 “端末ロック”必須に（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2607/28/2000000228/
+・在日ベトナム人がおすすめするベトナム料理「バインミー」を食べてみたよレポート、バリバリ食感のパンに野菜＆肉がたっぷり挟まってボリューム満点（GIGAZINE）
+  https://gigazine.net/news/20260728-banhmi-pho/
+・「X Money」を米国で開始 年間利回り最大6％（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2128571.html
+・農水省 備蓄米買い戻し 新米の作柄など見極め判断へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015187861000
+・本日の決算発表予定 … スクリン、カプコン、日東電など 35社 (7月28日)（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XQlVMME8yWElyTTFhVXNlYl9uSmxkaEx2U2l1LUMzSUtUdUNrZ040RkVvTXRMNVc4NUVTLXlBRFl5a0tUb2Vrd00zY0d6QWxrVjhoTlV4NWh4amQyVFFjSw?oc=5
+・片山財務相 日米合意の対米投資 米銀からの資金調達を検討（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015188071000
+・7月28日に業績・配当予想を修正した会社はこちら（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XalpJSTZHSEZHeG9mZGRpcU1BbFQzYThPRl9Fbmw4VUtPaFFCOE13X0JFVnZqTHFuWW9DTl9XSHhETUdDWFlsSUpGamVWeHpmanFUTHlaMA?oc=5
+・株価 午前は一時3000円以上値下がり（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015187711000
+・AI関連の設備投資：ビッグテック企業の決算で注目すべき5つのシグナル（Moomoo）
+  https://news.google.com/rss/articles/CBMiswFBVV95cUxOb2JBZy1YUGdCczg1SHIycXEzOEJpcUtXQ3R3TEFiNDZfNmFXNENjVnl5ZFROamkyUUZ5QUZNWGkxaGxFRF9KcHFEQXI1UHVNdUd6RGJHcWMwYVg3S2RwM1VCbkVSZjh6aFhiMjJlQl83VGYyRlZnUFZBMl9rNElzZm1UeW9mZV9fWjdzME9vQmFuYUxPNnFTdW1PSjU3Vk9NVkZ4RFQ1cGpFNFlyNWdqNV9ORQ?oc=5
+・千葉県の雨雲レーダー(実況)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiQkFVX3lxTE9UYzl4RVZjSUlJaTd3S3R3QnppUDdkeG5DeFQ3Wmtuc3lGWEhnZHBlNEpIYXNNNnU2ZmdZZjdPUlVPQQ?oc=5
+・圏央道、年度内の千葉県全通へ急ピッチ 成田空港周辺工事を国が公開（朝日新聞）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yQy1UM3p0T01ud1dYTTdKY1FKS1ZjelNUa1RtQVJtVmI5TjhGQ3J1QldFZG5YcG1EZ0JzRkNEYjVUb1p1VXpRdjdKaHdGQUxUaVZKOWlZZmFOV21aQjdOS3V0Y09pM00?oc=5
+・餌木で2.7キロのマダコ／自慢SHOT（サンスポ）
+  https://news.google.com/rss/articles/CBMiigFBVV95cUxQcV9zeE90aXpZTldCN01qNmI2VUxZVG9aRXRWVmZ0enRMdzU3TGpVMzBWUXdKb0M3djZxNmVweVdCUS1hdjFLT1owX3pvVlZxdnJrbWdFQkIzWFVWXzVzRWpvSmZseXZOMzgya0ZhTWNBUU1UbWxvaFh0Nm5rRnpYOU9mVHpHM1VVU2fSAYoBQVVfeXFMUHFfc3hPdGl6WU5XQjdNajZiNlVMWVRvWkV0VlZmdHp0THc1N0xqVTMwVlF3Sm9DN3Y2cTZlcHlXQlEtYXYxS09aMF96b1ZWcXZya21nRUJCM1hVVl81c0Vqb0pmbHl2TjM4MmtGYU1jQVFNVG1sb2hYdDZua0Z6WDlPZlR6RzNVVVNn?oc=5
+・千葉県市原市「ウエルコミ」のこどもの居場所づくりが先進事例として全国に発信 こども家庭庁公式ポッドキャスト「こども家庭庁のなかのひと」（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5sTGJsc2d1MzFZcEh6UUZ3UEVJd0MzZmc0OUdRanQtSkNHVTE1WmhQSEdPcDhPR2VHVTlCUVNIenJid2RxakY3am1pZXZ2VDUwVWxpVnBoVmYwUVlvLUkwdmoxZzROdjJOc0E?oc=5
