@@ -1,0 +1,68 @@
+・気象庁 熊本県の地震活動・暑さや雨など見通しを説明（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015195771000
+・熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015195471000
+・熊本地震 氷川町 亡くなった90代女性の親族「助けられず後悔」（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015196021000
+・神奈川 伊勢原 東名高速道路で3台関係する事故 男性1人死亡（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015195541000
+・コストコ 熊本地震で5人けが “一部商品落下 重く受け止める”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015195951000
+・【動画】熊本地震 九州自動車道で路面隆起の瞬間（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015196011000
+・AI予算の7割を食う「ITインフラ」、中でも予算超過しやすいのは？ 医療機関調査（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2608/04/news040.html
+・生成AIと数理最適化技術で、生産ラインの構成を自動立案する技術を開発（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE8teEpKdEdMQXpvT0VlOGlfLVg0SlRGRWJFRkJBTkE3Z1NBNExuRGU5d3N5cE1TWFpsS1NqOUNwN0E1cXd6RzFFdnhKeVRqRW95OWpZV2VOWGJla3FFSzdkeC1OZWJjcWRjY1E?oc=5
+・生成AI・AIエージェントプラットフォームを提供するAllganize、「第一回 AI・人工知能EXPO NEO」に出展。東京国際フォーラムにて8月5日～6日開催（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1uVDR6Tk04WVFDaTJMbXdmRTIwWEV0SEdyM1NlQ2VkRThIWVZ4Zm5RRmpHdWl4eDN6QUdlV0pZczJ3elNXbUIwc09GdjAyYXVCNV9xMmdKWHMzVl9GeHY2YVZIbnMxSlFtZnc?oc=5
+・塩野義製薬、生成AIの正答率を50→90％に 膨大な機密データをどう最適化した？（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/articles/2608/04/news033.html
+・生成AI活用を支援する「AI TextSifta」に新機能追加 ～「写真情報のデータ化」と「PDF分割」の提供を開始～（atpress.ne.jp）
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWOGwxREk1Z3ZTLVpEWFBhaS1WVWM0OFl0dE1xVTA1S2xrU0hnR1hLMVFfWmpUQ2wyT1hlcTlvNGQyLU9wYU02UUdjVkt0dw?oc=5
+・JAPAN AI、大塚商会と資本業務提携 〜全国の中堅・中小企業へAI導入を加速〜（サンスポ）
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE1Wblg0dDNIbHp0dlp2VmlRaGpaSG1MWDMtaGtOanpDWnNaSFRYUXFVVjI2V3FIb2pmQUhYNzhIMFd1ckMzQ21PWmI3VHgtaHZmcU5hVE5ncW4xcXB4SGUyQ21xcm9UQWhVQ3FURUQ5RnlHbzhIalRTVmZtTQ?oc=5
+・iPhone18の価格を左右する米議会の圧力〜日本の値上げはどうなる（iPhone Mania）
+  https://iphone-mania.jp/iphone18-604157/
+・7デバイスを1つのレシーバに集約！エレコム製品向けUSBレシーバ（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2130427.html
+・Genspark、無料・広告なしのオフィス統合環境「GenOffice」を公開 ～AI内蔵・フル機能／エンジニア1人が1週間、1万米ドル分のトークンで開発、アルファ版として提供（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2130424.html
+・iPhone16整備済とiPhone17e新品は2,000円差〜容量と機能を比較（iPhone Mania）
+  https://iphone-mania.jp/sale-604152/
+・OpenAIの次世代モデル「Astra」が数学の未解決問題10件を解決（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2130413.html
+・「Unity」で社内向け産業アプリ配布が有料に、「Internal Deployment Add-On」を発表／「Unity Industry」で組織内100MAUを超える場合に年間112.5万円から（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2130392.html
+・ドコモ・バイクシェア、サービス一時停止 不具合の復旧見通し立たず（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/04/2000000378/
+・植物由来素材使用のギリシャ発ゼロカロリーコーラ「green cola」を飲んでみた、コカ・コーラとどう違うのか？（GIGAZINE）
+  https://gigazine.net/news/20260804-green-cola/
+・ソフトバンク宮川社長、セブン＆アイ提携の狙いを語る（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2130464.html
+・「モンハンワイルズ」価格改定 販売数の伸び悩み、克服なるか（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/04/2000000376/
+・AIエージェントの負荷分散は「リクエスト数」だけでは不十分、Googleが注意点を解説（GIGAZINE）
+  https://gigazine.net/news/20260804-google-ai-agents-load-balancing/
+・サムスン、熊本地震で特別支援措置 無償修理や代替機の提供など（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2130460.html
+・小学館 社長ら26人 役員報酬の一部自主返納 漫画家起用問題で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015195971000
+・ＡＧＣ、上期最終が2.6倍増益で着地・4-6月期も74％増益（株探）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xMkE2MzlFWGtnR3otejFrMWJiclZQQm9wdDFxR29lZDRrZkRBay02MkFvNDZ2NDAxaE93NDlFZ3l3MmJWVTl4eGUyY19OVmVVWUE?oc=5
+・トヨタ 今年度の業績見通しを上方修正 営業利益は3兆4000億円（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015195831000
+・社長の人柄と企業業績には関係があるかもしれない!? ファンドマネジャーが行う“企業取材”の実際（Finasee）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanh0ZUNvdWV6aFF1cFU4N3hpZkMtbDU0Si1nYmo1QVEzSEZtSEN1LUxISVNvc3Z1WGx3NnpNdnVRRWszcTNtSV9yQzdQdnluSW54M2JIazF4bVBNZW5XRHJjTjYtVTYyUkRRSFFpTS1HY21DdWNqbm9MeHRrOFVMSlEtb3RIVkRO?oc=5
+・株価 小幅に値上がり 値下がりした銘柄買い戻す動き（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015195691000
+・アイカ工業が後場急騰､27年3月期業績･配当計画増額を好感（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zc2MtOHBjT0VKVTVzYVhvQmJVNVpjZS12eTVCTHZPbWFpVHYwYV8yTFFIeHhfbXdfZDlXMnlMV3ZZQkk0UnVOVkhLNWgtMUx4Vl8wTGNDUQ?oc=5
+・【千葉県印西市】世界とリアルタイムでつながる英語教育へ（iza.ne.jp）
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE55UEtlRU5GNWt3TlFqUzJmaUVKdjRMbVBxei1ZLVNBSklha2lIUG1uU3BqV0I1SUdMc2gteDNrR0tJQzZQUklfOUo0eXVDdXlSdkNVY1oybVVXT3VVTW1HaUp4RjFvTC0zRENuc0RYQWtiZkQtajk3ODBn?oc=5
+・千葉(千葉県)の過去の天気(実況天気・2026年08月)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5QnoxOUpiLWNidjdFUExtUUJEMkw3dGFiSXJFRkRwT0diQ1k0ZWxuN0NsakNRS2FZaUhsNkw4VVlvaTdFUEp1RnhCaXV0RU91OVFqdC0xd0ZZVkZRVVE?oc=5
+・「さらなる高み目指す」産経ジュニア書道コンクール、千葉県知事賞の印西市・坂東愛香さん（産経新聞）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBSbEdILVBuVlJQLVkyWV9ZNkNoeTNOZWpYelJNZk9YZDlBZkh4dUdMWVBCRWEyQ1FyUmdoODdhcnZoV0FGS1RXWTVBS0Q4eHA4a0Q0ckJaZDdfVFY5VXVscHdsX1BmSWRWQVFJWmU0dTIxUDhLbG9oRkNuSnYxeDg?oc=5
+・出光興産、千葉県市原市の市原事業所で油化ケミカルリサイクル設備の商業運転を開始（オートメーション新聞）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yYnFORVczdDNGNTJyY0VaRjBGMnZINXZoYkl2c09Fdmp0WHNydmY0cW1CVEdDYXh6YjYwSDllRjhwQm5sVllLZkJJTl9UTzh5WUJiTWw3RlNfQQ?oc=5
