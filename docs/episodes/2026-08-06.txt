@@ -1,0 +1,68 @@
+・広島原爆の日 被爆者や遺族などが祈りささげる（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015197691000
+・ボランティアによる健康確認の支援など【6日 被災地の動き】（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015198031000
+・熊本はきょうも危険な暑さ予想 熱中症対策を 台風影響にも注意（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015197571000
+・【熊本局】18:10～地域ニュース番組を「同時配信」します（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/na-k10015194961000
+・台風13号 沖縄・奄美で風が強まる 沖縄は線状降水帯のおそれ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015197581000
+・俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/na-k10015198081000
+・「1人1AI」のアプローチは破綻する――チームでAI共有時のセキュリティ問題を解決するベストプラクティス（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2608/07/news022.html
+・AIが自発的に人間を騙す事案発生。Claude Mythos 5が不正プルリクや標的型フィッシング、なりすまし誘導を自己判断で実行 セキュリティ試験結果を英政府機関が公表（テクノエッジ）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1Bck5tTUhXeGN3QmJwd2UyOTBUaHZJc3VmcGRXTkJVTFZjSWtVcGRDbFRrVEk3LTBRZEhDdkRjcjEtcG9NN0t1b3MtRHg5UG9LY2VnbFJKalY0VTd3djF1RHo5NDFRNEhueFhJaldJOE5LckRHNUtGT2JuTXhWejQ?oc=5
+・【2026年 日本企業のAI業務活用実態調査】生成AI活用企業の67.1％が、いまだ「人が起動」AI利用を横断追跡できる割合は13.0％、社内データ未整備は50.7％（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBnV0NNYjRsUWVtamJLcm1lV1FHMFB3OGNOUlY2eVhsZi1hdGZRQ1JMMXNfUzNpUnROYW9fTnhHT1FZampnMnhqRDF1c1VVRmNmaW5kRC11SU9jVW5XNGd5N0xBMHlYQmk1LWc?oc=5
+・中国DeepSeek、近日中に「大幅値上げ」か API料金ページに追記（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2608/06/2000000423/
+・ChatGPTでパワポを作成する方法6選！プロンプトも5つ紹介（AIsmiley）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE90M1NLSkZ4Y3g0YTZOeTNVbVEySl9zN1JYSWJLbEdBQVlxMThNcXVwOGJZUlhYclVSSkVQWTlsX2pvbDBiaHdqQU5IcVRwLTRLU21veXNacWY4aWJ0STdZNXRfVU9oenAxWXc?oc=5
+・日本の生成AI市場規模、2034年までに40億4,950万米ドルに到達へ（CAGR 16.63%で成長）（ドリームニュース）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WVUc3R2dOUXJSdWlTNU04alR5emVwUUlyU3dPWndwRjNqOV9pMW5HTXNzTlNsYmJwbDMyYVVkU1k5eFFkeHkxaDZWWWJ0LVJfUDhV?oc=5
+・AppleがPlasmaSolve買収〜iPhoneの傷対策は進むのか（iPhone Mania）
+  https://iphone-mania.jp/apple-604211/
+・RTX 50なのに1.53kg、Panther Lakeの15.3型クリエイター向けノート「DAIV Z5」（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2131169.html
+・WebサイトにGoogle マップみたいな地図を置きたい！ でも、カネがない…… そんな人に朗報！／『日本のPMTiles配布サイト』のデータなら簡単にできるかも【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2131186.html
+・iPhone Ultraが狙う顧客層とは〜最新動画で外観と特徴を確認（iPhone Mania）
+  https://iphone-mania.jp/iphone18-604189/
+・GMKtecのRTX 50シリーズ搭載小型ゲーミングPC、日本でも発売へ（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2131124.html
+・Cloudflare、AIエージェントが自律的に使える“お財布”「Cloudflare Wallets」を発表／APIやコンテンツを必要に応じて人間の介入なしでAIエージェントが購入可能に（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2131179.html
+・SpaceXのロケット上段、月面に衝突 NASAが発表 「地球や月面機器に危険なし」（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/06/2000000425/
+・チョコレートの豊かな香りにどっしりしたコーヒーの味わいが大人らしさを演出する「スターバックス COFFEE OF THE DAY カフェモカ」試飲レビュー（GIGAZINE）
+  https://gigazine.net/news/20260806-starbucks-coffee-of-the-day-moca/
+・「YouTube Music Weekend 12.0」、8月21日から3日間で合計113組のアーティスト（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2131206.html
+・ドコモ1Q、モバイル通信は減収続くが……金融好調、全社の増益エンジンに（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/06/2000000424/
+・X製品責任者のニキータ・ビアが退任、今後はアドバイザーとして関与（GIGAZINE）
+  https://gigazine.net/news/20260806-nikita-bier-leaves-leading-product-for-x/
+・NTTドコモ、通信品質改善の現在地は「道半ば」 都市部に優先投資で年度内の改善目指す（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2131189.html
+・ソフトバンクグループ 17％余減益 4-6月期決算（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015198231000
+・従業員エンゲージメントと業績や投資指標の関係性に関する調査結果（2025年データ分析）を公開（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9JcHk5VWZIN29FcHZRTlNrMVlRcGZfc3FNZmlzSWxrcXpJVDgtWlNUZjc2NTlTQTBWVXhpVGx3cUJDa2J4NGV5b1FBQlc2eXhYXzRaa0lZSnpYRENPOTBXVjBzRm1BWVNKYWc?oc=5
+・株価 値下がり 半導体関連銘柄中心に売り注文（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015198001000
+・米企業5年ぶり好決算 S&P銘柄の1株利益5割増 テックやエネルギーが主導（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBsTVdLekpwSHRGV3pnd2YwaTRnLTladFRiQU91UlZMODdqTkk3UndCMldMeFhmUVZORENuamlnWjYtSWoyME1ZeDRXQUlNQi1IMS1nM1A1NTFqQkdBVkxWTHBUSGlJZE0yaWQyZg?oc=5
+・きょうのおはBiz 8月6日(木) 食料品 消費税1％ 今後の論点は（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015197821000
+・本日の決算発表予定 … ＳＢＧ、ＪＸ金属、古河電など 322社 (8月6日)（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JTUZNXzFCQm9Ub1lDd19UWG1OTmNyMzJyTEtuQ2x1UERaTHVuQWNfbnR1bXlSTXFNRzVBTzhxTlRibzV5cmRBcVcyOVlZVTI0b2JFczBVR0xjdVMxTFI2cA?oc=5
+・【千葉県印西市】「あの電車、もう見た？」印西市の魅力を乗せた特別ラッピングトレインが北総線を運行中！（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CQ2tYdnhXcnpWZXN4Tl9nS09aMmEtUjVaLVdCVklIbm9kQjJjYzFBTVpkY2ZCZlliSS1HMVRPUW1pY0pJenRSem5OcS11Ull1ekttVjRqNA?oc=5
+・白井市との包括連携協定を締結｜お知らせ情報（柏レイソル Official site）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBBQ0JXOFUzQksteDBHQzJ2YjV5cGxrZ2lDU0JZUHFYZ1haZjBTVG94N3NQUmpYMGhnTE9pUlJqLURteGtoaWNGelRKZ09SQ28zR1ZlaVdRU184V3ZuUFE?oc=5
+・印西市制30周年記念 北総ライノス HORNS UP FES｜レッツエンジョイ東京（レッツエンジョイ東京）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aejUzdzRaM3B6elNqeTBKNnpUWWx5TnZYX2Mwc0tuRWhGTEJtbGJQVVN0MGg3VUd5T2hNOFExOTVrUnhSX29kUGFzNl9ucnNORUE?oc=5
+・千葉県の今日のアメダスの記録(08月06日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ybnduU3pLVVZHd3h2b3NHWlB5WmtyblZxclVzMVdoRno1RnRNa3U1SzNaNkQ0T1B6cnhYMWFVQmxGWDlVd0VxYmFYdlpSQQ?oc=5
