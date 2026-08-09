@@ -1,0 +1,68 @@
+・【地震情報】熊本 上天草市で震度4 津波の心配なし（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260809de42935
+・長崎原爆の日 被爆者や遺族などが各地で祈りささげる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260809de42929
+・原爆投下から81年 “長崎を最後の被爆地に”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260809de42887
+・【熊本地震 交通影響】8月9日 午前6時時点（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260809de42931
+・【動画】Pickup NEWS（8月9日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260808de42858
+・熊本 きょうも各地で厳しい暑さ 復旧作業では熱中症に注意（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260809de42886
+・Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/09/2000000463/
+・日本の教育と生成AI活用 どう考える？ OECD局長が語る留意点 [AIの時代]（朝日新聞）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oRTJVa1NnM1hqR1pXNW95VS1NMEFwd08yZVhNTUxJYmVkQ2tQWXBlNTFaZDQ4ajRLZGN0SWtfZ0tpUi15aVZha29Fdk9KbzBRcFFmbDJac1JjSnd2akJ6SmpGaWZtdkU?oc=5
+・AI導入で浮き彫りになる日本企業の「構造的欠陥」、トヨタや三菱UFJでも増殖する「働かないオジサン」問題（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5qdFZSaVI0NUhHNUNvN202MFNlWXhSX3hDdHQ3N0FwTWtPLXY3LTJrcHF0SmZtci1aNzAtdlVfaUtfTUViM2drYjdjV04yUERVT3gyMUFENXloZC1uSENaZnNtUElLeFQ0d3paNkFCSkwxMkJu?oc=5
+・Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html
+・OpenAI、AIプレゼン作成のNextSlideを買収、ChatGPTのビジュアル機能を強化（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE15bG1wdkY0ZHhKVFI0NHl4Zm1pUjRnSEdHN1JncWIwQ2U4d0loMV9tS2tjeHhtRUwyYkFkUEJmU1pVSEZoamFHU0cxTVdpOVdIdk9uNTVLdXo3WEFYZDk5NUx0OEw1OVJJYmFFZ3JEeTlxYm81?oc=5
+・AI利用は“許可制”に?企業の手綱とは?｜Newsモーニングサテライト（モーサテ）（テレ東BIZ）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xRDIyc2VqOHFDejZzY0lITzRXSlh3NG9JNHJLMzFxTkdaVGlxM3FQX28xb25VUlowb1lOTUlPMmxpQjVnZXg3WGhFdlBvZTZEOUJ3T2xnUmg3am1v?oc=5
+・Mac mini（M4）の中古品の販売状況を確認〜認定整備済製品の未入荷続く（iPhone Mania）
+  https://iphone-mania.jp/sale-604288/
+・【本日みつけたお買い得品】ロジクールの高級マウス「MX MASTER 4」が最安値！Amazonで3千円弱の割引（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2131751.html
+・デスクトップのサイドバーとしてWebページをピン止めできる「Demobar」v1.1.0 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2131736.html
+・iPhone17の増産計画を中止か〜来春発売と噂のiPhone18までの業績影響は？（iPhone Mania）
+  https://iphone-mania.jp/iphone18-604281/
+・【本日みつけたお買い得品】ロジクールのコンパクトキーボードが3,720円引き。Bluetoothで3台接続対応（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2131750.html
+・「Chrome」で「Firefox」が動く……!? WebAssemblyで実装された「Gecko」エンジン／意味があるかどうかはともかくロマンたっぷり【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2131534.html
+・X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/09/2000000464/
+・「ユーザー名に含まれるアンダースコア1つ」を警察が見落とし無実の男性が18カ月服役、控訴審で無罪に（GIGAZINE）
+  https://gigazine.net/news/20260809-missing-underscore/
+・楽天銀行アプリで「楽天カード」の請求額を確認可能に（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2130659.html
+・Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/09/2000000463/
+・本や雑誌を開いたままキープできるキングジムのブッククリップ「ツイップ」レビュー、 伸縮してA6～B5判に対応（GIGAZINE）
+  https://gigazine.net/news/20260809-kingjim-twip/
+・「CHARGESPOT」2026年8月より小田急電鉄全70駅へ導入へ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2131654.html
+・オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015200151000
+・日本株の決算を読み解く 2026年度の会社計画では6割強が経常増益、共通点は？ 野村證券ストラテジストが解説（nomura.co.jp）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBMaDV1Mlk1bFE3Wl9iUFpXVU9nMHNkTzVBck1vQzZnenF0Um5HQnVYbFNLQi1RMzFQc0hhRWZNeXpKTldZellTSE1iMDc4Zlk5Um9jRU5Tc2JsY0pLcmcw?oc=5
+・「なりすまし広告」詐欺対策強化を 政府がSNS事業者に要請（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015199771000
+・ハイテク業界決算発表レビュー（barrons.jiji.com）
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9adHJfSHZPdF9yYlB0aDNSYWNnRmZTMEVZQ1VIZlZUeXhzWDBaSDM5OU1GYmJxeU5aNGF1RzlWaE9Rb3RmRG1ZUUFyTldZdw?oc=5
+・千葉 銚子 輸入サバ高騰で加工業者の約2割が倒産や廃業状態に（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/na-k10015199891000
+・プライバシー規制を競争優位性に変える方法 短期コストを超えて利益を生む戦略 | 戦略（DIAMOND ハーバード・ビジネス・レビュー）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mUDNiYl9UQVBvZlozTW5jQjl0OWFJaWRsaWMyWU1oUEhWektKWWJpbGtFNVFFV0hUYVhuU3hUVzlkY0E1WjRmUDU1SDM5YUVNaGc?oc=5
+・千葉県の過去の雨雲レーダー(2026年08月08日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9QdF9vck1MTEdXODdlVGFuQ085UUJIUEpxYVdSOVllX1dCTmJ1WVFxcUtfdUQxN2lhaWd3WlBNZVNHTU9PTkQ2c1JfWno2ajhVQklNOFFfWQ?oc=5
+・【千葉県】8/9の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9nR2RIUFNyNkVmc2t5Qkk4Y29VWGY2aUQ4bGxMQmlob2V1bzJqUEVmQTJJM293QzdGcmpnRFRiOUdlVjVpM2tmUkdIcF9SR3k3M0NmZHI1d3ZKOWFqMnVmVFRDdWNqczA5UEFtVmRGQmNlbXJ4cWp2NnFsSFhBTzg?oc=5
+・千葉県の地震情報 | MBSニュース | 関西の最新ニュースを分かりやすく。（TBS NEWS DIG）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1PTkVmRWlPSU1sUEZLY2JaWkd3eTlwTmpDQlhKNnNQblNsZjExM2U0NHQzQkdGWFpudERUY2RwMnF2Y3dHeW1OM0NmNFNDckxuc25LX2xialg1M0xuWEw5LVV6MU9wM244V1E?oc=5
+・千葉県成田市「好きな駅」ランキング - 京成成田駅が4位、3～1位は（マイナビニュース）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NMC00eDdxRVN6QmxKNlVKUEt1YnBaVlVqUk9FRUg5V01vTTJTQnZucEUxbjJfNW80dUM1cU5TZVhRSEVvS2dXMVRHZHNBaGZ6Tm9KVVFhSXpuYVZn?oc=5

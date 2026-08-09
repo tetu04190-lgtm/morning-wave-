@@ -9,7 +9,58 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://tetu04190-lgtm.github.io/morning-wave-/cover.png"/>
-    <lastBuildDate>Sat, 08 Aug 2026 12:56:33 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 09:04:13 +0900</lastBuildDate>
+    <item>
+      <title>8月9日 朝のニュース</title>
+      <description>・【地震情報】熊本 上天草市で震度4 津波の心配なし（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260809de42935
+・長崎原爆の日 被爆者や遺族などが各地で祈りささげる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260809de42929
+・原爆投下から81年 “長崎を最後の被爆地に”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260809de42887
+・【熊本地震 交通影響】8月9日 午前6時時点（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260809de42931
+・【動画】Pickup NEWS（8月9日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260808de42858
+・熊本 きょうも各地で厳しい暑さ 復旧作業では熱中症に注意（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260809de42886
+・Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/09/2000000463/
+・日本の教育と生成AI活用 どう考える？ OECD局長が語る留意点 [AIの時代]（朝日新聞）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oRTJVa1NnM1hqR1pXNW95VS1NMEFwd08yZVhNTUxJYmVkQ2tQWXBlNTFaZDQ4ajRLZGN0SWtfZ0tpUi15aVZha29Fdk9KbzBRcFFmbDJac1JjSnd2akJ6SmpGaWZtdkU?oc=5
+・AI導入で浮き彫りになる日本企業の「構造的欠陥」、トヨタや三菱UFJでも増殖する「働かないオジサン」問題（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5qdFZSaVI0NUhHNUNvN202MFNlWXhSX3hDdHQ3N0FwTWtPLXY3LTJrcHF0SmZtci1aNzAtdlVfaUtfTUViM2drYjdjV04yUERVT3gyMUFENXloZC1uSENaZnNtUElLeFQ0d3paNkFCSkwxMkJu?oc=5
+・Google Chromeの新機能「Skills」 AIプロンプトの“毎回手打ち”を不要に（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2608/08/news011.html
+・OpenAI、AIプレゼン作成のNextSlideを買収、ChatGPTのビジュアル機能を強化（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE15bG1wdkY0ZHhKVFI0NHl4Zm1pUjRnSEdHN1JncWIwQ2U4d0loMV9tS2tjeHhtRUwyYkFkUEJmU1pVSEZoamFHU0cxTVdpOVdIdk9uNTVLdXo3WEFYZDk5NUx0OEw1OVJJYmFFZ3JEeTlxYm81?oc=5
+・AI利用は“許可制”に?企業の手綱とは?｜Newsモーニングサテライト（モーサテ）（テレ東BIZ）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xRDIyc2VqOHFDejZzY0lITzRXSlh3NG9JNHJLMzFxTkdaVGlxM3FQX28xb25VUlowb1lOTUlPMmxpQjVnZXg3WGhFdlBvZTZEOUJ3T2xnUmg3am1v?oc=5
+・Mac mini（M4）の中古品の販売状況を確認〜認定整備済製品の未入荷続く（iPhone Mania）
+  https://iphone-mania.jp/sale-604288/
+・【本日みつけたお買い得品】ロジクールの高級マウス「MX MASTER 4」が最安値！Amazonで3千円弱の割引（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2131751.html
+・デスクトップのサイドバーとしてWebページをピン止めできる「Demobar」v1.1.0 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2131736.html
+・iPhone17の増産計画を中止か〜来春発売と噂のiPhone18までの業績影響は？（iPhone Mania）
+  https://iphone-mania.jp/iphone18-604281/
+・【本日みつけたお買い得品】ロジクールのコンパクトキーボードが3,720円引き。Bluetoothで3台接続対応（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2131750.html
+・「Chrome」で「Firefox」が動く……!? WebAssemblyで実装された「Gecko」エンジン／意味があるかどうかはともかくロマンたっぷり【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2131534.html
+・X、「クリエイター収益分配プログラム」終了へ──「オリジナル投稿」に絞った新報酬制度に移行（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/09/2000000464/
+・「ユーザー名に含まれるアンダースコア1つ」を警察が見落とし無実の男性が18カ月服役、控訴審で無罪に（GIGAZINE）
+  https://gigazine.net/news/20260809-missing-underscore/
+・楽天銀行アプリで「楽天カード」の請求額を確認可能に（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2130659.html
+・Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細</description>
+      <pubDate>Sun, 09 Aug 2026 09:30:00 +0900</pubDate>
+      <guid isPermaLink="false">morning-wave-2026-08-09</guid>
+      <enclosure url="https://tetu04190-lgtm.github.io/morning-wave-/episodes/2026-08-09.mp3" length="6037200" type="audio/mpeg"/>
+      <itunes:duration>16:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>8月8日 朝のニュース</title>
       <description>・台風13号 暴風など長時間続く 厳重警戒を【中継映像も】（NHKONEニュース）
@@ -680,58 +731,6 @@
       <guid isPermaLink="false">morning-wave-2026-07-27</guid>
       <enclosure url="https://tetu04190-lgtm.github.io/morning-wave-/episodes/2026-07-27.mp3" length="6414336" type="audio/mpeg"/>
       <itunes:duration>17:49</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>7月26日 朝のニュース</title>
-      <description>・「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に（NHKONEニュース）
-  https://news.web.nhk/newsweb/na/na-k10015186101000
-・北海道 根室の断水 3日ぶりに全面復旧（NHKONEニュース|社会）
-  https://news.web.nhk/newsweb/na/na-k10015186591000
-・新潟や東北中心に大雨 関東も激しい雷雨に 西日本では39度超も（NHKONEニュース）
-  https://news.web.nhk/newsweb/na/na-k10015186311000
-・落雷で電柱から火花 東京 世田谷（NHKONEニュース）
-  https://news.web.nhk/newsweb/na/na-k10015186551000
-・新潟 江南区の一部に避難指示（NHKONEニュース|社会）
-  https://news.web.nhk/newsweb/na/na-k10015186571000
-・ドジャース 山本由伸 日米通算100勝に到達（NHKONEニュース）
-  https://news.web.nhk/newsweb/na/na-k10015186441000
-・MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず（ITmedia AI＋ 最新記事一覧）
-  https://www.itmedia.co.jp/news/articles/2607/26/news014.html
-・Fable 5に迫る性能、価格は半額 「Claude Opus 5」公開（Impress Watch）（Yahoo!ニュース）
-  https://news.google.com/rss/articles/CBMif0FVX3lxTFA5Z244MlhoT1lUUkV1c3ZTclZaOVJscXdxMXVqNmhocTh5ZDl3RXRRNjhaLXhkZlRCMWJhVGp2ZkdyQy1tQUR6cVZyUEFXZDFwQlBqV0hPYlVCbGpZbUctSTAwMllYYnBGRUtzMEdyQlNLelpfeXFfVnEzZURTSmM?oc=5
-・AI導入に走った中小企業、置き去りにされたルール整備（Forbes JAPAN）
-  https://news.google.com/rss/articles/CBMiWkFVX3lxTE42TmlYRDhoLXV1UW13YVBXSTIxUXN4YW02d1B6d1Z3UXNIdXgwektOVmRFWnpJdjV3UElrSmdzUzZpLTVFOGVRSGFlbWk2bElObUlIS3JvWTFnZw?oc=5
-・Anthropic、「Claude Opus 5」公開 Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも（ITmedia AI＋ 最新記事一覧）
-  https://www.itmedia.co.jp/news/articles/2607/25/news016.html
-・「Claude」Anthropicが開発したAIモデル／AIチャットボット（窓の杜）
-  https://news.google.com/rss/articles/CBMia0FVX3lxTE5ISHduLXZ3bE9ERkx1a1YzX1l0SVNZNmZCbHhQLVlPXy05XzhPQkpzYm12cnJiOGZxajI4dnl6dHlWbFhBZ3FVQjAtVUEybk5ZOVBGYmNHVzF6WF9FMmhQUUZpUnZZVmVjT2Jr?oc=5
-・【500名規模のIT企業でAI営業支援CRM「ProSales」を導入】Salesforceからのデータ移行に加え、AI活用を前提とした営業データ基盤を構築（PR TIMES）
-  https://news.google.com/rss/articles/CBMiakFVX3lxTE5qMlVQTWhiRlFtaEhHcEoyQkRfelFvR2FzX09MSmk5N2NBRTlydmRxak15NUh4Zy1rVDI0UTl0SUdFd2pUVUw3d3h0SVRMd2RoaV96THlQOWl3NWZLZFRDbGhsNHZ6WHlfRmc?oc=5
-・1977年販売のApple-1が競売へ〜動作品は5,000万円予想（iPhone Mania）
-  https://iphone-mania.jp/apple-603908/
-・【今すぐ読みたい！人気記事】コミュ障を自認する筆者が「Even G2」に頼った3つの理由（PC Watch）
-  https://pc.watch.impress.co.jp/docs/topic/readitnow/2127826.html
-・デスクトップに常駐するリマインダー「scheduleReminders」v0.2.6 ほか【ダイジェストニュース】（窓の杜）
-  https://forest.watch.impress.co.jp/docs/digest/2127818.html
-・Apple進化版Siri遅延訴訟が決着〜最大95ドル支払いへ（iPhone Mania）
-  https://iphone-mania.jp/apple-intelligence-603906/
-・【今すぐ読みたい！人気記事】ドコモのホームルーター vs 固定回線。速度・料金・手軽さで比べた結果……（PC Watch）
-  https://pc.watch.impress.co.jp/docs/topic/readitnow/2127825.html
-・「Google スプレッドシート」で複合グラフの作成が簡単に ～Excelとの互換性も向上 ／［グラフの種類］で［複合グラフ］タイプから選ぶだけで作成可能（窓の杜）
-  https://forest.watch.impress.co.jp/docs/news/2127760.html
-・Meta、Facebookに無料の認証バッジ「Facebook Verified」 自撮り動画で登録、「Meta Verified」とは別（ITmedia NEWS 最新記事一覧）
-  https://www.itmedia.co.jp/news/articles/2607/26/news015.html
-・美しすぎるフリーレンたちをワンフェス2026[夏]の会場で見てきた（GIGAZINE）
-  https://gigazine.net/news/20260726-frieren-wf2026s/
-・「Yahoo!天気」が服装を画像で提案、生成AIの「天気コーデ」（ケータイ Watch）
-  https://k-tai.watch.impress.co.jp/docs/news/2127595.html
-・海外の新作バカゲー「電車アタック」にマンガ家が感心した理由 ブッ飛んだ内容と完成度の高さ、そして“日本”（ITmedia NEWS 最新記事一覧）
-</description>
-      <pubDate>Sun, 26 Jul 2026 09:30:00 +0900</pubDate>
-      <guid isPermaLink="false">morning-wave-2026-07-26</guid>
-      <enclosure url="https://tetu04190-lgtm.github.io/morning-wave-/episodes/2026-07-26.mp3" length="5803200" type="audio/mpeg"/>
-      <itunes:duration>16:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
