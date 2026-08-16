@@ -1,0 +1,68 @@
+・トランプ大統領 米韓合同軍事演習“縮小を指示”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260816de44424
+・【動画】Pickup NEWS（8月17日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260816de44403
+・千葉豪雨 死者10人 千葉市で車約2500台が路上に残る（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260816de44428
+・車いす利用者 送迎車での死亡事故7年で30件 消費者事故調（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260816de44410
+・JR外房線 17日朝から代行バス運行 一部区間で運転見合わせ続く（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260816de44432
+・熊本 天草 お盆の帰省にあわせ二十歳のつどい（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260816de44391
+・外資AIベンダー襲来、システム開発の“垣根”消失…… 新生TISIはどう対抗する？（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2607/29/news010.html
+・Claudeの隠された電子透かしに、テック業界関係者は懸念を抱いている。アンソロピックはいくつかの回答を示した（Business Insider Japan）
+  https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVlVUTEtNUdoMm5oeDJwdld5NkdvVzlaX2JvQ1VMRk1pYlg2Z0xGRXZuejJ5eUVEbmhueVpET25XWkwtbEtEQjVOYWFWMkk1T1BkaUYyWml6WUh1M01nd3VrUGR0Um5uUVRKN0h3WlRVRGZIWDlLdXFiV25QUGN2TGx1b2NVdmtOS2NGcWcxQm90d3dHVnBlMDNkLVk4RlQ1MUhJMlpMUWdZX2M2?oc=5
+・Microsoft 365一強に挑むAnthropic 2万社データで判明した企業AIの使い分け：企業が“マルチベンダーAI”を使う理由（ITmedia）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE14TTFlY2ppWWhVellUZU80dUxydktaOTRFcGNkblVDYktqMUROYjVDQjk3b0ZnanRYUWxyaGVWVjRWQ0lpaVRfQzhQb09zSS1aM0ZHX1BQWHhua3A1dXhFSmMyTzZMRWdwUnpQWA?oc=5
+・現役組み込みエンジニアがAIを業務利用して分かったこと――期待と限界と現実解（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2608/17/news019.html
+・【Claudeが示す落とし穴】AIが賢くなるほど、人間の判断は怪しくなる（thinkit.co.jp）
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qMFk1ZVAtcXRaaVdZWm05V1ZHSm1vLVJWRWNxX1owZEpJUDdnU1dNcDhSSFJhMmY4MG5CbXFNaWN3UE9wQmdyVXdZRQ?oc=5
+・【デジライズ】累計600社のAI導入支援実績をもつデジライズ、ローカルLLM構築代行「トリデAI」を提供開始（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1KUUtjVHIzV3Zna1piMTh4aFhDTHBKaXJsQ2wwR3VOX2lMb25FRHZHRGI0MzdXN25Ca25MOGJIMmhDV0VBUmJpVUZ1dm9fYTk3bXJ1QkctYThpR1diVDlKTVkxaTJsdjAwTEE?oc=5
+・iPhoneのアラームが自動で止まる！ショートカットを使った自動停止のやり方（iPhone Mania）
+  https://iphone-mania.jp/manual-604583/
+・【今すぐ読みたい！人気記事】Windows 10サポート終了で余るノートPCを「ChromeOS Flex」で蘇らせよう（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2132978.html
+・【アップデート情報】窓の杜収録ソフト 8月17日 ～「GitHub Desktop」「Discord」「Copilot Keyboard」など（窓の杜）
+  https://forest.watch.impress.co.jp/docs/update/library/2132843.html
+・iPhone 17 Proを海へ！20m対応ハウジングで撮った水中動画をチェック（iPhone Mania）
+  https://iphone-mania.jp/iphone17-604571/
+・メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html
+・上下左右のタスクバー、新しくなった［スタート］画面がRelease Previewチャネルに／「Windows Search」も強化、Web検索を無効化することも（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2132963.html
+・「Claude」の“見えない透かし”、Anthropicが仕組みを説明 「完全な書き直しなら消える」（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/16/2000000555/
+・自家製ロケットを打ち上げて雷を誘導することはできるのか？（GIGAZINE）
+  https://gigazine.net/news/20260817-trigger-lightning-homemade-rocket/
+・二宮和也とアイナ・ジ・エンド、ドコモ「ahamo」の「Google Pixel 11」新CMで初共演 メイキング公開（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2132891.html
+・「ほの暮しの庭」はホラーが苦手でも大丈夫！ 怖さを上回る物語とスローライフの魅力をマンガ家が力説（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/16/2000000552/
+・女性創業者のスタートアップが株式上場や大企業による買収を達成しにくいのはなぜか？（GIGAZINE）
+  https://gigazine.net/news/20260816-women-founders-start-ups-exit-less/
+・グレードアップした新モデル「Galaxy Z Fold8 Ultra」は本当に“Ultra”なのか（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/review/2132887.html
+・高性能AI対策検討の官民作業部会座長“地域金融機関を支援へ”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260816de44412
+・決算発表一巡で判明､1Qで通期計画の半分超を稼ぐ割安16社（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE55UFBlNVNwM2lqMG55ZjE1RmhxQjlGM3hlcElzWk0wazdGZWs0WUdXZHIxdVgyTnZWaUxJWkpHTktwNHhwZm9PVExwbmNURU5GS3JhSGdxdw?oc=5
+・熊本地震影響 トヨタ田原工場で再開 ホンダは停止続く（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260816de44413
+・本日の決算発表予定 … ビルファンド、Ｊプライム、三井不商業など 6社 (8月17日)(株探ニュース)（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOUGRsdFAyTHJDZDFKRm9ZdEJNU0tqemJVRjJyWS1Ebm1TQTVtbGw0ODNycGljLVpLQ2N2bzFGQ1pMb3oycy1xSnNvQnJETE16bmE4SXk2eHNFZF9HT19HcFFmYlN6eTFxTkJBdHUxUEQzNDh2WE15UHVPcW9PQWZmM1duUmQ3Tjg?oc=5
+・食料品の消費税減税の地方減収分 国で補てん検討（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260816de44414
+・Synspectiveの決算内容を解説・考察｜2026年12月期Q2決算 - space-connect.jp（"決算 OR 業績 企業 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE9xU3NZVXZpcGpJT1hFVVlNYlhJY0VjMW1LNjVIZlVTUTBkSmNTd2Y5WDJndUItUFlHelVJUFNqcGJqTThjNWFyNUlBWDNIRTVWa3NPUkdDcw?oc=5
+・【印西市平和祈念式典】令和8年8月（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kczZFaGlDNFkxbjNKS2NydldKTlVtUm9kaVJrNDF1cmJpa1NnWmNxU2g1OWhVRjlJS1VMLS10R3dBRklBVlNaOFRROEY3WTB6a19WWEduZElKdjlzRWEw?oc=5
+・千葉県を中心に濃い霧が発生 通勤時間帯は車の運転に注意（weathernews.jp）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPTVFKdHpwb3pUVFdwZGI4MHBpUVlHUDdDZi1SLVEtOXZKYzNUY1VfcU10QTJYTTVLbXEtR3BVdEZnUjBnQlVWMUlRNDdMdjNSWjBvRQ?oc=5
+・【千葉県の大雨による被害を受けられた皆様へ】ガリバー千葉ニュータウン店からのお知らせ G014041786854099538（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE80Y2dkYTFQMllSUUI1VnpjNDJ1WGVhTlFyN2ZTY2xqZmE1OFg4VU1LdjVURHZVMlVHVXd6SzdhZFNuUGNrNFEwdVd0RVZIbkxxWXVyRlJzWDZneHBwNElMTHcwT2t5TkpOb29hSm9HNkJvUjVsTHU0dlZvdEM3NVk?oc=5
+・千葉県の過去の天気(実況天気・2026年08月16日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE43LW50UlkwS1RLXzNtZkp4TkM1VWZ4UTJDYmJSQkh4ZXdyWkFNY3hMUnVLSUltZW1STFNBbDk1RnpsX01EcjBzaTZpR0tLbGlqcHdpUEJJZXJZdw?oc=5
