@@ -1,0 +1,68 @@
+・【速報中】高校野球 準決勝 横浜が先制 智弁和歌山をリード（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260819de45038
+・西日本中心に猛烈な暑さ予想 熱中症対策の徹底を（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260820de45196
+・鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260819de45169
+・熊本地震 熱中症対策を 最大震度5弱程度以上の地震にも注意（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260820de45198
+・米大統領“海峡掌握”イラン 欧州の米軍関連施設攻撃も視野か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260820de45195
+・【動画】Pickup NEWS（8月20日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260819de45141
+・モデルの利用料金は安くなっているのに、AIの総コスト上昇 「パラドクス」の背景を解説（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2608/20/news022.html
+・Claude・GPT公開に「待った」連発…米トランプ政権が目論む“中国封じ”のAI戦略（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXMnhXNFB0U1I2aVE4TnVqUFIyRUdrRncwdlQ0al9SZ2lvZXlkYUpKMTczd2ctTG5vSDM3eXpoM1dYX2RWWEQ0Y2NzbFM1MVRiUGQw?oc=5
+・AI導入で成果が出ない企業へ 26名分の業務を1名とAIで担えた理由（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB3YVlWY3Jfd010Zi1NVnRqd01JenlJM2hZMi14S3ZqRGQwX3d6Tlp2RjdiLUJJOXd1S3d4ZGUzWmhYMEp0QlNNcWJwRHFEUE51eGszdGlrZW9UQ2FOR0ZLUzVzQlpiSEVMZE5DRWZKQUZuV2FRSmstcV8ydG1XT2M?oc=5
+・高度なAIのサイバー攻撃、どう対策？ 企業が知るべき「スピード格差」の埋め方（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2608/20/2000000584/
+・【セミナーレポート】生成AI・AI・RPAを使いこなす！～事例から学ぶ業務活用と庁内浸透～【Day1】（ジチタイワークスWEB）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Nc0FjWU16ZWJZeUJEXzNzdkJubWJtQnBiZkUxNzl1eGw3T1pnY3R5RlNEWVNYS21iMnRPU3dmTi1lNncxSmhxR3ZwWGU?oc=5
+・【中小企業経営者1,015名に調査】AIエージェント導入の壁、1位は「経営陣の思考の言語化」！経営者がAIに求める条件とは？（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBsaUZ1ZWNxOVlZSnhZTVpoWjFxNVRSTFA2SFh5U0ZSQXNVLXdjYTB5UzRvVzlaR2lSbkMySkF0VHRlODlJVUlEY19CRWxLYjRpaGVMRHMzLXJIVWw2MlV4VWJQRGJ0NmlTV1E?oc=5
+・iPhone20周年モデルと折りたたみiPhone追加モデルの怪しいイメージ画像（iPhone Mania）
+  https://iphone-mania.jp/iphone18-604668/
+・【Mac Info】8GBのMacが快適なワケ、ユニファイドメモリと「メモリのやりくり」の合わせ技（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/macinfo/2134041.html
+・登場から約1年、「Excel」の「=COPILOT()」関数が2026年9月14日で廃止／一般提供に至らないまま姿を消す（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2134050.html
+・ソニー WH-1000XM4Cの画像と仕様が判明〜日本では税込33,000円前後か（iPhone Mania）
+  https://iphone-mania.jp/goods-604662/
+・【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【ベンキュー製Mac向け4Kモニター「MA270UP」】（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/present/2134003.html
+・無料メーラー「Thunderbird」v154.0が公開 ～Microsoft Graphを利用した接続が可能に／55件の脆弱性を修正、全ウィンドウを閉じたらタスクトレイに格納するオプションも（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2134044.html
+・Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/20/2000000634/
+・暗黒時代を経験したスーパーマーケットによる「経営コンサルタントには注意せよ」という提言（GIGAZINE）
+  https://gigazine.net/news/20260820-beware-management-consultants/
+・ソフトバンクが清水寺で挑む景観と5Gの両立、混雑する清水の舞台で下り445Mbpsを叩き出した現地対策とは（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2134030.html
+・日本は「月面輸送」を産業にできるか？ 三菱重工と組んだispace、国産ロケットを選んだ3つの理由（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/20/2000000582/
+・AIによるディープフェイクがミステリー小説にも影響を与えていると推理小説家が解説（GIGAZINE）
+  https://gigazine.net/news/20260820-ai-deepfakes-changing-rules-crime-fiction/
+・グーグル「Pixel Watch 5」クイックフォトレビュー（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/review/2134018.html
+・FRB 7月の会合議事録“利上げ必要の可能性高い”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260820de45199
+・GAFAM決算解説 ハイパースケーラーのフリーキャッシュフローの動向が焦点に 野村證券・村山誠 | NOMURA ウェルスタイル（nomura.co.jp）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VSWs2RGp3Wm1xRWNRSEVlcnhnLVptTDZhQ3k0S1JsVHhQUVE3RzdKd0FmOVF4RzNDLTZ3c0tDMWh6My1xMFFwUll3Y2lQQldTdldSRklQNzhTT1BWWkNr?oc=5
+・経産省 来年度予算案の概算要求 7兆7千億円規模で調整（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260820de45186
+・【日本株】最新決算で“買い＆強気”と診断された5銘柄を解説！コスト高対策の値上げ検討が好材料の｢サイゼリヤ｣、高配当＆自社株買いが魅力の｢清水建設｣に注目（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE52RXVUQmxYSktDWDNPOXNSYm5yT184WnBObHNaeTBGbk5ta2JpcHdjbkhOYXdKd09jWXNlUXZDekZ3cGctX3I3ZlhiUVl6MjZhc0Jr?oc=5
+・米財務省が国債買い戻し倍増 長期金利上昇を抑えるねらい（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260820de45184
+・ビッグテック決算を揺さぶるAI未上場株の評価益、オープンAIとアンソロピックの覇権争いが示す実態と課題（JBpress）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sMWpZMFNCcFhpX1hRRUc5bnE1Tm1OdUM2aDdEMkt0bnN3aWtmdEp3WXM5WHdtZ0xNWE1vOE1NMFZnQkY0YU96TTZDbTh3b3VnTDZuZ1B3?oc=5
+・女の気持ち：優しい孫たち 千葉県印西市・今野礼子（主婦・70歳）（毎日新聞）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qZ0pTdUhWTmxFd2pZc2JDOFJlTFZ2dDVxTUdtZEN1NDIwM1hiYzhhTXVFWTRFaWwweWFuYzJ1WTNYWFV6WVJUZnktenQ5NF9qQ0xOb0lRTkg1bHpqYlo2LTRQMjljbmNF?oc=5
+・台風18号(2026年)の千葉県の暴風域に入る確率（tenki.jp）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IZXpHNDltWE4yUmpRSEFFUVhwdkxFRnZheG5mc1hzYnBXUkNuMW1ad2RjMDJJdHdaZDM1M1U0ZEYzc1FUUEdqVFFtOVJkcFhPYU41SVRCMDZHV2t6?oc=5
+・グレイ・ミッション イオンシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DVmQyNzlSTU4zZGMzY29VR1BpWjlMYmNjMkZkOFJLVGdBY3puZjNJQk55akpGbUdtUU4yM2lmN08tV011U2E0QkdsbENLODRaM1o2Uk1Sd2EyMTV3RlRSaQ?oc=5
+・田村の工事現場から電線ケーブル盗んだ疑い 千葉県の会社員逮捕:福島ニュース（福島民友新聞社）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ucjdsdWxYTWxEUWhyaXBTZ2NhZUhNaERxQU1FLXprY1Rad3V2RFIzeVRrU2ZfR1RFdEdkQTZBc3AtOE5vcmRPNmx3WGRBNF9jRExoLU9fNTM2dWFhY0dTa1o0Ql9LSHp1?oc=5
