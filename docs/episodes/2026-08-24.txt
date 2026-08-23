@@ -1,0 +1,60 @@
+・大分で39度予想 熊本も危険な暑さに 熱中症対策の徹底を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260823de45898
+・【運転再開】小田急線 新百合ヶ丘ー町田 上下線（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260824de45929
+・台風18号 あす以降 沖縄・奄美に接近へ 早めに備えを（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260823de45899
+・【動画】Pickup NEWS（8月24日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260823de45893
+・東武鉄道4人死亡事故 複数のミス重なった疑い 警察 経緯解明へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260823de45906
+・経産省など 家事支援・ベビーシッター利用の税制優遇を要望へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260823de45888
+・「非エンジニアに役立つかで価値が決まる」 たった1時間で開発したツール、なぜGitHub史上最速で伸びた？（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2608/24/news010.html
+・日本企業のAI投資「成果あり」はわずか13％ アクセンチュアが指摘する“人任せ”の限界（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2608/24/news047.html
+・「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決 「赤羽店の寝具の売上高を出して」可能にできたワケ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/business/articles/2608/24/news058.html
+・口コミ増やしたい、でも“AIが書いた感”は抑えめに……カインズ、「自社商品の投稿」促すAI機能どう開発した？（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/business/articles/2608/24/news059.html
+・AIを日常使いに 西尾市役所が取り組む「少人数対話型」生成AI研修の狙い（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/articles/2608/24/news032.html
+・こんなところに野良AIが？ 事例で解説、実際にあった2つの発覚パターンと防衛策（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/articles/2608/24/news039.html
+・iPhone17 ProのデザインをGalaxy S27が模倣？CADデータが流出か（iPhone Mania）
+  https://iphone-mania.jp/iphone17-604858/
+・【ギア推し】あ、これゲームをやめられないやつだ 240Hz対応ARグラス「ROG XREAL R1」（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/gamingdevice/2134391.html
+・Windowsのコード署名インフラが刷新へ ～2027年にはポスト量子暗号へ移行／まずは2026年10月の「Windows Production PCA 2011」期限切れに備えよ（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2134818.html
+・Apple Watch「国立公園チャレンジ」が本日開催〜限定バッジとステッカーを提供（iPhone Mania）
+  https://iphone-mania.jp/apple-604844/
+・【やじうまミニレビュー】充電用Cケーブルがハブに合体！エレコムの“神アイテム”は本当に使えるか試してみた（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2134828.html
+・「Microsoft Edge」に12件の脆弱性、修正版のv151.0.4129.101が公開／いずれも「Chromium」由来（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2134815.html
+・中国の動画サイト「bilibili」にグローバル版アプリ 日本でも配信開始 まずはAndroidから（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/20/2000000643/
+・画像がAI生成かどうかを判別して出どころを調べるGoogleのAIツール「Backstory」はメディアのファクトチェックを迅速化している（GIGAZINE）
+  https://gigazine.net/news/20260824-googles-backstory-ai-generated-detection/
+・[本日の一品]Windowsの「サスペンド復帰失敗」を250円で解決する、人差し指の代用品（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2134831.html
+・TikTok、児童プライバシー訴訟で4億ドル支払いへ 米司法省と和解（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/23/2000000701/
+・経済的に苦しい人は「国としては景気が良い」と考えているとより強い無力感を覚えるとの研究結果（GIGAZINE）
+  https://gigazine.net/news/20260824-good-economy-financial-strain-powerlessness/
+・[みんなのケータイ]Pixel 11は「買い」なのか、3つのAIと“占い”で確かめた結果（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/minna/2133978.html
+・経産省など 家事支援・ベビーシッター利用の税制優遇を要望へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260823de45888
+・SNSの子どもへの影響 IT大手で被害未然防止の取り組み広がる（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260823de45889
+・アメリカ建国250年記念し自動車レース トランプ氏が開催推進（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260823de45833
+・【地震】携帯各社 通話・通信への影響確認されず（2:30）（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260823de45752
+・経産省 ラピダス出資に1500億円要求へ 来年度予算の概算要求で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260821de45596
+・円相場 小幅に値下がり 日米の金利差拡大が意識され（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260821de45564
