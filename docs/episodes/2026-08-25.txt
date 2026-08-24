@@ -1,0 +1,68 @@
+・イオンモール爆発事故 雑貨店運営会社 遺族に事実と異なる説明（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260825de46093
+・熊本地震“炊き出しでイスラム教徒苦情”根拠ない情報拡散（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260825de46105
+・相模原 高校生死亡 車に追われ農道逃げ込んだあと暴行受けたか（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260824de46081
+・岐阜 大野町 住宅で成人とみられる3人の遺体見つかる（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260825de46099
+・新潟 阿賀野 巨大な灯籠押し合う催しで男子高校生が挟まれ死亡（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260825de46103
+・米財務長官“イランと取り引きある企業などに大規模経済制裁”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260825de46098
+・ランボルギーニのSDV開発やAI設計改善も、PTCが“アジア初”デモ機公開（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2608/25/news043.html
+・製造業の73％が「生成AIに仕事を頼みたいのに頼めない」理由とは（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE14SGF4ZTRLMTZ0U0Y3UFNZOUdMTXRyTTJfa1BmQUZ2RXdUS3N4TU43UjNVMzNoT25URzlqZ0pXVkxyY1hmTUt5TXpMY1RaR2JWOG0zbU5JY3RaUFFNN2RyY2RHbkIwYmNk?oc=5
+・AIで人を減らした企業がもう心変わり 「AIブーメラン現象」の実態：AI先行企業でIT人材の増員進む（ITmedia）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE90eGZfYXU3Q284dzV4MTJ5bE9JTmxxbXl0eURZcF9vdFM3a1J2ZjRZejRkUDhISGV5Slp2eFMwMnF1T1NBQktzWmJsSHB6TC1QdWdackxxZzRkVkFJb21kYVBwYklqZXdUaFlYcg?oc=5
+・建築業でも「Claudeの有料導入」が急増 AI導入レベルが上がった企業を悩ます「新たな壁」とは（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2608/25/news041.html
+・更新：Claudeで広範な障害発生 Code / API / Cowork / チャットに影響、特定モデルでエラー（テクノエッジ）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1IaUhHaEFfX1JjWkg3a3RqRUMzTlgxTWMtUXExd0FNeWVKRGlLZHVqcm9xSG5Pa29sRGJJMDkwendKbjFwbVcxR2NVSk50QUhlYm9ZN09KRTZlc19MTU5GSXNiczFLTlVENTliV0lIV2g2cnNGaDV0NEdrOV9QWVE?oc=5
+・「AI導入が進まないのは、実はいいこと」Altman氏（株式会社エクサウィザーズ）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3SEFjcFRKMGxObFozQWkxTHhGUzZINURaNDBKSllidm9mU1RkUXk0ODZ0czFVWVBsdXpfWDJXUHZsYlBqTEVLMkxDZWZ3WVFlSEktTE9xLW5CT2Riem9LTW0xa2tYQUJD?oc=5
+・iOS27などのベータ7が一斉公開〜目玉のSiri AIのテストが進む（iPhone Mania）
+  https://iphone-mania.jp/ios-604891/
+・【西川和久の不定期コラム】小さな巨人、再び。Ryzen AI 9 HX 470+64GBメモリ搭載のミニPC、GMKtec「EVO-X1 Pro」（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/nishikawa/2135206.html
+・キビキビ、スッキリした「Windows Search」が間もなく製品版「Windows 11」に（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/insiderpre/2135196.html
+・Apple Storeが売り場替えを準備〜ホーム新製品の発売が近いか（iPhone Mania）
+  https://iphone-mania.jp/homepod-604878/
+・AIが最大3.2倍高速に、LFM2.5用ドラフトモデル無償公開（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2135116.html
+・Ankerのワイヤレスイヤホン「Soundcore」が安い！Amazonでセール中【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2135205.html
+・プールにはおしっこが何リットル混じっている？ 人工甘味料を基に計測 カナダチームが2017年に調査（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/25/2000000713/
+・NVIDIAのAIエージェント「AVO」がARC-AGI-3で100％を達成、同じベースモデルの別条件での評価は約30％で「実行基盤(ハーネス)」の重要性が示される（GIGAZINE）
+  https://gigazine.net/news/20260825-nvidia-avo/
+・[電子書籍人気ランキング] 電子書籍人気ランキング（8月14日～8月20日）（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2135170.html
+・「まるで奇行種」――とある人型ロボの爆走フォームが話題に 中国のロボット運動会400m走で優勝（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/24/2000000730/
+・Omarchy Linuxを支援する非営利団体Omacom Foundation設立にジャック・ドーシーらIT業界重鎮から10億円超の寄付が集まる（GIGAZINE）
+  https://gigazine.net/news/20260825-omacom-foundation/
+・[本日の一品]毎日の献立作りに疲れた私にドンピシャ、ヘルシオの生成AI「クックトーク」が余り食材からレシピ提案してくれた（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2135102.html
+・来年度税制改正で個人向け国債の優遇措置要望へ 財務省 金融庁（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260824de46072
+・好決算ラッシュで輝く！ 27年3月期「早くも上方修正」の厳選6銘柄 ＜株探トップ特集＞（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DMGtVTmhraEZBSHZRTzZHRXFfdDZMVE52N0hEdTFGVVNJeVdodEhCaTZFM1NFX0kxRi1KeDNuZEFqekVUYkt4Qi14bngyaHI2LW1nX0gyaGtlTjF1UUNCeA?oc=5
+・コンビニおにぎりや回転ずしで値下げの動き（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260824de46060
+・【2026年版】設備建材メーカー売上ランキング、LIXILが1位 増益企業が増加（リフォーム産業新聞）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1UUNVMFhFbjJkTmRKSi1VTmY5MXA1T0w0Z0ZoSHRxQ3QwQm42QVlRMlBWaUhuRWpmVzJhS1pMdWdfMDdVZ1ZSaFJjQTdQZjdVT1JLN2lpUlo0VW5QcC1ISXYtSmlzQ0E?oc=5
+・円相場 イランへの経済制裁見据え値下がり（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260824de46046
+・見落とされがちな欧州市場に潜む割安株 | WSJ PickUp（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBUQmQ2TmRhbUp1Z1h4eWZqNkdTVXRnNlQ5bVRVNlFfbDFGUGtWSzRSY29BUGtHUDRXY1VqUTBnT00yQXBham1acUhfdWY?oc=5
+・【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVGMxV1VPTnRIRXZXc2tiVTFqakZpOXdfa0QxRVIxWHpOZ0ctWk5SVEhoMVc0R2dvUXFSSWFnQzJQX3RNSzUxRTBNc1RHTnF3TXc?oc=5
+・千葉県の過去の天気(実況天気・2026年08月24日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPLTBtTzJaMVV4a0hWTzI5cXpFZFZuNjlvYnNHcVhiNTkxQWlvN0pMM2ZLakI4bDFGMERKUlBaU0JBeG0xSERCTmlqaG9kNlRkZ21fdEE0X3ZJdw?oc=5
+・米・ネバダ州で山火事が拡大 9万人に避難呼びかけ 人為的な原因か（TBS NEWS DIG）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wVDE3OEJiZlVpbnU1bHplVTNCUVpzXzJIS0pGaHJVYmVnaHZOLWY3ekxIckE4akgyXzU2ZnFURWlmMHBNSHNIWDFXNFA1NlVuWV8zOHQ5U0tOd0xBMnFIZUYyNndEUFk?oc=5
+・豪雨災害に見舞われた千葉県で、浸水して動…（47NEWS）
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kbGFpNTczZ00yTlpiSTZtRm5fNmlPTEg4bmUyOFI5TXlNNU5kZ1lsTmdMTmFNTVRoUGV6MzBkZW83NUVfUWZOLWJncw?oc=5
