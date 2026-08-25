@@ -1,0 +1,68 @@
+・台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260826de46333
+・【動画】Pickup NEWS（8月26日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260825de46261
+・西・東日本で危険な暑さ予想 午後は大気の状態不安定に（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260826de46337
+・高級時計窃盗事件 駅方向に逃走か 2人組の行方捜査 警視庁（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260825de46322
+・妊娠中期に暑い中を過ごすと「早産」リスク高まる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260825de46320
+・トランプ大統領 オンタリオ湖の改称検討 カナダとの対立激化（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260826de46334
+・AIエージェントがCAEを動かすとどうなる？ 人に残る役割は？（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2608/26/news007.html
+・Anthropicによる「Claude」への電子透かし導入を巡る議論--その本質とは（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PQUtkcngwZmNTR1hEcGFnZ0lYcFd5OFZ0b1h4U2Qtam5weEo5U3B6YVFfSWJGZ1BLaWJ6czFKS3RGSV9vdm5sTjBCV3h6LTROdTl3?oc=5
+・中小企業経営者「AIエージェントに関心がある」87％、なのに導入進まない理由（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Pbjd1Ym1iOHpIRGFxWFl5QXBkaUdCZFNVS0JXWXVfQkZwVWt6N2FzNVVaa2tob2JPSGFsSlhQZTVVaU9aeVNpNGUwbzRvQzNSNE1PMUE4dFlIdThNX0Njekx6RU8tZw?oc=5
+・「Jetson Orin Nano 2」は推論性能が2倍、エッジ生成AIもリアルタイム処理可能（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2608/26/news048.html
+・グーグル、企業向け生成ＡＩ基盤に法律業界用の新機能追加（ロイター）
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE5ETDN3M3BDSmxXVDJockUxd01maExuZXFHRWg5V1g3NUZUb0hpZUZWMlJWQmFtRDBjVmxvV3F1QnlzT3hhenAwc09FVkNnRHNLSjVBQXV3aU93U0NIX1hqX09LTjAzX2N6RUFTQTlScmtsQzNHWFNVVg?oc=5
+・「AIを導入したのに成果が出ない」のはなぜ？ IT投資の最大化を阻む「デジタル摩擦」を解消するDEX最適化─Nexthink（IT Leaders）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWelVtSjFBU0hYUVg0ZXpSSWFfWkxCWmstUnYtMjlfSGJlc2EweHdKeG9QZk9yQTg0Zm5XN0YzdDZnLUlnUkQyYWRXektJbExxLTdB?oc=5
+・【速報】Macの最高峰！M5 UltraとM5 Max搭載の新型Mac Studio発表（iPhone Mania）
+  https://iphone-mania.jp/mac-604930/
+・なんと8万7千円オフ！Ryzen 7 H255のミニPCが爆安。Amazonセール中 [Sponsored]（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/special/2135476.html
+・【Excel】数値の「0」は「未」、「1」は「済」と表示できる？ 難しいユーザー定義書式を記述する冴えたやり方【いまさら聞けないExcelの使い方講座】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/exceltips/2135525.html
+・【速報】M6とM5 Pro搭載のMac mini発表！9月22日発売（iPhone Mania）
+  https://iphone-mania.jp/mac-604924/
+・【プレゼントコーナー】PC Watch創刊30周年特別プレゼント企画【Anker製TWSイヤフォン「Soundcore P42i」】（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/present/2135553.html
+・【アップデート情報】窓の杜収録ソフト 8月26日 ～「Microsoft Edge」「Process Explorer」「nPOP」など（窓の杜）
+  https://forest.watch.impress.co.jp/docs/update/library/2135484.html
+・“ドパガキ”がショート動画を止められない理由 fMRIを使って若者の脳活動を分析 中国チームが研究（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/26/2000000739/
+・UnslothがAIの性能をなるべく維持しつつ省メモリ化する次世代量子化手法「Unsloth Dynamic 3.0 GGUF」を開発（GIGAZINE）
+  https://gigazine.net/news/20260826-dynamic-3.0-ggufs/
+・クアルコム、日本でロボティクス投資イニシアチブを開始、 「ロボティクスセンター」設立へ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2135434.html
+・「Mac Studio」待望の新モデル M5 UltraでAI性能は最大4.3倍に 512GBメモリも選べる（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/26/2000000778/
+・心臓は発作を起こした後に毛細血管から独自の「バイパス」を作るとの研究結果（GIGAZINE）
+  https://gigazine.net/news/20260826-heart-builds-own-bypass-after-attack/
+・クアルコムのCPU「Oryon」最新モデル発表、スマホ初の5GHz駆動と新キャッシュ採用（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2135548.html
+・来年度予算案で国債費を過去最大36兆円要求へ 財務省（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260825de46321
+・日米企業の好決算のマクロ的背景を探る ～GDPデフレーターからみた価格決定力と収益力～ - smd-am.co.jp（"決算 OR 業績 企業 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMickFVX3lxTE93bTRGcVB4NnU1Ml9EU2NONmhoQ2VPR18zUzZGRmRISW5YTllkckxNeVF3MkZSWndpejBSRWtNZ2ZXaFctOHhLd0hYbERDVXR3emRDYU5KSUVidHNUVUF6a2pXWUY4NGNHaTQ3UVNSVzVyZw?oc=5
+・政府 消費税減税で影響受ける農家などに給付金検討（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260825de46316
+・赤字から一転､今期｢黒字転換｣＆来期も増益見込む34銘柄（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFYmVvSHN3cXpodjlDOHlDd2V5bG9uSHFXcVlKTjlkWjdRWTlWeV8wWjY5ZUpBYmJzdUpITXJhbTlrVW9NVExEXzdEMjlzUjZZVmdMWVpCcw?oc=5
+・ことしの新米の「概算金」 大幅引き下げ相次ぐ 値下がり傾向か（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260825de46183
+・(株)ＳＵＭＣＯ【3436】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GbWxPUkVIXzNNMXZMckJaNG5YTW5FSXd2WDlRa1M2RWE0ZWtONWlDWko1bHRCWlNGWk55aE5WZjBlMDE3a1lPc2VRd1JEcWR4Smc?oc=5
+・【千葉県印西市】市制施行30周年記念事業 20人の中学生が世界へ。過去最長7泊8日の海外派遣研修を実施（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1RWTJkMHZ2YnlEeUNxMlNvNTRRTURSMmEzZS0wSXZjRDJHbEd2NzRIUU9hZlpHZ1JEQVpnT2tISk5LWTVfS2RyWmlhd01CUW1sS0hUYmlsaGFYbGhwWlNtTXE5bEFQaHBNRkE?oc=5
+・千葉県の過去のアメダス実況(2026年08月25日)(気温)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBnMnFaZVRudl9BTzc5RktPU294X2k4Z0U5emZkS295akxfcHBUVFhUTVhrUHZ5ZXhHQmRuTHdzazRkTklJSElCREE1dnZZb1FNQXA3NTlzcms?oc=5
+・ラスト・サバイバー イオンシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1nR211MW1naWJrOHNXMVR3dnU4UUZFZHFPUGRuSnh3LXJ1czlUSlNxV011dUZIanhFUENPUVNpZHVRaDZUc0xWT2p3QUhZZ25XQ0R0YnhPVU5hN1luVlYxWXdR?oc=5
+・千葉県ポイント還元終了へ 27日までに キャッシュレスで最大10％（千葉日報オンライン）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBsYnAyRDNnVExVMTk1UEFUZTFzb3NGOFlaWUJXemVfbnJMWTdYSVBJTjNQeHhybjlYRVlhSGtsYUdtZWdGaDNMQVE0ZFJIQnhzdV9jMXVyXzJ3Sm55WUpvSERlbnJPQWN6dXhsdWVtdnZfby01RGFfaDJHSVBVbjg?oc=5
