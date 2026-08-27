@@ -1,0 +1,68 @@
+・【速報中】石川 富山にレベル5大雨特別警報 命の助かる行動を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260827de46591
+・東京 台東区の強盗予備事件で新たに1人逮捕 リクルート役か（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260827de46672
+・【大雨被害まとめ】石川・富山 土砂崩れや道路冠水 浸水も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260827de46613
+・芸術家 草間彌生さん死去 97歳 水玉モチーフの作品で知られる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260827de46651
+・ネパール・中国の国境地帯で土石流“日本人5人と連絡取れず”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260827de46576
+・【動画】Pickup NEWS（8月27日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260826de46493
+・ヒューマノイド開発、「標準インタフェース」が不可欠に（ITmedia AI＋ 最新記事一覧）
+  https://eetimes.itmedia.co.jp/ee/articles/2608/27/news061.html
+・【ヤフコメで話題】「生成AIによる写真・動画の信頼性低下」「AI活用のルール整備が必要」 - 画像・映像の信憑性を巡る議論（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE51SlUyY05GNHkycWZBTWRkMUEzSk05UkowUkJkaFFMMEVybVJDT0xGdnVpWjduVlBNeEJLSlg0QkthbVZEVHZZTTNESEJSTzBWVlRadlRxbGpDUkp6aTdZS2pONnpabmJkU3l2Q1Q2bGwzRzM2bFJnS0ZjMkJVR0k?oc=5
+・中小企業AI活用支援のVALANCEが広島県進出 理研産業株式会社と業務提携し、地域企業のAI導入を支援（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbWtReE1lUVNRRUNyZnZNZDh6bERQRnRWTWlSSk1vWXl0VEhhNktYMlFpanV5QUhLdXNGRWtpejFiOGNSNUh3U0kyaG1CZ0Y0Uy1YdXpvczRsdzQxU3J3dHk3QW92OENDbnc?oc=5
+・MCPの新たなロードマップ公開 今後はAIエージェント対応、HTTP通信への統一などに注力（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/27/2000000831/
+・東京電機大×足立区「生成AIを活用したプログラミング教室」9/26（リセマム）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ScDhLMmRwWkdUSU5CNmQ1VzQxX2Z5Ti1zVlVjWTZ5SDVNR0JkZWdDNDFYV3o5TzlVM0VvczFiQ0dRdzg1dHhNZDRsYlI5NktPUElzVU16Nk0wckFF?oc=5
+・AIを導入して企業に真の価値を生み出すための戦略については、『AIの未来』第4章で論じられています。（Vietnam.vn）
+  https://news.google.com/rss/articles/CBMitgFBVV95cUxQaUkzYlpzbk9UVWZaVWpzMU9XdzJKTHU1Vi1CT3EzR1VPZFVnNE5FbFNjbHhnYm1iVjBBZ0d1U1BNZC04N3lTWXpGNTlaaDk2dllKSHZNaW1NN1JYcHBxaTBsb2xrNzVhdjk5eDFwd010aG91R1d0NV95WmVEdDBWSzAtQzhBcnU3bHVLMkZjOUdRVy1kZVctbmFSVmpoTGRPbnpLTk9LaXdqRlBwbUNua0dOT2ViZw?oc=5
+・中国版のイベント告知をGoogle翻訳すると「折りたたみ」〜偶然の一致か（iPhone Mania）
+  https://iphone-mania.jp/iphone18-604957/
+・Opus 4.8級を手元に！320Bのモデル「GLM-5.3-Flash」無償公開（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2136012.html
+・アプリウィンドウをはじめから最大化して開くアクセシビリティ設定がWindows 11に（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/insiderpre/2135959.html
+・Apple新製品発表イベントは9月10日〜iPhone18 ProやUltra発表へ（iPhone Mania）
+  https://iphone-mania.jp/apple-604948/
+・13万円台からの14型ノート「THIRDWAVE MA4」。Core Ultra/Ryzen搭載（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2135991.html
+・Amazonベーシックのニッケル水素充電池が安い！Amazonでタイムセール中【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2135975.html
+・NVIDIA、Hugging Face買収で協議 2兆円規模で 海外報道（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/27/2000000837/
+・「あー」「えー」などを自動削除しつつリアルタイムで文字起こししできる音声認識モデル「Gemini 3.5 Transcribe」をGoogleが発表（GIGAZINE）
+  https://gigazine.net/news/20260827-gemini-3-5-transcribe/
+・グーグルが音声認識AI「Gemini 3.5 Transcribe」発表、言い淀みや雑音も自動補正（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2129086.html
+・10代のInstagram・Facebook利用を「1日2時間」に制限へ Meta、米訴訟で和解 最大約2.9兆円支払いも（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/27/2000000836/
+・Claudeの公式Chrome拡張機能「Claude in Chrome」が一般提供開始（GIGAZINE）
+  https://gigazine.net/news/20260827-claude-chrome-available/
+・IIJ、IoT向けに「IIJマルチプロファイルSIM 2.0」開始 1枚のSIMでドコモとKDDIを切り替え（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2136073.html
+・株価 小幅な値下がり（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260827de46674
+・Okta、2027年度第2四半期決算を発表（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5jOXBKXzFjc3htTHpTY05RbzFYb2gxRjd4N3hjVGV0R3BoMzJUbmN6aWRscE9MZWpBVU9pcEd6WjBWenNKckZIV3hwLW1vblF1anRXSldwazN6Z3pkYUNSR2lzdElrOGM3OVE?oc=5
+・アメリカ FRBのウォーシュ議長がジャクソンホールで初の講演へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260826de46449
+・【HRog決算解説】株式会社ワンキャリアの2026年12月期第2四半期決算から見える人材業界の最新トレンドは？（HRog）
+  https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDSk9iU3lpLVItT3NHejFiamlaaTg2OHFKdlZ1TklISF8yRUJxVnRqSUlNZnBndllPd3VxYnFSQkg?oc=5
+・中部電力 浜岡原発廃炉めぐり報告書を不正に改ざん（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260827de46626
+・NVIDIA決算、「メモリー高騰による利益率悪化に不安」 米市場関係者（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBTU0tsT1JtLS1RVjVvZUlEZHpyQ05QQlZGS0hjbFBnTzhzbWZNRDEzMWxLU2JpZEp2YS1LZjdoaW5NYWF2ci12NmVuTUtQbm5tOFh4N2Q3azFDZ0wyRVZTaElXZUw5NUljMXN1YQ?oc=5
+・USシネマ千葉ニュータウン「シェルター」の上映時間（千葉ニュータウン）（映画.com）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhT0VSQ0F6cDBMcjRLTWRhcWdKVnhQR0VxdFZPQzFQUnI3b2h0ekYxdk9OMjFXb0djRnJIRXVzWHpWaHhid0VwRTlyV2lCWHo2eFZFTDdESFI2QVpRMWdaQjR6UQ?oc=5
+・千葉県地球温暖化防止活動推進員の募集について（city.funabashi.lg.jp）
+  https://news.google.com/rss/articles/CBMicEFVX3lxTFB2ZElaRUljZHZBUXQ4S1c5cFBLTXBIOFlqdDhLc3p4WG1NMTZySlBCeU9Bc2lPNmVzX1hYLTUyeUFNQy10RWppb2pPeWVlVDlxRTJuQkYzMnoxVHpLMm5NeGdMNW9PUUFNajVHT25GQmc?oc=5
+・高市総理「日本人の行方不明者が5人と報じられ心配している」自身のX更新 ネパールでの大規模洪水発生受け（TBS NEWS DIG）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1sT3FMZXE2UnRMMFVTMFNvVTBtMkw1VmVqbWFaZzh5dXFvd2RJTlZVWnpHZmk2OV8wc04zOWRGR3lIbGd0MUtYd0E3aHJEZnQxR01ON0dVdzhCT1N5QTB2N25XaUZFTTlJeFBiQWFyVTZaQkNv?oc=5
+・【千葉県市原市】新庁舎建設に向けた先行工事に着手します（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1oeW5mZHNYbVZOUk9zS0NJY0JPWm96d0EyczlrazBJZE9BaGxpckZMR3B3cnRnODhrYXA5OW00cW1XVlg4azk5cTRZTUJwYUFwUEk1QWliQ2JTVFp5MjVMSnpwa3BUaXVqVFE?oc=5
