@@ -1,0 +1,68 @@
+・パワハラ認定された横浜市の山中市長 辞職届提出 このあと会見（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260828de46874
+・ネパール土石流 フェイク動画など複数拡散 生成AIによるものも（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260828de47020
+・インフルエンザ全国的な流行入り 8月の発表は異例の早さ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260828de46966
+・警察官の体に装着 ウエアラブルカメラ全国の警察で導入へ（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260828de46965
+・“周囲と行き来できず” 大雨被害 石川・富山で相次ぐ【詳報】（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260828de46876
+・旧統一教会に対する債権申し出 全国一斉の電話相談会（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260828de46914
+・Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/28/2000000901/
+・最高裁 生成AI活用検討でシステム開発費を予算計上へ（NHKニュース）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFBnMUtUcWxVVFE0QXJkQXBpaGJCdnZuYXJPMWpoWVpzbjVic3Jvbmx3amxjR1FNeWFmV1pubnRJMFZQalJ2d0VmYmlsdlBaVk9GcHBINGpzVFRHRlpIaHJz?oc=5
+・生成AIの導入は8割超、AIエージェントの本格活用は13.3％。Asanaが日本企業のAI活用の実態を調査（CodeZine）
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE9BX3dadTN4cnFuUDB5eFl5VkM1WHBqREswS3dnemp0TWlNOS04bjdpeERZS1lqZ0pwT09RQjM4WFQ3MjlsT20tYms0MlRfQQ?oc=5
+・Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/28/2000000897/
+・アンソロピック、Claudeとハードウエアをつなぐ新規格を試験（Bloomberg）
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFBTTGphbnFQTl9uX0pEQmh5alpSS1lHeTV2Y055WmZlQnhnRExLdGNGYlhCVUJLT0xPalQwbXd5eUFRaEdxNWFHejh1QmE2Z0pCa1kwc1h5Q3MwMXpPOW9NYVNGcHl2d3pRSjZIS0FiUTlrcDU5MHFZ?oc=5
+・bravesoftのグループ会社・ブレイブスタジオ、AI活用を「導入して終わり」にしない「AI FDE（Forward Deployed Engineering）」事業を開始（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9BeUN6OFFtVXNXQmZnSVR5M1J6MEFIRmNJajFLT3lOUnJKSjAzOWNlTGJjY2N0eEZFRjZyeGd4SkpEQmpjbEVKNmdsMzFXaXczU2RBcnJ4SE1PeUxuVXh3OGIzaFk3UXpvNUE?oc=5
+・新型Apple TV 4Kに4つの新機能か〜iPhone17の通信チップも載るか（iPhone Mania）
+  https://iphone-mania.jp/apple-tv-604992/
+・安心してください、ゲームできますよ。RTX Spark対応にEAやUbisoftら（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2136517.html
+・「秀丸」の使い方をAIチャットで解決 ～「Gemini Notebook」ベースのヘルプサイトが公開／「エディタ」「メール」「ファイラーClassic」のほか、関連ツールやマクロにも対応（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2136351.html
+・沖縄で撮った4K動画を外出先から自宅へ送れるか？UGREEN NASync DH2300の実測（iPhone Mania）
+  https://iphone-mania.jp/manual-604672/
+・「えーと」や「あー」を自動除去できる音声認識モデル「Gemini 3.5 Transcribe」（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2136518.html
+・世界中のライブカメラを覗けるサービス「とまり木」が話題、1,200カ所以上が配信中／カテゴリで絞ったり、人気のカメラを覗いたり……ザッピングっぽいことも【やじうまの杜】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yajiuma/2136348.html
+・ダサいスライド資料を作る大会が開催中 応募フォームもダサい（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/28/2000000902/
+・AIや企業によるカンニングを防ぎつつ最先端モデルをテストする方法をGoogleが考案（GIGAZINE）
+  https://gigazine.net/news/20260828-google-ai-evaluations-secure-environments/
+・サムスン電子とブロードコムの協業拡大、今後5年間で2000億ドル規模を予測（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2136545.html
+・Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/28/2000000901/
+・アニメ雑誌主要3誌の表紙を創刊号から確認できる「Anime Magazine Covers」（GIGAZINE）
+  https://gigazine.net/news/20260828-anime-magazine-covers/
+・TVerで「東野圭吾特集」、福山雅治「ガリレオ」など無料配信（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2136537.html
+・ジャクソンホール会議が開幕 FRBウォーシュ議長の講演に注目（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de46922
+・【米国株】好業績の株価への織り込み余地があるとみられる銘柄例（マネクリ）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LV1RLczRqaUh5MUpPZUxxaE94Q2RTbzI2R3Q5anJ5cnFINVBrWVNBbFpMSFV4Y3E3Zi1aYmxFSjNkTUNER0VOMTdZNlBTd3hLeUlGWVpGQdIBV0FVX3lxTE1LV1RLczRqaUh5MUpPZUxxaE94Q2RTbzI2R3Q5anJ5cnFINVBrWVNBbFpMSFV4Y3E3Zi1aYmxFSjNkTUNER0VOMTdZNlBTd3hLeUlGWVpGQQ?oc=5
+・株価 値上がり 半導体大手の決算受けたアメリカ株価上昇で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de46919
+・28日寄り付き直後のTOPIXは続伸､堅調な企業業績が支え（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5hd3VEOUVuSUpTODRCajRZRWtMRlMtNzAxdFg5bDNvdW0wRkEzajhkeWc3OU1VbUtscHlpeEd5czRXbDFTMXJ6dEYxM0ZwVm1hV0QtNnNwMA?oc=5
+・きょうのおはBiz 8月28日（金） “ジャクソンホール会議”とは（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de46872
+・決算:純利益の上振れ期待、ホンダは会社予想の4割超え 自動車や金融高く（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9fU201RzBvNFBzUWxjeHN0NjlDa19lSXRBQ1VBcUdzb2FPdGh0dE54eS1xYVI0RUpqRDhMcUY1aFJ2cVgtV3o3M1M4Um5RUmdBZDVlc1RyRXEwNFh5Z3hzOW00OUdINlVoZkx3WQ?oc=5
+・イオンシネマ千葉ニュータウン「ラスト・サバイバー」の上映時間（千葉ニュータウン）（映画.com）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYbU05dlZURFRXZmZCOGN1cHNpQU1tVGRKZzk4QnBNa3pRbGZoUW9RSzJSeEhYaGZ6YkpiNEtha2hnSkw3LXE0MjBPNUNoLVNDZHpvZUlVdWMtbWJ0VlQyamNBbw?oc=5
+・5度目の大阪開催！期間限定千葉県アンテナショップ（9月11日開店）（pref.chiba.lg.jp）
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFBWTmZjd2xGN3JHT1B3WElSZjllRE1KYlE4R1RMd05JWHp6UjJyWDNKZ0lPYTRYcmFoT2Uwb1dBVWg3Ykh5S1FublpUSzFXNUljeklTa0FOR25xX2oyeFVmMWhudWkxZ2I0alRCUlJQeDRuR1dKSEE?oc=5
+・新着情報“オデッセイハイブリッドe:HEVアブソルート・EX”2021年式プレミアムヴィーナスブラックパール入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUW5nNFR5U1Jmc3YxZDNTaUF6anJEaGdRTEVWYkowMGxaMlFfRzZCYnVDb0ZBeVhGdDBfZjVTeVFpWVM3MHZPX0tHWTJYQldwNUdmRDBjTXZrLS1PR2lKNFhOd0laY3ZMUl96S0NaOFZWdFUwQjR2cXU2dkFNRms?oc=5
+・浸水対策への財政支援、千葉県知事と3市長が国に要望（朝日新聞）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fb1JoaVE5SGNhcU44NWY4N1hQOExlVUtWRUNzdHBDNjBoOVAyWUQ3ZVNXX1dHcW8wNjFXV1BpbXdKSFdlY0FxQnQwS2ROSXpFbU1Rd0RNdmxCNVFVejlCd0FJWll3dnFKSml2bjg2YVJKRlFucHEwYVUyOG9JTTQ?oc=5
