@@ -1,0 +1,68 @@
+・鹿児島いちき串木野市沖合で2人発見 行方不明の中高生捜索中に（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260829de47141
+・ネパール土石流 586人が死亡 国連は支援を拡大する方針（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260829de47121
+・【動画】Pickup NEWS（8月29日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260828de47092
+・マレーシアの空港 東京発の航空機の車輪格納部から遺体（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260828de47107
+・鹿児島 いちき串木野市の海岸で流された中高生3人の捜索続く（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260829de47117
+・サンドウィッチマン 伊達みきおさん 脳梗塞で休養（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260828de47115
+・キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html
+・Anthropic、無料学習サイト「Claude Academy」公開 Claude CodeやMCP、AIの能力と限界まで学べる（Ledge.ai）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tM1puM0pWby1Oa2VBZDFjNkpDSnZia3diamhobDA5VVpxeVFibTNUYno0SGk0WTRlRHdjQlk0cXVxeV9adFRzQWhSQzJMeFdkVzBJVjIzZzFvVnhvY1hV?oc=5
+・なぜ日本企業はAI導入がPoC止まりなのか 日本TCSが挙げた2つの構造（ITmedia）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBRanljNnNVSkNRTUt3V2lPdWZKZHEwU1FBUWwxc3JwUWxJZlcwV0d1UndEVXpvN3ViT09PbXgwSTVUNEEwSzh5dDNDbGZjQU1VM2ltTEI0RC1TZ1lUR0x4SU84Rk1UTEVBVVliX3Y4MUVjbXY4?oc=5
+・チームみらい安野氏「高市総理へのAI家庭教師」を実施 総理が音声入力で作成したのは……（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2608/28/2000000919/
+・「ChatGPT Work」の使い方--AIエージェントを始める10のヒント（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NWHZxd2t1REJDR25aTW1ZeUhuTlJNY1hiZmlMdGRvc1FWend0U3haTlliSVBGZjlvNXZKeHFjQmRIM0w1LVVyUlNicGczMnB6cXhv?oc=5
+・デロイト トーマツ × エムニ、AIの全社導入の"その次"を示す製造業向け無料オンラインセミナーを開催（9/11 金）（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE0ybkVZNi1MV3l2NlJZOThDTmNfTlNubzU4QzFHSDlmcTN0ZGMtd2s3c3FqNVZDV0hBMjRvS3VkUS1rVW4ya29BODlTWnhXM0dRbnhUTGoyV0V3cUw4aXBlXzRXcW1SbVJTaHc?oc=5
+・iPhone18 Pro向け4色のケース画像流出〜カメラコントロールの動作変更なし？（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605001/
+・【本日みつけたお買い得品】Switch 2対応のmicroSDカードが3,640円引き（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2136714.html
+・「Stable Diffusion XL」がCopilot+ PCのNPUを使って約1秒で画像を生成（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2136322.html
+・iPad mini（A17 Pro）の整備済製品が日本でも販売開始〜 約15%安（iPhone Mania）
+  https://iphone-mania.jp/ipadmini-604999/
+・【本日みつけたお買い得品】キオクシアのPCIe 5.0対応NVMe SSD 1TBが4,300円引き（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2136712.html
+・GeForce RTX 5060搭載マシンと周辺機器のセット「スターター5点セット」が1位をキープ【マウスコンピューター売れ筋PCランキング［独立型GPU搭載モデル編 2026/8/28版］】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/moupcran/2135762.html
+・動画カメラは混沌の時代へ？ ミラーレス一眼へ乗り出すアクションカムメーカーも現れた2026年前半の業界動向（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/29/2000000906/
+・自宅に庭があったり近所に公園があったりする人は糖尿病リスクが低いという研究結果（GIGAZINE）
+  https://gigazine.net/news/20260829-garden-park-access-relation-diabetes/
+・ピクセラ、スティック型の4G LTEルーター「PIX-MT200e」をマクアケで販売開始（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2136521.html
+・大人向け「スーパーカー自転車」は和テイストだった リトラクタブルライトにRFID認証など装備満載（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/29/2000000934/
+・間もなくの発表が予想されるApple Watch Ultra 4のウワサまとめ（GIGAZINE）
+  https://gigazine.net/news/20260829-apple-watch-ultra-4-rumor/
+・動画生成AI「Google Flow」に「Gemini Omni 1.1 Flash」、低コストのサンプル動画生成や4K出力に対応（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2136619.html
+・米のイラン軍事作戦半年 ホルムズ回避の代替ルート構築進む（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de47041
+・日東紡【3110】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjY1dDUDZ3TTA3Ry1BQ1h3R3dMTnhjYmZ2UExDc0RRa2F3a1Z6WEhCdUhVbDlYb3AzQ2ItSUE0aHdqM05BYTBVWHNRb052a1BTYWc?oc=5
+・広島 呉の日鉄跡地 防衛省が売買契約締結 複合防衛拠点整備へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de47088
+・米主要企業決算 デル、ブロードコム、ＨＰエンタープライズ（株探）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOSy1SSWQyMWRqSFMtZU9tdlZ1cjNPSFlzMHVtSWswZmVjZWNFMnNuSnc5T0x3dFNrSkthZVN6cE1sNlEybkZvSEd3YW91bWc5Z2c?oc=5
+・円相場 小幅な値動き“FRBウォーシュ議長の講演内容を見極め”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de47068
+・来週の中国主要企業決算 なし（みんかぶ FX/為替）
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Hdmw5dENpNjRZYjJyMnlNNVNwTnE2NFFWeG1UNHVhV2VFU3RTZVF4SDRYY05MX2d1N2NIQWRla016Z19qdHYyeA?oc=5
+・シェルター USシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNNzNXY3NGSzJ6cmI3dVRVaE1UeEtDY202Y1h0VkJEZkVuUWk5MTlBdUZVb3p5cjROMGhDY2NMU3JycVZ4RmVJeVllSmZiOVh5a3BCRVpKNDNGSWFLYllQbXVR?oc=5
+・孤独のグルメ Season2 ＃7「千葉県旭市飯岡のサンマのなめろうと蛤の酒蒸し」 - tv-tokyo.co.jp（"千葉県 OR 成田市 OR 白井市 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxQVU9SbFRuUGFPV1IwYVdzNVpVY2lKWTlJN3BfdEJGRlFaTWptaXNOWVA4U29KRWpZWS04VnNVd2YwUnVBQmxvVWptdTh4alRocjBSd1g2Z0FHaV8xcklCcVpPQ1hUT2MwVjJEQnkyS2xIcWRQNHpPcWd2ZG1sWTl6eEFyNG1zT09icTZjVDk4STVXdw?oc=5
+・中東危機が問う日本の選択 求められる再エネと原子力の拡大 フォトギャラリー | TBS CROSS DIG with Bloomberg（TBS NEWS DIG）
+  https://news.google.com/rss/articles/CBMiiAJBVV95cUxOWXNIcVZGampBeElpVDZyN3E0Ym9oRE04WUpXRkhESWhPa3VMNXNpd3l1RFl2dk43RXpLNm5QWDgyQVMxRWJDU3U0MDh5YmRHOHAwMlp6MThPNlJkQkd5Vm5HQjYwQjVPVGlvY0R5QS1fa2ZqZ3ZlRDNySDBGTE1xWGtpT1B5alZuSVc3Y19hODZrUGh6VGZ6eEp1S3Fhb3ZaQ04ybE82Sk1TUnN3SmQ2c3kyaDl3T09IcUxDN0FrbWt2MXdweDkxTFRoS0ZSaTRRQXBpanIzMEVSREwwdXhEeTdaUngwc0JjeXcxNGJqclJTT2hVbXg4eXJVX0FlLVBHaGlVekJDOWU?oc=5
+・千葉県浦安市のタワーマンション付近で“謎の生物”と遭遇。珍しい姿に「ハクビシン…？」「クイヤ？」と推測の声（LIMO）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1pa0NBRHpLbF84WklkMEJLMmYtQVFGdEdDV0s0d21nQTZvcHV2SlVxTXBsOGNXdHhRcnF0aVE0ZmdLU19oMjRaSXoxbGdWSmFSaFdVSkdobXR6UEVQS3ZtME5zMW5aaXBwdU5KaTFYT0JmRjV5c2xhUS1KNk5mRjA?oc=5
