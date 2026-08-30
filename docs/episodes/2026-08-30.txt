@@ -1,0 +1,60 @@
+・福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260830de47200
+・福井 国道8号で冠水 坂井市の下り線一部区間が通行止め（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260830de47241
+・福井 大野 勝山の3市に緊急安全確保 命助かる可能性高い行動を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260830de47199
+・【福井 交通影響まとめ】鉄道で見合わせ 高速道路で通行止め（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260830de47239
+・【被害まとめ】福井県内 人的被害確認されず 建物浸水など情報（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260830de47209
+・北陸道 福井ICと金津ICの間 上下線で通行止め（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260830de47237
+・OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/30/2000000945/
+・キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html
+・チームみらい安野氏「高市総理へのAI家庭教師」を実施 総理が音声入力で作成したのは……（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2608/28/2000000919/
+・「国産ヒューマノイド」の作業風景を生配信中、3時間以上経過 「ベルトコンベヤーも自作」 アトム（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2608/28/2000000912/
+・「半導体はAIが設計、人間は監督に」 次世代EDAへの取り組み（ITmedia AI＋ 最新記事一覧）
+  https://eetimes.itmedia.co.jp/ee/articles/2608/28/news088.html
+・Hugging Face、あひる型ロボット「Microduck」発表 399ドルで予約開始（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/28/2000000901/
+・povo2.0で5G SAが利用可能に！iPhoneでの変更手順と注意点を解説⁠（iPhone Mania）
+  https://iphone-mania.jp/carrier-605040/
+・【本日みつけたお買い得品】Switch 2対応のmicroSDカードが3,640円引き（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2136714.html
+・「Stable Diffusion XL」がCopilot+ PCのNPUを使って約1秒で画像を生成（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2136322.html
+・iPhone18 Proの予約開始は9月12日（土）午後4時か〜折りたたみは月末？（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605035/
+・【本日みつけたお買い得品】キオクシアのPCIe 5.0対応NVMe SSD 1TBが4,300円引き（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2136712.html
+・GeForce RTX 5060搭載マシンと周辺機器のセット「スターター5点セット」が1位をキープ【マウスコンピューター売れ筋PCランキング［独立型GPU搭載モデル編 2026/8/28版］】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/moupcran/2135762.html
+・OpenAI、Cursorへのモデル提供を11月12日に終了 SpaceXによる買収が理由（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/30/2000000945/
+・ドードーは歴史家が考えていたほど愚かではなかったかもしれない（GIGAZINE）
+  https://gigazine.net/news/20260830-dodo-probably-not-stupid/
+・ピクセラ、スティック型の4G LTEルーター「PIX-MT200e」をマクアケで販売開始（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2136521.html
+・「FANZAスタジオ」爆誕へ 成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2608/30/2000000911/
+・無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴（GIGAZINE）
+  https://gigazine.net/news/20260829-chatto/
+・動画生成AI「Google Flow」に「Gemini Omni 1.1 Flash」、低コストのサンプル動画生成や4K出力に対応（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2136619.html
+・ホンダと日産「SDV」で基本ソフト共同開発など協業 近く合意へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260829de47171
+・米のイラン軍事作戦半年 ホルムズ回避の代替ルート構築進む（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de47041
+・広島 呉の日鉄跡地 防衛省が売買契約締結 複合防衛拠点整備へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de47088
+・円相場 小幅な値動き“FRBウォーシュ議長の講演内容を見極め”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de47068
+・イエローハット 最大で約180万人分の個人情報が流出か（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de47071
+・米国産ジャガイモ輸入解禁手続き 9月18日に進捗説明会（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260828de46937
