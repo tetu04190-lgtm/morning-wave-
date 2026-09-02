@@ -1,0 +1,68 @@
+・北日本で大雨 青森で線状降水帯発生 青森・秋田では厳重警戒を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260901de47704
+・【動画】Pickup NEWS（9月2日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260901de47685
+・長期金利3％超 日銀の金融政策や財政めぐる動きが焦点（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260901de47702
+・伊勢神宮近くの商店街火災 鎮火に向け消火活動続く（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260901de47708
+・G20は2日目の議論に 声明とりまとめに向けた調整も続く（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260902de47719
+・地下のライブハウスで地震が起きたら？防災の日に避難訓練（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260901de47698
+・3Dモデルから2D図面を数分で自動生成、個社の製図ルールにも対応（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2609/02/news032.html
+・ついに「Claude Fable 5.1」登場、実質最大45%安く、科学研究スコア2倍超。「Claude Mythos 5.1」も（PC Watch）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9aZ0ROQlVLd3VwOWNSLVZnUnRDSmxicDllUkhVTWx6YW1wbk9WTG5wNWd1SmVlYUtYNFpVZVNPVDg1em40SjNVbWk2UDRENTRlM1VPa0NoWGNlVW50eDBBVUI0aDF5WFpIN21QRTljN253X1Nzc2FNSEtWc1lNcFU?oc=5
+・モノづくりの現場にAI＝人工知能を導入 電気電子機器メーカーと東京のAI企業が資本業務提携 生産体制を増強しながら事業拡大を目指す 秋田・横手市（日テレNEWS NNN）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxQR2RZQ1VEdmJfN1hOMXAxZnlyb2pPOWp4cUFVM09nanp1c0Y2OG5DbVNBdHBTY21VckJzMTB3R0N0UEJEc1MzaWZKNmk2NU51MUk3NDRyeXFEdDN0M25OTFlaNDVCZllCZXU2YktJYzJUMnRyMDFDWHZQdlljcFo2VmxhYzRhRW8?oc=5
+・Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/02/2000001049/
+・Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示（ITmedia）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNGt3MldOLUMwSHVYd2pXODdBU3Z4S0JzZV9ocmxQNFphSEV6S1VYUDYwOV9YUlpmNW5PT3ZFeWU1cEtBQ2E2c0hoSEVmV0NKbW9TMUZ3eFpJUE9rdXV5UGFzLU92QWdKUGc?oc=5
+・【オンライン】AIで企業とビジネスが変わるAIPC導入活用セミナー サポート終了後も残るリスク AI PC移行で乗り越える（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTFB3Wk5uM204b0o4em1uWW8yeTFYaUc5OERGTjhycG1KTzc2cUk4UmRYQ3ladXdTY0VfNm11cXZrT3ZuT2pJWk5yZVZKNms?oc=5
+・iPhone UltraはAppleCare+加入必須か〜画面交換は15万円超と噂？（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605180/
+・ついに「Claude Fable 5.1」登場、実質最大45%安く、科学研究スコア2倍超。「Claude Mythos 5.1」も 〜全ユーザーの5時間ごとと週ごとの利用上限もリセット（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2137457.html
+・【Excel】やりたいことを実現するにはどの機能を使えばいい？ そんなときはCopilotに相談【いまさら聞けないExcelの使い方講座】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/exceltips/2137440.html
+・iPhone Ultraは9月発売の可能性高まる〜ただし初期在庫は極少数の可能性（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605176/
+・レノボのCore 5搭載ミニPCが約11千円オフ！直販でセール実施中 [Sponsored]（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/special/2137104.html
+・Anthropic、「Claude Fable 5.1」「Claude Mythos 5.1」を発表 ～性能をさらに向上／実質値下げの側面も、エージェントでは最大45％減、両モデルの違いはセーフガード水準のみ（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2137456.html
+・スクエニHD、非公開化報道を否定 「検討している事実はない」（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/02/2000001050/
+・江戸時代の街道の経路と所要日数がわかる「江戸時代の経路検索」（GIGAZINE）
+  https://gigazine.net/news/20260902-edo-routing/
+・「Galaxy Z Fold 8」の薄さを進化させた日本企業の技術――サムスン副社長が語る開発秘話（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/interview/2137447.html
+・Anthropic、企業向け「Enterprise Frontier Safeguards」発表 ログは顧客のクラウドに保存し、人手による確認も顧客側で（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/02/2000001049/
+・無料で5分間ほぼ世界中のどこにでも電話できる「Playa Phone」（GIGAZINE）
+  https://gigazine.net/news/20260902-playaphone/
+・[スタパ齋藤のApple野郎]iPhoneでサイクリングが変わる？ スマホと最新工具で走りが劇的変化（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2137442.html
+・株価 一時1500円超の値下がり 原油の先物価格の上昇で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260902de47733
+・26年9月の｢株主優待利回り｣TOP20と新設･廃止銘柄など（shikiho.toyokeizai.net）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE53bDF6T2lFX0UtZWliTlFUMEhHYlBRVDEzMWhUQkJqTURsc1NYRVRIaExLLVhLNXNEbEtJVmRVVUlMRGNVUHREUlpmRVppXzJjRGZwaVV1Zw?oc=5
+・G20は2日目の議論に 声明とりまとめに向けた調整も続く（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260902de47719
+・すでにJR東日本は｢鉄道で稼ぐ会社｣ではない…決算書でわかった1200億円かけて｢大井町｣で稼がざるを得ない背景（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5BdFE0R1M0Und5bjVDNzNCU0NHS0h2NUc2Z0Z0eDFMbjh5MDVvZ3ZRQ2YteFZzQkhzb3FXVl91NnVPelNpZ20yYUlwZFJUT3VYNVM2TFdpSkM5cXBoNUd6aU1CQ3JuNzRtS212WmYxOFpzZ01FeFp0bXlpV3hfMHM?oc=5
+・アメリカ10年債利回り4.8％に迫る世界的に長期金利が上昇（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260902de47711
+・東大からMARCHまで「難関大の新卒者」を多く採用している企業ランキング【25年・運輸20社】3位三菱倉庫、1位は？大学別内訳も公開（diamond.jp）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBDQ2kwbFF1YWs0TGVrWGpaZ0MwUUhWMlE0V0ttcGRrT1lDQzZtc2pQVU1KTlBEUHNfb0RVM2F3WUVjcWx1clJRZ01iMDHSAU9BVV95cUxPT2hfUUlEdHlnbkpwVnUxbTh1NmdCQlV3VkF3aDRmUWNPVElFMmZMNlpPTnJXaG9PWW14azR1SWdTX25UYWR4UEUwWjFqajE0?oc=5
+・白鳥とコウモリ イオンシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xUWFROG9zU3RWTWUwdVM5U3lydnUzX0V5VFpNdVVxT3htdTd0VmdVRzZfR19wSThKQTh0eHdlMWk1VWZvNFZtcEZGLXUyWTVxY21WMlNGbWNvQVQ5bWxKZ0tB?oc=5
+・千葉県の過去のアメダス実況(2026年09月01日)(気温)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoRldEVFc3VnR1S0Q5Mkx5MHB0czVOTXhwclVnUDc5TVE0NGdZX0RLakhPSktuejVmWXppMEJ1T1pZRHBYaUx4QXdHVmlKbEZIRTlUbVZhbkk?oc=5
+・ジェイテクト、グループ会社 ジェイテクトプレシジョンベアリング「高機能フィルム開発・製造展 -FILMTECH JAPAN-」出展（ニコニコニュース）
+  https://news.google.com/rss/articles/CBMie0FVX3lxTE50N1RmZEZIbnNxMXpvUE5ZV0dkNEdHVnZJenhXd0JGZ3F6RVRMNGZNdTItUmRKazVTVW5xOWxDb0dKS3dqVWxVdnRCazJpdDFkSzB6bjJfdnJIVG45QlRYUElHZXlxLXlORzVzZEREbVFsN3htTTVWWHV0WQ?oc=5
+・令和8年9月（city.shiroi.chiba.jp）
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFBrYWd5NnllQjhSQTJYVjNZTUpXbGJmV0lXdngxT29USUxMaXNVSGFvaElfdzJRRGFxN05mRXdmUTdUZ0RIZEtPVlFXT2ZrRlhYMzhGMlpSb0dHcjJsNzNxT1RpWXk4OFpJOE9RajVKZ2dxenRGSXlDeWEtaw?oc=5
