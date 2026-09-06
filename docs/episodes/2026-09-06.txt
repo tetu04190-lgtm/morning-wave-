@@ -1,0 +1,68 @@
+・西日本～東北の太平洋側中心に大雨 10日まで続くおそれも（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260906de48377
+・【動画】Pickup NEWS（9月6日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260905de48361
+・東京 伊豆諸島南部に「線状降水帯直前予測」（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260906de48395
+・戦時中の複写装置発見 旧陸軍「登戸研究所」が発注し製造か（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260906de48380
+・東京 八丈町に記録的短時間大雨の気象防災速報（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260906de48392
+・岐阜の洋菓子店で火事 2人死亡3人搬送 事件巻き込まれたか（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260906de48383
+・OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/06/2000001202/
+・「Claude」Anthropicが開発したAIモデル／AIチャットボット（窓の杜）
+  https://news.google.com/rss/articles/CBMia0FVX3lxTE5ISHduLXZ3bE9ERkx1a1YzX1l0SVNZNmZCbHhQLVlPXy05XzhPQkpzYm12cnJiOGZxajI4dnl6dHlWbFhBZ3FVQjAtVUEybk5ZOVBGYmNHVzF6WF9FMmhQUUZpUnZZVmVjT2Jr?oc=5
+・あなたのAI顧問株式会社 代表・黒山結音、AXR株式会社主催「生成AI活用＆AI駆動開発 勉強会・交流会」に登壇（Infoseek）
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9NcWVnRWx3aFZrSU4tZVN5U1N5WmNPMU9zUWwzenFjSmJxTVJQbWwxU3lPenlsLXZhZ1hRUS12dVg2Z3N5cnNPRXlvVDVkUFlmRjdPZkI0TjZScmplSzd6LUI2Um9WWmlzd0JSM0lzMFo1dw?oc=5
+・「最大45％コスト減」 Anthropicが「Claude Fable 5.1」発表 脆弱性検知にも対応（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2609/05/news009.html
+・横須賀市とNTT東日本、生成AIが災害対策の意思決定をどう支援できるか検証を開始（EnterpriseZine）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE15ZTVNWXVVOVN1STVjNXZLLVFkbHpfdFN2QXhtc0dtYWE5LUM5TE81SmFoVDRZcUc5cHZTS08wOE5CUHd1bzl6Q0ltanFmSDlpWXFfVV9B?oc=5
+・IBMがOpenAIと提携、企業向けAI導入とサイバー防衛を強化（Межа. Новини України.）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tYS1NdjFyY1c0QXFybl9lM0FoLUI4MWRpQWFqM0pRNXZFNTlfNlBlYVg0V1o5T21kZTkzSllGQW96UEZMNVZINVZpN1lKNEUxZXRFOUVEcmpUcUIySkk3OG9yYw?oc=5
+・iPhone18 Proの新色、ダークチェリーとスカイブルーのデモ機動画が公開（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605310/
+・GPT-6 Astraを利用可能になった記念でリセット権、ChatGPT有料3プラン全員に配布（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2138527.html
+・解き終わったテスト用紙の写真から回答前の状態を復元する「プリントリセット」 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2138505.html
+・AirDrop互換がPixel 7/8にも拡大〜旧型へ展開開始（iPhone Mania）
+  https://iphone-mania.jp/apple-605297/
+・【今すぐ読みたい！人気記事】ポータブル電源の中身ってどうなってるの？⾃分じゃ怖いから公式に分解してもらいつつ解説！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2138515.html
+・無料の3DCG統合環境「Blender 5.2」は作業効率がアップする改善がたくさん！【Blender ウォッチング】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2138400.html
+・OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/06/2000001202/
+・ChatGPT登場以降に公開されたウェブサイトの3分の1に「AI」の痕跡が見られることが研究で判明（GIGAZINE）
+  https://gigazine.net/news/20260906-web-ai-signs/
+・楽天調査、Z世代の約4割が生成AIを「ほぼ毎日」利用（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2138353.html
+・「スーパーリアル麻雀 VR」でゲーセン通いの日々を思い出したマンガ家、ご褒美シーンの“限界突破“に驚愕（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/06/2000001195/
+・CERNがRedHat系OSからDebianへの移行作戦を実施中（GIGAZINE）
+  https://gigazine.net/news/20260905-cern-rhel-debian/
+・ASUS、Wi-Fi 7対応のデュアルバンドルーター「RT-BE3600J Pro」新発売（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2138376.html
+・長期金利上昇 私たちの暮らしや経済への影響は（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260905de48324
+・(株)サンリオ【8136】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE40OER2dDk3Zl81RXlKYkNqMDRpeGVlYlN0U2w5VlY5U3FfV1NCVXhiWWEtUGJ4aTZjLVd5SHA0UUltWUFCYkozOUY3c3QwaWZabVE?oc=5
+・財務相「市場とコミュニケーションし適正規模を」予算編成で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260905de48342
+・中国シャオペン決算が映す｢EVの次｣の主戦場 量産前のロボット事業が企業価値1兆円（東洋経済オンライン）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jZ1l6SndoZjBvWnJ5TzhLdWR1YzdlZ0dLWFF3bjV2NDM2b3VoUVNNVlVLbDF3YkhiM25iV2FuNDljcnI1cWIzeWhnemNObmxZTm95b0EtRjBnb251elNz?oc=5
+・中国習主席訪米に企業団同行か 米大統領「国賓待遇の夕食会」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260905de48325
+・Ｔｅｒｒａ Ｄｒｏｎｅ(株)【278A】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE52d2R4Z2lRUG5mMHhNaS1kQ19jSWU1dnI4ejBFOUlYbEQtR2M3ZGxfTUY3SElUZnVJMW9vdmRfdWtBREIxWWp0aGdqYU80OEVnYmc?oc=5
+・新着情報“ヴォクシーZS 煌”2018年式ブラック入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBqNUUtVnhKcGUwRDJrbHlzLTBCam9VT002bmh1ZDJoWDZTMHlQUjZiS2RrN1V0UUw1NXBxWC1vYldnZTk0bUdoOUdHU1lFWjJmN0JBOGRsMU95VHBtNnpfWFduTTVwUDlnQXZUWFRJSUJNTTVUY1FMVzN2ZTN5VzQ?oc=5
+・千葉県市川市に、歴史的様式による日本最大規模のパイプオルガンが完成！ 11月に特別リサイタルを開催 - ぶらあぼONLINE | クラシック音楽情報ポータル（"千葉県 OR 成田市 OR 白井市 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE5mWWJHTHVUcXZjNXdwM2k5bm9hSWZOaWhCYS1yQ3YzZEk4dEltYS10dm81Tzh2WTd5ZUwtOXRreWFVeXYxVzBrTw?oc=5
+・バックルームズ イオンシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wQUhVQkR3SnM2YmdhYjBRZWlfdFk5eWRZeXp0cGRoa1RldmpHT2FNcWxVRTFwemphU3dKUE5tdm45S2N4alQ1Z2IyaS1faUFqWDdSNnV1aWN2blFaaFI2Ug?oc=5
+・千葉県の過去のアメダス実況(2026年09月05日)(日照時間)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9jQ2xIZEgwbHFDam5WcDM4bVU1YzhIemZOQ0JSUFhNOFlHRE9xVjZVdnVZRExJUGNVN0NJaFhjRkJ6Y21kLTVXX0NHZDJVakFCaUFpaDRaeW9KTG9zVG9JWEtOX0JyMWZkUWc?oc=5
