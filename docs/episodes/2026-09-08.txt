@@ -1,0 +1,68 @@
+・伊豆諸島の特別警報は危険警報に 東海は線状降水帯可能性も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260908de48909
+・7月の実質賃金 前年同月比2.4％増 7か月連続プラス（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260908de48898
+・岐阜 洋菓子店3人死亡の放火疑い事件 “死亡役員が関与”証言（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260908de48888
+・家賃保証会社の社員を刺し大けがさせた疑い 66歳住人を逮捕（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260908de48903
+・ロシア ウクライナ和平でアメリカ交えた協議再開排除せず（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260908de48912
+・【動画】Pickup NEWS（9月8日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260907de48851
+・ChatGPT、有料ユーザー全リセット 「Astra」で使い切った人向けに（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2609/08/2000001243/
+・生成AIで特許業務を効率化する「サマリア」、MCPに対応。Claude・ChatGPT・Copilot・Gemini Enterpriseからサマリアデータベースへ直接アクセス可能に（prtimes.jp）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5qdlVxbm1ybzlZbGVNa25oT19rUV9hTlYyem5ZcTNlanVlMFlfVkRlc3BkV2Z2bmJ3MFNNajFnMUN0OWx2WFd4ZlphS0duM08zQUlpbjlrVG4xNVFwSXFJS1Vibm5ra1BzWHc?oc=5
+・営業力向上にAI活用 沖縄セルラー、模擬練習ツール導入 グループ全体の提案力向上へ（沖縄タイムス社）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE93cmVfNV9LUlhOc1RxWm91QS03bEhlbnZlQXQ3VmlNNmdoLVJ2Qm1pUFpyS21VUUx0V1FzcTBVbGszejB5QzI3Mnc0VTRsbVYyZWNaLUhhZHhBTC1oV3c?oc=5
+・図面探しや検図の悩みをAIで支援、製造業の現場課題に対応する新ソリューション（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2609/08/news032.html
+・Claudeに「最高のアイデア」を聞くのをやめたら、副業案の質が変わった（ライフハッカー）
+  https://news.google.com/rss/articles/CBMilAFBVV95cUxPRlZhZDIwdHVKWkljOFVDd2pkX2dKR1RzVjZsbWR5QmhKRk41b0NKSXBpVklJYkQ2UDA3NFFYZTNrQU5jYTNGQUVQY19pclNnZ3lZXzhsY1gyWGJvTHBINVRGbVVLVFlab3NlS0p2cUthX0J0aUZtOEdLc1UxcnVwMWN5S1FwaExtVWFRSHJtTXp0bXBt?oc=5
+・ChatGPT・Gemini・Claudeの回答が「選考辞退」を生むAI検索時代。採用特化のAI検索最適化サービス『採用AIO』を株式会社Fhillが本格展開──大手企業から中小企業まで導入進む（prtimes.jp）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1KZWt3WkJzTkpDcl9QTDJHendvLVFTNi03ekhsVDE1Z2NZbkV0WFVhSlltTUxEcDFRVDhqRktVYUNTeERSQjVrRDhBelo4TzNMdlZWbE9sTjhrR2VXWm1LUVo0cEhxZF9XV1E?oc=5
+・iPhone18の値上げは確実？世界のスマホ価格15%上昇、日本のユーザーはどうする（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605390/
+・14型ThinkPadが約11万円も安い！直販で決算セール実施中 [Sponsored]（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/special/2138878.html
+・日本語プログラミング言語「なでしこ3」を「Go」言語で、セットアップ・配布が簡単に／実行速度も従来版より大きく改善（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2138929.html
+・iPhone UltraではなくDuo？ケースメーカー掲載で名称説に新展開（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605383/
+・【やじうまミニレビュー】充電器を忘れたらダイソーへ。1,100円で45W、ノートPCも充電できた（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2138920.html
+・共同作業での状況把握に便利、「Copilot in Excel」の「変更履歴」スキルが一般提供／数式が壊れた原因の追跡や、特定メンバーの変更だけを取り消す使い方も（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2138762.html
+・くら寿司、「ちいかわ」グッズ不正で「警察と相談、厳正に対処」 メルカリと連携も（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/08/2000001240/
+・読者が使っているプログラミング言語トップ10はコレ！オンライン講座ユーザーの間でもプログラミングの学習が圧倒的人気（GIGAZINE）
+  https://gigazine.net/news/20260908-gigazine-user-programming/
+・[電子書籍人気ランキング] 電子書籍人気ランキング（8月28日～9月3日）（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2138829.html
+・警察庁と日本MS、サイバー対策で協定 情報共有、教育で連携（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/08/2000001241/
+・デジタルインフラ提供元のA/I Collectiveをアメリカ政府がテロリストに指定、どんな影響が出たのか？（GIGAZINE）
+  https://gigazine.net/news/20260908-autistici-inventati-case/
+・Google 翻訳、Androidは画面ロック中もライブ翻訳 iPhoneは受話口から再生（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2138854.html
+・4-6月のGDP改定値 年率＋1.4％ 上方修正（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260908de48932
+・9月期好業績企業に注目､一括配当の高利回り5銘柄（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFB1VVp5SFB6QU1uc21xb0hTWjg2YTJVcEJxZFhMcnZmdmhVZnppSFpueHpZYVAxeHF5eTJTYUhPVGpxTzJFZUNvUGZvT0FUY3UyQ3RtUFgtRQ?oc=5
+・円相場 値上がり 一時1ドル＝153円台に ことし2月以来（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260908de48928
+・Ｂｉｔｃｏｉｎ Ｊａｐａｎ(株)【8105】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NS2JLMmJRMUxMbjNyTERsS0JfMXVHNDZaR2w4MDVHQlpkY1FId2s4d2FTalM3X3hUeGFQbDQzUjZPLWx3WmNVa2l6NHNDUHExQUE?oc=5
+・金融庁 超長期の住宅ローン審査を重点的にモニタリング（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260907de48880
+・内田洋行、2026年7月期決算で最高益更新──大久保昇社長が語る、特需に頼らない成長基盤への転換（Biz/Zine）
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EU25GQWhOcXVOcGNRMGV3NUcxSzRMWm5HYWV6a0dOYmRKRWtzRkFhOGZYbnczRHk4eUlsXzA1U2Jub2tkazF1M1ZwZG1PSlls?oc=5
+・ルックバック イオンシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFByZUNLODF3ZDBxSmQxRmU1X0JadGh4MTIxdFMtWHYtN1RpTjdCZGx0b2JoZVBQQ28tVjVUMjNxQ0FEclRXNERsQUhuZENxcndmLWYtV2Zta2x5MmFEcG00VXdR?oc=5
+・「詐欺まがいの会社になぜ許可を…」成田市はどう対応する？ みんなで大家さん問題のイマ（東京新聞）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HQmM0Z3VuQzZGdTVBZmt2c3hOXzA3S1BLRW12QkRneEhjM3RUVXY2TDhGc1pPOGtkQ3F5cF9mQTZkb0k0ZU0zTE8tTTJqeFRXTTNJ?oc=5
+・住み続けたい街、神奈川・葉山が6年連続V 湘南地域が上位独占（Infoseek）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9aREk2VFVXaEdlSU5peXFQQXBhOS1Rbi1FaWgycU0xZ002VjhzR2hCb0pYa0tTaXBIb0pPNDlfQ2REd3k0UTFMYmVtUlVrcWJDUFlXU1kwdGZ2V3RsSHF2b1BIeHVsY0ZIRzFKek1qeGRZSmppMGZhUi1CRG5sMW_SAX9BVV95cUxPWkRJNlRVV2hHZUlOaXlxUEFwYTktUW4tRWloMnFNMWdNNlY4c0doQm9KWGtLU2lwSG9KTzQ5X0NkRHd5NFExTGJlbVJVa3FiQ1BZV1NZMHRmdld0bEhxdm9QSHh1bGNGSEcxSnpNanhkWUpqaTBmYVItQkRubDFv?oc=5
+・千葉県の過去の雨雲レーダー(2026年09月07日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YdG02MDNjUmtDeEFid0M2TURrZHRBQS1faUJVSktZalFpTElPbGN2SkdYNkt2X2duRFptdW90TGM5eTlGRG5teTZNY2g0WEZxT194UDJXdw?oc=5
