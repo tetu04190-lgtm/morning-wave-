@@ -1,0 +1,68 @@
+・広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260909de49378
+・【動画】Pickup NEWS（9月10日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260909de49374
+・アップル 初の折りたたみ式スマホ発表 販売価格36万円余から（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260909de49403
+・アメリカ 共和党大会始まる 中間選挙前に初開催（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260909de49402
+・東京 狛江 強盗致死事件 実行役の被告 無期懲役確定へ（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260910de49410
+・中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260909de49377
+・「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/10/2000001346/
+・Claude・ChatGPT・Kimiを“工程ごと”に横断 既存のAIを操るMac用AIワークスペース 「WorkPilot」を無料公開（アットプレス）
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EbTY5NTVNXzN2UnV4TTVqM3FtaGtVd2cyZjNoSmxCbWZjYm5hMkhqVTJNUDUxS2M1OG5ybzE4RTB6U0VMVHZwVWhPbXREQQ?oc=5
+・【見逃し配信】AIで企業とビジネスが変わるAIPC導入活用セミナー REPLAY（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE92LU9RNFgtWVFLQWxrNXJzV2VpMlN5Z2pPWGJFOThLSXdZMHBWajFKT1RLUDZOLUFObXp5ZlN3Y21LTEpjV29oc25yd0hOYjNlYnZoNHF3?oc=5
+・ルールを作る「管理職」ほどシャドーAI 「AI白書2026」調査が映す“ガイドライン”の限界（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2609/10/news027.html
+・【第12回】生成AIを活用する「AIショッパー」の利用実態と買物パートナーとしての可能性｜The H Magazine（hakuhodo.co.jp）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HWWEtNWhwVFBOelhULW1LZ1I3bDBmSXc4cmNpbk9YQWhNX2YyanFfakw5UnNkeGJSVkdSVGJHN1NJWDBzWHlxZmxLUkVFRFJGS3Q4Zkx3?oc=5
+・中小企業のＡＩやロボット導入支援 京都市などプラットフォーム創設（京都新聞デジタル）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PY3A5bGpDYzlhNy1sZmFRRG9RNUx3SzFhVTBaQWhUazg2bWxxM1Z4N0lJS3Z1dW5ldUJMSVEzdUFHei1kN1psa2hGejlVU3E1ckRwczR1TWhOWXM?oc=5
+・iOS27などのRCリリース！9月15日（火）の正式版公開へ最終段階（iPhone Mania）
+  https://iphone-mania.jp/ios-605570/
+・ぜいたくな1台とはこのこと。ビジネスシーンでも使える20万円切りゲーミングノート [Sponsored]（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/special/2137625.html
+・AI駆動開発における要件定義と実践 ～ソフトウェアを仕様のマスタとして「解決すべき課題」を見極める【AI駆動開発の実践例】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/aidriven/2139144.html
+・iPhone DuoやiPhone18 Pro向けアクセサリーが発表〜価格や発売日は（iPhone Mania）
+  https://iphone-mania.jp/iphone18-605543/
+・「iPhone 18」は発表されず。メモリ高騰が影響か（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2139681.html
+・「Tera Term 5.7.0」が公開 ～シリアル送信時の送信サイズ制限などに対応／すべてのユーザー用・現在のユーザー用のインストールを選択可能に（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2139540.html
+・「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/10/2000001346/
+・無料で動画・音楽・電子書籍などを自宅でも出先でもストリーミングできる「Jellyfin 12.0」がリリース、ついに書籍と漫画のサポートが改善（GIGAZINE）
+  https://gigazine.net/news/20260910-jellyfin-release-12/
+・アップルが2nmプロセスの新チップ「A20 Pro」、iPhone 18 Pro/18 Pro MaxとiPhone Duoに搭載（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2139694.html
+・Google、フィンランドに過去最大の約2.3兆円投資 AIデータセンター増設や原発電力調達へ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/10/2000001345/
+・料理や加工食品に広く使われる「大豆油」が肥満につながる仕組みの一端が判明（GIGAZINE）
+  https://gigazine.net/news/20260910-soybean-oil-obesity-metabolism/
+・アップルが「iPhone 18 Pro/18 Pro Max」「iPhone Duo」発表、本誌記事と価格まとめ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2139693.html
+・アップル 初の折りたたみ式スマホ発表 販売価格36万円余から（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260909de49403
+・26年4〜6月決算受けた株価上昇率 円谷フィールズ首位、電力株も上位相次ぐ（日本経済新聞）
+  https://news.google.com/rss/articles/CBMiowFBVV95cUxPbXEtck9heHFkTzUwX2lFOHVYZmFpVWVla3JtQ1MtSVpoSlZzblBfWllYcWJTOXZmMWM4OTRMRkpwLVkxOFp5V3FyOVZfOTZRLVk1R1BHaGxrazRqMWxIcUVuMUdjTk1CcGVpQUN3T2hPMTAzXzF1Z0NPTFVBTVppZk0wZ2FUX3B3SmFsX0JndHFYYnQ5bDZEaThfdDNzdXFHQ3Vr?oc=5
+・WTI先物価格 一時1バレル＝95ドル台に上昇 約3か月ぶり高値（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260909de49382
+・株式投資で儲かる“お宝銘柄”をあぶり出すステップ・ベスト3（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE9rRTUxeGVRMTZTOGFnWDViUnEtNkIzQV9VOV9LaWFXODVDYVdUQ0MyV1hfNUxKMmNFY0pvUWswOWQ5N3QwUmFCTWJ3YjbSAU9BVV95cUxPd293YUppcHhoaEVHWm5tUDhJcmlhb0FPSXptUDZBN0Q0YjRFUTh0N3BqS2pIWHBJblVXVjRwRjhYSzZUeGQtMnRhRW51UjNn?oc=5
+・円相場 値上がり 米財務長官の発言受けて円買いの動き進む（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260909de49355
+・(株)ジェリービーンズグループ【3070】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kNEZYcmplcWEwdlg2MWF2aVo4d0xIcVNQVHNwVGZ4Ynk5Sk9vN0ZBY3JkMmM5V1BSX2RRRDA0akl5Y0xOa2ktYlBtWDR1M01zVWc?oc=5
+・5秒で完全犯罪を生成する方法 千葉ニュータウン(千葉県)の上映映画館・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wNF9WcWtJUkNabC0ySnZaRlVZZFNrT1JjSkU0QkNIXzQ4SFZSaEtxUHI5RzVjRVh4T2ZiUVptUDd0aVJyWXNtd05PclU3SDdxOUliTlREZ0tnbTNPQWZQYQ?oc=5
+・千葉県の過去のアメダス実況(2026年09月09日)(降水量)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iM3FDb1BiWTdMZjl6bDBoc2Rqbkl1M0cwLWEzRlRuVzhEaWRjaTRDb2g3QUJ2QXdXWld0NDZJSmxCZDg4SEhobk9SVVFTakJudTZ1LXBURl9Zcnl0YXZaTzdaeE9GTVE?oc=5
+・USシネマ千葉ニュータウン「オデュッセイア」の上映時間（千葉ニュータウン）（映画.com）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1QR0xjQWwxenNkcnhTdFBqcEVsMVctZWN6eWlFYnFpbEc4UkstdVVJZTE3YVRTaVVMVlk2WXlMYWo0VGVqWEpqOEVtd1lURVA2UUxzZ3ZEcFJNTjR5ajJuT2psTQ?oc=5
+・【千葉県】9/10の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9yTEMwdGdQZmpCNkdYMjVwRzVxNFVRZ1FBSElQb09RSkVjYTJPQk1GNHRmVHg5V3p3VzFfQVBBSXpZQnp4T2J6bUtFbmt6R2lMNktGWG1vMXplamVuQ0dhSTNwWVNiVE9OR3Bkc2FVZmZ4TkdNTXpVUlhaNXVLYWs?oc=5
