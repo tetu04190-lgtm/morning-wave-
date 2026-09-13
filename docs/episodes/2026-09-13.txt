@@ -1,0 +1,68 @@
+・京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260912de49921
+・【動画】Pickup NEWS（9月13日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260912de49886
+・千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260912de49919
+・救急隊への妨害行為 5年で107件 東京消防庁が協力呼びかけ（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260912de49910
+・米アンソロピックCEO“AI開発ペース減速させる必要”（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260913de49934
+・千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260912de49920
+・AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/13/2000001432/
+・GPT-6 Astra：新世代の応答性能（OpenAI）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE16WUVGUTk5cW9XTF9YTkR2VGY1LXRDQ1lUejNTZF9kWF94Ymw1eUlwd2lGTmp3MGNvSm9YY2ZEejlobEUxTncyX2ptOXZmVENsTXdMQk5n?oc=5
+・企業が福利厚生の一環で導入するマッチングアプリ「Aill goen」で、AIが会話を指南するデモ画面 - 【出生動向調査】アプリ、AIで変わる婚活 企業の福利厚生に採用も - 写真・画像(4/4)（西日本新聞me）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRFJBMmF0d3dvbWJnT1gxZVphZks5bTBoR2NmTGxjYjVpbjBrZURxZFFDZlNkbk1zX3RDOXMxYUdWMV94UE9wVWF0V1E1R1djTTlBQXBnOA?oc=5
+・「AIコーディングより人を雇う方が安い」時代が来る？ 生成AIの予算超過を防ぐトークン浪費対策の全て（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2609/13/news005.html
+・Claude Codeでなぜ異変、「旧モデルのほうが良い」が続出…AI進化で起きた逆転現象（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBsZmF4NExnZVF4TkRwbzlBOTJ0ek04NXNMeHVHSm1mQ24zbUJjYmM1Y21fN1dMakRnQTZTUTlEM21qdi02TjVyTEVoMDlhT05NY0o4?oc=5
+・Arctic Wolf「2026年AI ＆ サイバーセキュリティ トレンドレポート」を発表、AI時代に向けてセキュリティ運用の刷新を急ぐ企業における「AI信頼ギャップ」が浮き彫りに（Infoseek）
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9kcHZycTg4R1ZUb3Rkd0dsZDFjM3lEWWt0cjhrQzg4NjN1WkcwOTNfSTJFNzFEd2FzV2pzVjZZbG1hQ0hQeFBpVTJEYWxMSEtYd0FuWHdGbmhKVjJ1NVB0dmpSTXUxZ01iMEJmQnhOVXV2Zw?oc=5
+・ソフトバンク、Apple Watch Series 12/Ultra 4の価格発表！支払合計額56,160円〜（iPhone Mania）
+  https://iphone-mania.jp/iwatch-605852/
+・【今すぐ読みたい！人気記事】Windowsおじさん、MacBookを使ってみる。そして案外代替アプリがあることを知る（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2140409.html
+・複数ページのPDFや画像の差分をヒートマップ表示でチェックできる「TERASIAS」 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2140377.html
+・iOS27の2つの新機能が延期に！今後のソフトウェアアップデートで提供へ（iPhone Mania）
+  https://iphone-mania.jp/ios-605850/
+・【今すぐ読みたい！人気記事】ミニPCをそのまま使うなんてもったいない！魅力を120%引き出すガジェットたち（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2140408.html
+・「Microsoft PowerToys」に追加されたローカルAI機能を試してみた（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2140265.html
+・AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開 アルトマン氏とマスク氏も賛同（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/13/2000001432/
+・「AppleはiPhone Duoのディスプレイ1枚につきSamsungに3万8000円支払う」と著名リーカー（GIGAZINE）
+  https://gigazine.net/news/20260913-apple-pay-250-per-iphone-duo-display-samsung/
+・「iPhone 18 Pro／Pro Max」価格が出揃う、アップル直販とキャリア4社まとめ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2140426.html
+・映画「バックルームズ」が怖くなかったマンガ家、基になったネット都市伝説にハマって本作の楽しみ方を理解する（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/13/2000001423/
+・ロボット掃除機の撮影機能で不倫の証拠を掴んだ男性が逆にプライバシー侵害で訴えられてしまう（GIGAZINE）
+  https://gigazine.net/news/20260913-man-jailed-record-wife-adultery/
+・ソフトバンク「iPhone 18 Pro」価格発表、実質2.4万円/一括26.8万円～（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2140424.html
+・千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260912de49919
+・(株)タイミー【215A】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbDlrSm9DbjAtUHRUekpzTWl1RzhBdEtZQ2VvUFRsSEpqY3Bia20wQkh2ZVFOYW1JemRRdDFJVk13YU9IcEFyNlF4d0xGVWU0RkE?oc=5
+・環境省 再生プラ製造の大規模拠点設置を支援 ナフサ代替目指す（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260911de49812
+・エヌビディア、好決算でも時間外で株価下落 米国株式市場への影響と今後の注目点 野村證券・村山誠（nomura.co.jp）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE10cmxxcW5VZjhJSlEzd19oS0RPaXVtTFFZZGNhQ2syQ3FaT0dPbkNQdmpaSUoyR0RvaDJDUjVIdXRVakdIZkYyOVBUOG9DTkJmdzVPb0ZxX0NYM0QwQmVV?oc=5
+・ホルムズ海峡の代替ルートで情勢不安定化 市場への影響懸念（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260912de49899
+・(株)ＭｏｎｏｔａＲＯ【3064】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQkgyM3lqUHphMVo2V0Zlclk3Vmd1MmIxZGtNZGJsclh3WldtVzloVWx0VVVkY1lBaUdOWG02QXQ1RDFMR0FuYjlwZGJPdmpENkE?oc=5
+・今度は落語でＰＲ動画 年明けに第３弾 印西市（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE54bHppYzN5ZDFDeXNtQUE1cElxcFRvU1dLaTNTemFKMXYybWxSZ0sxaXVQa0lsMFJwRUxVWTNGY3k4NGxWU2NjYmlhLWppN0p6Sm5ON2pLaw?oc=5
+・千葉県の過去のアメダス実況(2026年09月12日)(風向・風速)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fT1lwUGs3MUN2ck9LSmxycFVWVHJPbFo1QXdPNENXQ1dZMm01eThkdFRRQWU5cHdoaEphSmd2enAzMlRTMVZxR0JjUGh5a3p4VUMycWJKU19uMFhoQ0NWazd4WU0?oc=5
+・オデュッセイア イオンシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5c2hBWWtBdGpqT3JBcVFoNWM3aHk2SmU1WjhSQVJmOGZfb3lkNTBsSWdPRE1IQV91NHg5S3g3MUl2UU1CWUIzZ3hRWEo0Q1FnMkVVVDRXRmZ5Nko0UWZaVQ?oc=5
+・【千葉県】9/13の天気予報（FNNプライムオンライン）
+  https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VU0xFeU54MFdzckJuUGx4cjh4M2dnU0tXWkJrUEhJV25HZGRhWG5USTZINEE4b3otR2dQTHgtaEg4ZGFmZVAySFRzRFAxZw?oc=5
