@@ -1,0 +1,68 @@
+・自民党役員人事決定へ 執行部ほぼ留任 総務梶山氏 国対村井氏（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260916de50478
+・「ヤマトリノ」名乗り活動する27歳女 コカイン所持疑いで逮捕（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260916de50483
+・消費税減税 小規模事業者が税率変化に対応できるか課題（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260915de50455
+・【動画】Pickup NEWS（9月16日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260915de50430
+・空自の無人偵察機墜落 機体回収と通信履歴分析で原因調査（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260916de50457
+・前線南下 16日にかけ大気不安定 熱帯低気圧の動向にも注意（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260915de50399
+・CAE結果からサロゲートモデルを自動構築、予測から最適化までノーコードで（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2609/16/news023.html
+・なぜ生成AI活用で「チーム崩壊」…？ 日本の“察する文化”が招く「落とし穴の正体」（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvbGRrb0hvMzRDSUdNS2JudnY4Y3pxRVZWU1V4SUNELUJabms0ZTFHc2FPRUdIYW1Zal81VmtuNzZOSV8xNWphUzhKczZuS2ZGSDV3?oc=5
+・ＦＣＥ---「ロボパットAI」導入企業数2,200社を突破(フィスコ)（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOc0loeEgzZ1VuZW9FbzhMTnVQMThTc3dWR1lRYkYzT1lhajRQdUlPbzZDT3NROTJiVmNkM1JjTVQ2Z09jaUdTdEFlUTkzR25hQWZvRlRQd01jYVF6QWprWVRPSHBxUkxLR01YYkNIN3lFTENTa3RXYlg2Y09iZnVpODRQVEVfM2M?oc=5
+・「足りないのはCOBOL人材じゃない」 日立が語る、AI時代のシステム刷新における“人”の役割（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2609/16/news012.html
+・Claude Codeを使い3時間で開発、熊本地震で累計60万人が利用の掲示板サイト（日経クロステック）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9DYWNIZ01NamF6MFpMYzhQQV9sZFlSd1BQdTg2cW8ya2JtanVNalVwNE5JV2R3QkZmWjFuTkRJemxGUGVrYWp5RkpxY0ZFM3I2ZnRocG53Y1o5dnhTYzVnWjd3X1dzaXJvY1JwUw?oc=5
+・企業がAIをうまく導入する上で、大きな障壁が存在する。（Vietnam.vn）
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcFlvZEFTUDVRVmszcjdTbnNRREJWRjhLTVFQZ1N2TFFUR2pKdG84T0VBdU55NGpRYWdOT0JWak1Ubml3UjUxV2tCVlJ5NzZDS2k2OXoxTmpiWGFqYVctVlBlZElUaVJQWHROLXBBMGxMc1I0bU8tYmJkWF9FZll2TFlhaG5OUVBTdDZV?oc=5
+・iOS27／iPadOS27のセキュリティ脆弱性の修正点まとめ（iPhone Mania）
+  https://iphone-mania.jp/ios-606008/
+・【本日みつけたお買い得品】MSIのRTX 5050ゲーミングノートが5万5千円引き！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2141238.html
+・「フィジカルAI」の全貌とビジネスにおける勝ち筋を解説した書籍が限定無料公開／「生成AIの次」を解説した『フィジカルAIの正体 「生成AIの次」の波を読み解く』【Book Watch/ニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/bookwatch/news/2141181.html
+・iPhone18 Pro予約注文の勢いは「まあまあ」〜著名アナリストがコメント（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606006/
+・【本日みつけたお買い得品】レノボのゲーミングデスクトップが約6万6千円オトクに販売中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2141231.html
+・VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2141127.html
+・OpenAI、AI安全性でAnthropic、Google DeepMindと協議中──Bloomberg報道（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/16/2000001522/
+・頭の中で人や物を思い浮かべられない「アファンタジア」の研究が想像力に関する理論に影響を与えている（GIGAZINE）
+  https://gigazine.net/news/20260916-aphantasia-mental-imagery-brain-network/
+・「東京ゲームショウ2026」で自分を3D化、KDDIが出展（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2141119.html
+・メルカリ、ポケカ最新パックの出品禁止に（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/15/2000001506/
+・Homebrew 7.0.0リリース、パフォーマンス向上・セキュリティ強化の一方でmacOS 10.15のサポート終了・Intel MacがTier 3に移行（GIGAZINE）
+  https://gigazine.net/news/20260916-homebrew-v700/
+・[電子書籍人気ランキング] 電子書籍人気ランキング（9月4日～9月10日）（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2141006.html
+・ニューヨーク原油 1バレル＝106ドル台で約4か月ぶり高値水準（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260916de50468
+・会社四季報2026年4集 秋号（東洋経済STORE）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd1NzSE91N05OSS1SMENqQ0ZzWHJDQy1sMUllZnQ1TlBNYVJ4STFrZmdwRVJTVDRHS2t4aEhwYlphejIxY3RYMDJfWC0xZTd1SWRjaHBycw?oc=5
+・8月の貿易収支1兆1056億円の赤字 4か月連続の赤字（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260916de50481
+・ＦＣＥ---「ロボパットAI」導入企業数2,200社を突破（株探）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QaG9wN3BKQVBzRnU3N3VvZnlHWThRbzQzWkc0N1M3Ym5UQ2ZVVGRsTXZuY3k3ZEhUbTE5MG50TFAyaEpiOVRHQUw1LUh1bDB2anc?oc=5
+・アメリカ長期金利が19年ぶりの高水準 インフレ懸念背景に（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260916de50462
+・日本株決算、増配ガイダンスが過去最多 「配当ポジティブ」を投資戦略に生かす別の要素とは 野村證券・西岡伸（nomura.co.jp）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fclJmLS04WWNlVFB5SHJ0Y1BzQi1OQzAtUnIxY1BIRXhwa1hRbm5CWm5vd1JWTGhUZFBvRVVSYWVaUzdORVQ5TGctWFpzM2lvTUxDQXVEcU9qUF9OTmtN?oc=5
+・2026年9月16日（水）6:00〜7:10📍千葉ニュータウン中央駅本日、46歳の誕生日を迎え...（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uVFRpUnNrbXVLZkJGQjRPZVM2V3RDbVlYM1ZuWGRYTk1QVldJdTdGdS1ETUcxdEdMSlpsWml3RUhsbndvOVFlanFhNTVmei0zN2t1Qm9ISFIwM241ZS1r?oc=5
+・千葉市、千葉県に支援金をお届けいたしました（モラロジー道徳教育財団）
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE15MEtSUFktWE5OWW5SQ0JTMnNiUzg2aXVuMERGbEU1UlQxUHZJb0c5Yml6WXNDampsaXBfZkgzUW40Q0cwc084YkxBTQ?oc=5
+・新着情報“クラウンアスリート”2013年式ホワイトパールクリスタルシャイン入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE4wRWZveWdTbFNaazBRTG50akJLQVZmUDBDMHhxS3Q0LUlId2xwZzlvaHI2QjdQSWhScW9GcjB1VTlvOXdJakFMWlR0RkRlXy1RYlBhWFZCbGNrcFpJSWFqM0YyczVSZEdqMDcta09ZQUdaajNtNmpKR2ZnNzNjWUU?oc=5
+・【速報】千葉県内４００軒停電（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VZDdkdFZQTkN4LVBYdkNTQTc4UmN0NzVlc0d6QnlCRlUyd3BIaWZfcFVOMllTZkZfVktIbGZ3WVdKaC1Kc1pvSVlIbWxwSEVjak9yUTZrWXQ?oc=5
