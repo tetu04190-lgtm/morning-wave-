@@ -1,0 +1,68 @@
+・【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260917de50715
+・「核のごみ」処分地調査 常陸大宮市議は反対5賛成4 表明せずも（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260917de50714
+・高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260917de50695
+・【動画】Pickup NEWS（9月17日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260916de50616
+・米 FRB 0.25％の利上げ決定 利上げは約3年ぶり（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260916de50687
+・アルツハイマー病治療薬「レカネマブ」皮下注射型が正式承認（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260917de50703
+・Anthropic、Claudeの「チャット」と「Cowork」を統合 資料作成の「Docs」「Slides」も（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/17/2000001565/
+・マイクロソフトAI責任者、人間らしい「Claude」のリスクを警告（TBS CROSS DIG with Bloomberg）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE81a2ZHS1g1eGNObGxaX1owcmJmTWRZWjJDVUZtSzJPZTI4TDFPcW1ZTE1tSlFpb0MwUUh4d0Ytb2NEN3l4d2ItWDZWeFFIaHpFQWVlX1J0S3NLMUN0T19Sd0tmMkJzeG8taksyYlJ6enM4ZGpkRFNtdjY1MUduWEU?oc=5
+・JAPAN AI、「Microsoft Foundry」を活用したAI基盤構築を開始。AIエージェントの国内企業導入と社会実装を加速（AIsmiley）
+  https://news.google.com/rss/articles/CBMickFVX3lxTFAzT1lHNVJReDFGclJnZk1iczVVd2xIaDZQbkpWYmE4UjM4RkFwem1hcDI2T01tRGlTMWV3WlhWR1N0dFBnTGpEX1Q3Tzh2LUJZZ2xzQ09HWEVCOU9OTEJlYlhmVXJGSy1HVUp0TUVRSkhKdw?oc=5
+・三菱重工、インフラ・防衛向けAIでPFNと資本業務提携 100億円出資し共同開発（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2609/17/2000001563/
+・『Apps in ChatGPT』で利用できるアプリの提供開始のお知らせ - support.me.moneyforward.com（"生成AI OR ChatGPT OR Claude when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMi7wJBVV95cUxNSGh4YTFfOUJnRDRLQVJ5eWlDdnVyR0pKZVN1T0FTenhma3dUM0RINEhxSm5PWWdWaGZSdzNGcTA5WXN0Z0hMWmRweDRaVXJQS0NDa1RWX0pJaGliT043Y18xdFZEWXBlanR5VnVaLUw5QmdwZlR5LXQxb1B0NGs5U2xLd3NuaDRnV2tIUWp1UlNnaG5tbVRrbTQ4REpMbmVDZ0lTbGxVRWZvUGlheWdWVC1GOW94bFNmcENvY211dWMweVpidzRQWTBhVzllOUxFRU9qV1lVdnF2bzhOdzVIdGZLX1Q4d2ljd3M3QzRNa0s5ckxIMjJmLXp1djd0ckVfak5iTDEwWk15dzRHbDlTM0RTMVFyNzRRWmk0Qlo5d3ZhQ0l1MGpMQ243N3Y0VFc2Qlg5MDVQdFVqcWFrTlhjeC1NUGR3MFJFV2pIT05la2JNWXJ0V1VIR2Y2ZGRCMkpDc19QMm1FcWFiZ0ltU3BN?oc=5
+・AI-OCR「Gen Drive」、デジタル化・AI導入補助金2026の補助対象ITツールに登録（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBFWGpGLS1ZNmdoVkNhYUU3UzhTNl9MSTJUXzVIN25kWnRZR0ItTE8tX09zcjdvWkdMbWNNVFE1ejl6ejFUUjk5VFZYa2dfOG1ieEFiSWVzX0JtVWFLNXVOQ1R4UVRSQ3lPSEE?oc=5
+・AppleがXserve以来のサーバー再参入か〜M8 Ultra搭載で企業向け（iPhone Mania）
+  https://iphone-mania.jp/apple-606091/
+・【本日みつけたお買い得品】量子ドット/4K対応の55型リビングテレビが1万円引きで8万9,800円に（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2141627.html
+・「GPT-6 Astra」に3Dアプリ制作、Excel操作を任せたら「最後までやりきる力」がうらやましくなった【柳谷智宣のAI ウォッチ！】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/yaaiwatch/2141084.html
+・iOS27.2でSiri AIが日本語対応？ベータ1で利用可能に（iPhone Mania）
+  https://iphone-mania.jp/ios-606086/
+・ROG 20周年の「ROG XBOX Ally X20」いよいよ国内発売。ユーザーの声で操作系刷新（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2141511.html
+・「Word」に新たなクラッシュ問題、差し込み印刷の問題もいまだ調査中／「バージョン 2608」（ビルド 20326.x）で発生。現在調査中（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2141597.html
+・ムラウチドットコムから顧客情報約771万件の漏えい 氏名や住所、電話番号など（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/17/2000001567/
+・NVIDIAはAIの中央銀行と化している（GIGAZINE）
+  https://gigazine.net/news/20260917-nvidia-central-bank-ai/
+・auの「iPhone 18 Pro（256GB）」がMNPで2年6.7万円→2.3万円に（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2141598.html
+・レベルファイブ、AI疑惑に回答 新「妖怪ウォッチ」の“不自然な電線”は手描き、一部は人的ミス……修正版公開へ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/17/2000001564/
+・体が大きすぎて自分で卵を温められない恐竜はどうやって卵を温めていたのか？（GIGAZINE）
+  https://gigazine.net/news/20260917-dinosaurs-strategy-kept-eggs-warm/
+・「PayPay」で最大20％還元、11月は野田村・大泉町・枚方市など（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2141524.html
+・NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260917de50718
+・クリヤマホールディングス株式会社：2026年12月期中間決算説明会文字起こし（1）（株探）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jOEFQNDJZbXJreFFwQ3N6MlR6V3htX3dONHZPSnFzRDhodVhZbnNsaUVBOXRyb3JPZTdFNlRWQjVMek8wYThieDlEUDFKMHhvTHZ3QkxyZVRJWm9UOVRMN2VB?oc=5
+・日銀 きょうから金融政策決定会合 利上げを最終判断へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260917de50713
+・会社四季報2026年4集 秋号（東洋経済STORE）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Rd1NzSE91N05OSS1SMENqQ0ZzWHJDQy1sMUllZnQ1TlBNYVJ4STFrZmdwRVJTVDRHS2t4aEhwYlphejIxY3RYMDJfWC0xZTd1SWRjaHBycw?oc=5
+・米 FRB 0.25％の利上げ決定 利上げは約3年ぶり（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260916de50687
+・決算:スピンオフが速める再編 石油化学の専業上場へ、企業価値「見える化」（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE50cnRpRV80bDhLcHZFRGl1cXBYRXluYVl3aVlPM2xIVUNTVlVBRkVXVllBWlhlc1dUbWpSU01UR1NFaGJyZUFSRFdVX2VnTXFyUTlYQVA3a0dJVFlDSXpDQkp2MjdzV0p1aDhCTQ?oc=5
+・USシネマ千葉ニュータウン「踊る大捜査線 N.E.W. メトロポリスを駆け抜けろ！」の上映時間（千葉ニュータウン）（映画.com）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GNHZfYW42dHhtZDRJbUVUT1dUT1BUdkFsUnlYc2RCa0lnVFhsc0N2QURoV2lPR2x4eG1rY1JKMXFELTM1VWM1cnhHVGNYVlVzQmxFU0F0TDFDQmR5UWc0a2RFUQ?oc=5
+・千葉県の過去のアメダス実況(2026年09月16日)(風向・風速)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCYWhPM004NUhuMW4wVGs5WUhwTHRBdTJEQ2NFNG1wbGF1OTUtT2V4VEhSVC1sZ2VCLWllcWVLcGJyVklQWGJTU3NoSGpuandHSm02ZmltT0o4Wm1uR2pRa0VCZm4?oc=5
+・アベンジャーズ／エンドゲーム：アンコール USシネマ千葉ニュータウン(千葉ニュータウン)の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yT1J3TjBiVW5weGdUVDhKUGhHU3BrZXMzT1JvNTBsRHJrZVQwbVlQeXFzQUs0d3htOVZSVmFQXzctektuMVhCbzlhWlQ2MkxhTHkzZ2FJMU9LdnEtYldsZ3NB?oc=5
+・アトレ新浦安のスイーツコーナーに「OIMO＆MOTCH」 千葉県初出店（みんなの経済新聞ネットワーク）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1pN3ktREpMOXBROHYxX1lFeG5IS1hkeEJ0ZWtTNTU1d1hOUTBzRmZmSEpxT3k3WlM5UjNFVV8tdlVIS0VpN1Q5d2p6Vlh4YzhndlVoemxHS1RDWDRPUm5mZldzdkN5RzdadTk5VC00RlN5T1hEWmhsVjBsb05kS3c?oc=5
