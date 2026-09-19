@@ -1,0 +1,68 @@
+・宮崎 大雨の日南市 高齢女性が土砂に巻き込まれ死亡（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260919de51211
+・動画】Pickup NEWS（9月19日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260918de51062
+・台風25号 小笠原暴風警戒 あす以降伊豆諸島 関東近づくおそれ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260918de51158
+・デイサービス送迎後に転倒死亡事故 介護施設側に賠償命令（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260918de51152
+・トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260919de51190
+・裁判官が同じ事件を担当 大阪高裁がやり直し命じる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260918de51127
+・パナソニック・サムスン撤退の裏で「中国勢5割」 独IT見本市「IFA」トップが明かす舞台裏（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/business/articles/2609/19/news010.html
+・アンソロピックのClaude、「OpenAIのハッキング」に成功──セキュリティ研究者らが報告（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBLVVB0eUF0OGhsTVAwOTRZZ18yYjVuR0hRTm1ueThlNWN6SVppbkk1M05UQ3I2UDdweHBkWms3cFpyZDNHLTFfYlRJU1RkQ3Jza1FQUmhxOFVOOHdJUGJDVDFYdE1KYXY2VHU4ZXBhX2syWEowd2hfSXMweXZ4Z1E?oc=5
+・AI導入は6割、でも8割超が「チャット止まり」 業務自動化まで進まない原因は？（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBpeU8wZWRjdjNSc1czUGZnVmt2MWtJb1dGQ08xa0pqUlhYWkc1c3REZVBMN195QUllUUdKOEFSRjAtaUlnclFfMVoyVGdxRWtpMFRLOVZTQU1NMzc2aFlLcW9qbXlWdw?oc=5
+・「規定を探す時間」をAIで短縮 豊川信用金庫が生成AIを職員のFAQに活用（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2609/19/2000001616/
+・事業者向けセミナー「『生成AIを業務の基盤へ。』～社員５人分の働きを明日から１人で実現～」（千葉市）
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGpFamJxWWNjT1BzcWlaSWc0NFl0S3gzYzdjVXBKTVdyczBKYmo5U2twUm9KNnFJekYzR3A3dV94WS16blRkTEpNSVZRUkVMRHFUT1FzRFE2eEMxSkRnMUoxMXBxNnhjLUZ2Q3RfTE5MREVsbWUyenYyX3BIUnlvLUpHTkVfeWNjcm9v?oc=5
+・680億円の契約が弱点に！英国政府がAI導入で陥った“罠”…医療・警察・軍まで広がる「AIベンダーロックイン」問題（JBpress）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5aN3Rmc3ZNaWtySFQwcEt4TkpWTTd0S1BDTEV5UzhFN2dUQVpWTEpuZkNJenp0aXR3V3JqZXJHMkdjYkhSSXRUT3l0WXdKOUUwamM2ODdn?oc=5
+・NTTドコモ、iPhone17再値上げと残価改定！MNP優遇の裏側と損をしない購入術（iPhone Mania）
+  https://iphone-mania.jp/iphone17-606197/
+・【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/special/2142097.html
+・「robocopy」を活用したGUI定期バックアップツール「Robocopy Scheduler」v26.9.14.0 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2142402.html
+・iPhone18 Proシリーズに高い潜在需要〜高額でも大容量ストレージが注目集める（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606192/
+・ベンキューのゲーミングモニターが東京ゲームショウで異彩を放つ理由 ～実売10万円前後の240Hz有機EL「EX271QMZ」の没入感に迫る[Sponsored]（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/special/2142082.html
+・1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html
+・ニチレイ、計5万件超の個人情報漏えいを確認 7月のサイバー攻撃で（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/18/2000001648/
+・計算できるウマ「賢馬ハンス」はどうやって正しい答えを出していたのか？（GIGAZINE）
+  https://gigazine.net/news/20260919-clever-hans-horse-mystery/
+・「NURO」が横浜アリーナの通信環境をサポート、アイドル×ファッションイベントで（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2142300.html
+・肖像画をChatGPTに読み込ませて出力→加工して納品 委託先による著作権侵害で、小学館「サライ.jp」が謝罪（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/18/2000001645/
+・本当は仕事を辞めたいのに経済的理由で退職できない高齢者はメンタルヘルスや健康状態が悪化する（GIGAZINE）
+  https://gigazine.net/news/20260919-working-out-of-necessity-older-health/
+・「東京ゲームショウ2026」見どころまとめ、クリエイターツールやGoogle Playステータスラウンジなどにも注目（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2142356.html
+・米新興AI企業 最新モデルを生命科学分野で提供 安全対策も（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260919de51203
+・決算:スピンオフ、企業の狙いは 競争力強化へ「意思決定をスピーディーに」（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE56Ukx0T0JnaUpYTTBjVmFDSlliTXlaY240ZVZOMjBfaXFSVWNNeERPMXNuVTJfdHVZbnRFRUJITnlsZUY5TWE2a1JCQklQZk9ZV25TVGRUQzcta0U1a0gzWThUd0RrejU5emtOQQ?oc=5
+・“投資の神様”バフェット氏会長退任「時の流れに逆らえない」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260919de51202
+・日東紡【3110】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjY1dDUDZ3TTA3Ry1BQ1h3R3dMTnhjYmZ2UExDc0RRa2F3a1Z6WEhCdUhVbDlYb3AzQ2ItSUE0aHdqM05BYTBVWHNRb052a1BTYWc?oc=5
+・日本商工会議所 食料品消費税減税でレジ改修費補助など支援を（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260918de51142
+・米主要企業決算 コストコ（株探）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE43TjNYUFUwbm52OEw3WS1tTGthUDhxM1BsUkdWU2thOGU3a2JNYVhZSERycGlPX29JTzBLaGpYYlE5eGZsSTBVMWRIWHY3amUyYlNsaEVnUGE4dDNUZTZkdmtn?oc=5
+・超かぐや姫！ USシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rbFlhOTh1ajlvZllZYzVXZUJ5R0djSWtKcnhpelQzeXpTVC11ZDZ2SXcyVkxtZ1Z3eWJ5dXhDdkhxdkFKeW1ZbU01M1g4ejhLYThHNlZ3cWZ0eHNDNDEtelBn?oc=5
+・【千葉県】9/19の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8xVEJab1NRVFQ2aHhVdXRDXzJrd0dHX2RvUVYyS3B2ang3MFRQRnY4SXNuczhzaDlMYXpkSmRpWFBMVTVicUhqRTRxbEVndFFHaTRVRE0tSkw4eHpiTkFNMWxMSk5qWWY4QVk4eGtBRWpQVTRjUXdtN3ZjWnZCczA?oc=5
+・【早割り特典あり】PNFストレッチ入門講習会☆10月23日までのご予約で￥33,000⇒￥29,800☆ - PT-OT-ST.NET（"印西市 OR 千葉ニュータウン when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xaElKQlpSZXF1RU45cGhLZnAzOUlYeWtRZV9VLXo1VUpxbGVXWVM5c216X1hMb0taRWhZQmRVVVpGeVA4RDVWR2k4LWprNnNrcjBGRHlINFdRcFRvUzY0dFlndEtLNDg?oc=5
+・台風25号(2026年)の千葉県夷隅・安房の暴風域に入る確率（tenki.jp）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFAtMFFSd1p2V180NnFFbTZSQlA2NU51VkdFMHc0WGtiQzQ1WElsdVhlWEdpd19ZN1V2eDYtR0FMa193elM3WWVXVkIwTGlmWjZ1bk5HVUpUdkVERVBaZVlzNE81THlsb1I4b3c?oc=5
