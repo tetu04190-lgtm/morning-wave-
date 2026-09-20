@@ -1,0 +1,68 @@
+・台風25号 21日から22日ごろ関東など接近へ 大雨など厳重警戒を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260919de51282
+・【動画】Pickup NEWS（9月20日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260919de51264
+・【気象予報士解説】台風25号 今後の見通しは？（7時台）（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260920de51299
+・環境省 温暖化影響指摘の「代替フロン」事業者支援で対策強化（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260920de51302
+・【台風25号】鉄道・空の便・道路は（20日朝の時点）（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260920de51297
+・電動車いす 転落などで死亡事故10年間で34件 NITE注意呼びかけ（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260920de51291
+・AI人材を採用できない中小企業、専門家を「必要な時だけ」活用する支援サービス（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2609/20/2000001626/
+・Claude Code、AGENTS.mdに対応 ——/configで指示ファイルの読み込みを設定（gihyo.jp）
+  https://news.google.com/rss/articles/CBMib0FVX3lxTFBhUF9KaXF2cU9iZWtwcnZ0RzNKU2NYNkZNRC0zdnVNd0tOTm1XVldpNE1KRVZ0V3plUER5RkVzQzRQMk1FVTdaUFY5aXRZc1Rmc1c5TWRKSGpDZ0daa1NuN2JrQ0pEajU5NF9QQVFZWQ?oc=5
+・AI導入でつまずく中小企業、「何を・誰が・どう変えるか」を丸ごと支援（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE84RkVnNUl6a28wSjg3Y1luTG1kR1B2VzNUNnJlWnhuYzg4djVrWUQyQUItTXg4dU92RmRFd3cxNUMyQkRpTWRobDdULWlKa1NCY2RKYUJMOU5UcXI1N2N0RkQ2T3ZQQQ?oc=5
+・AIを入れても仕事は変わらない？ アビームとNotionが「企業ナレッジ」に注目する理由（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2609/20/2000001660/
+・“魔女狩り” に遭ったレベルファイブ、生成AIで “焼かれない” ためには AIならではの “魔法” を見せた、コロプラや東京シティ競馬の共通点 - AdverTimes.（アドタイ） by 宣伝会議（"生成AI OR ChatGPT OR Claude when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NWGZjSFU3RWp2WjVRd3dHMkxUQlFGdWxoQUNxRmNOb2NVaHhvQXY4d1R4V0xkaUltdGJQR2JvMkpyY0h4djFtR0c0U2VGNy1zU25YdTcyVjRTVVpfaS04?oc=5
+・「PoCの壁」に直面するエージェンティックAI。全社導入は31%止まり（korit.jp）
+  https://news.google.com/rss/articles/CBMid0FVX3lxTFBERkdsLUtnUThBOEFZbTBNRTR3SXB3eGRtOUF4R2NIOTlsbzdTa0RncDlXTm5NX0pmMzdMd3hGb2ZIOURiVDQ3bG9QeFI4SXhJRDM2aHRvRzY0OTFnSW9BcmtPTUlFTGFNN1B2NzlpR3NhMVhOVjBn?oc=5
+・iOS27.2では誕生日につづき「記念日」にも電話発信時に通知が表示！（iPhone Mania）
+  https://iphone-mania.jp/ios-606249/
+・【福田昭のセミコン業界最前線】DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html
+・「robocopy」を活用したGUI定期バックアップツール「Robocopy Scheduler」v26.9.14.0 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2142402.html
+・Mac版Geminiがメッセージアプリの読み書きに対応へ〜設定に項目が出現（iPhone Mania）
+  https://iphone-mania.jp/mac-606243/
+・【TGS】Enterキーにピカチュウの後ろ姿！REALFORCE特別モデルが可愛すぎる ～ホロライブコラボ新2機種も発表でクリアファイル配布中[Sponsored]（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/special/2142097.html
+・1行のプロンプトから3Dモデルを生成 ～Maker Faire Tokyoで動いていた「ComfyUI」デモが実は先端研究だった【生成AIストリーム】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/aistream/2142308.html
+・新作「鬼武者」にハマったマンガ家が熱弁する、他とは違う“パリィ”の魅力とは？（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/20/2000001640/
+・「高速鉄道網の発達」が中国におけるEV普及の後押しになった可能性（GIGAZINE）
+  https://gigazine.net/news/20260920-china-bullet-trains-fueled-ev-boom/
+・LINEMO、乗り換えで最大2万円相当還元＆事務手数料無料（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2142340.html
+・東京ゲームショウと生成AI ゲームの祭典で商談見込むベンダーたち（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/19/2000001639/
+・警察官が監視カメラを使って元交際相手のナンバープレートを1万回以上検索したとして告発される（GIGAZINE）
+  https://gigazine.net/news/20260920-lufkin-officer-accused-search-license-plate/
+・「NURO」が横浜アリーナの通信環境をサポート、アイドル×ファッションイベントで（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2142300.html
+・日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260919de51243
+・ダイナミックマッププラットフォーム(株)【336A】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aTElrZHFkZUFNUnZXZ0l4cXdTdzNJbzBJQnotdTQ2c2MtcFlERVFXZ0REMnc2VU9temdRX29WdnVxYTJXS1JWV0tQbFlHT0RlT1E?oc=5
+・米新興AI企業 最新モデルを生命科学分野で提供 安全対策も（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260919de51203
+・【株式投資】忙しい会社員でも好決算を逃さない「夜間取引」の裏ワザ・ベスト1（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1EallaRkhyNUVTeUY1bmRBZmFfTGsyMlJCWUl1cEhpRU9DazdWWFFrelZfa3RncjVxTUdmakFsLXowVUZLN1J5R0JkSlDSAU9BVV95cUxNaVJCSmFqWDRRUEUwckw2d3ExNDgtTWkyNnVYVGwyT0dOU21oRDZlWnlTN25nV1E1RGo3NjN6Q3ZzSG5aNVE4S1l1MXcwbS1v?oc=5
+・“投資の神様”バフェット氏会長退任「時の流れに逆らえない」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260919de51202
+・【気になるコーゾー外食ニュース#125】〈新連載・外食決算インサイト①〉山岡家・ギフトHDは「客数」で伸び、鳥貴族・くら寿司・バルニバービはそれぞれの事情で「踊り場」迎える｜佐藤 こうぞう（note.com）
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtQWhXSHhiQkhjYi12TVJpcUVSWGd6SHBVT2lMSkNfMzdJbHU3d0JHUHRlQTdYZlBlUmRuMHQ0dU5OU0NtOVN2Z1huOVF0SlNL?oc=5
+・アベンジャーズ／エンドゲーム：アンコール USシネマ千葉ニュータウン(千葉ニュータウン)の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yT1J3TjBiVW5weGdUVDhKUGhHU3BrZXMzT1JvNTBsRHJrZVQwbVlQeXFzQUs0d3htOVZSVmFQXzctektuMVhCbzlhWlQ2MkxhTHkzZ2FJMU9LdnEtYldsZ3NB?oc=5
+・【千葉県】9/20の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1RaDhRSFhNYTZYWTUzbHBwY29sTXo3WFFhczBmQ0l3Z2VyeG9GTDlSRXg2VmpOTDBXNE8tQmloaGZoZ24xVGR2TFFBV1dqUXdmMkd2NE9tV1YwLVV3NHlQbGdSNEJXZktNTVRhdnphc3FPaE5IWnNtYjY2WERSTnc?oc=5
+・新着情報“キャストアクティバX SAⅡ”2016年式ファイアークォーツレッドM入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5UV1BPZkEyVnh1UjJyZS02Ym8yeHhKYXJKemJIWm5jX184M2U4R25ic2pteXl2Y2tRUER6Z3ZZMEtwbzY3azlCTWdtbWQ3QnlHNXp3dHAtQnd4MG5CZFRQTWRVa1VOZXJzOWJLVUVBbXdnYlp6bGRtdG1TYy1lNjQ?oc=5
+・台風25号(2026年)の千葉県君津の暴風域に入る確率（tenki.jp）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE95dEtSSlNWQWtFZFU5VUtvNmc2NGhoQk5DaTFFRWZRVm90eDYxSVRIdU9IelRYTm1BNC13cUVwRTY1a2JkTVN5aFQ1RG1yczJYbnR0MVVmUWMwUVRQdTNvNFh5UmppY2piX1E?oc=5
