@@ -1,0 +1,68 @@
+・【上空映像】台風25号 記録的大雨 きょうも土砂災害に厳重警戒（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260921de51748
+・【動画】Pickup NEWS（9月22日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260921de51718
+・【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260922de51778
+・【動画】Pickup NEWS（9月21日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260920de51378
+・【動画】台風25号 千葉 神奈川 一夜明けた各地の被害は（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260922de51808
+・悠仁さま アジア大会で伝統競技の試合を観戦（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260921de51687
+・Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/22/2000001669/
+・栃木県、生成AIチャットbotを高精度化 県サイト全体を横断検索し、対話形式で回答（kn.itmedia.co.jp）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2Q0VuRzNqb1ktWU9pSUxqRURqSFpETnE2Rlc1RlNjU05WbGtCbUZ3MWtuRUdPdnlib3JORHJZdXdZVG5RVm9VZF9UQldveUVXSUVnX3NQd0JIcWl3b2hTbldxanJsZw?oc=5
+・あなたの作品、AIに無料で学習されていない？ クリエイターを守る「第三の選択肢」とは（AMP[アンプ]）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFByMFFMclhYdkNkZk9aNllHU0RhRUJ6X244TnJVNTRWNDRRRUFXY0pxNG1GWkowMnZkYzdIbTZPaGN2U2xFbEh0YTRTeEp2d1dXYllxYjY3Ny1zdkk?oc=5
+・SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/22/2000001668/
+・アンソロピック、Claudeが現在AI研究の4分の1以上を主導していると発表（Business Insider Japan）
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxPLUFScWhLTnBDUDUzNHRJVHNGcENOWVdUTXhBYTZUWFBqckJyTTFPdU9IN0lyY1FMMXU0UUtjZTBXQnluOFA4a0FJX1g5OFR4ZWVXMnY0ZmZDTHd3N09tWTY0Y0t1OW5QVVhORm5UQzRjRGF2VllsZlVtSklzUlVWdnRYNVI4RnBxdkNtRGlhY2Q1Z21GS01kcEpQSEdGNC1KN0E?oc=5
+・自治体業務にＡＩ導入推進 総務省、最適化へ調査研究 中核企業の活用も支援（山陰中央新報デジタル）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nUHRQbVQwRkRMZmlfUnlwSGExRkRtQjB2UVhfd1ZDSVItV2tJVzV0WDczeHNpQmc2S21wSW42bHFQZEY3N182TW9yUXNFUVRub1VLaVgzelJLN3c?oc=5
+・iOS27.2、旧アプリから新アプリへデータと設定を自動移行する新機能を導入か（iPhone Mania）
+  https://iphone-mania.jp/ios-606448/
+・【やじうまミニレビュー】口数とケーブル長を選べる無印良品「ジョイントタップ」、組み合わせ方を解説（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2142575.html
+・GitHub Copilotを働かせるチャットビューでは何ができる？（窓の杜）
+  https://forest.watch.impress.co.jp/docs/shseri/vscghcopilot/2116529.html
+・iPhone18 ProでFace IDが使えない？Appleが保護フィルム取り外しを案内（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606442/
+・【今すぐ読みたい！人気記事】スマホとWindows間のファイル転送を簡単にやる方法があった！しかもワイヤレスで！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2142582.html
+・【Excel】フォルダー内にある大量のファイル構造を確認したい！ 一覧リスト化するテク【再掲】【今すぐ読みたい！人気記事】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/shseri/readitnow/2142366.html
+・Amazon、MetaのAIエージェント「Muse」による代理購入をブロック Shopifyは全店舗で対応へ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/22/2000001669/
+・単価の安いAIモデルを使うとかえってコストが高くつくことがあるという研究結果（GIGAZINE）
+  https://gigazine.net/news/20260922-cheaper-ai-coding-cost/
+・韓国でVポイント最大20％還元、三井住友カードが新プラン（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2141917.html
+・SpaceXAI、「Grok 4.7」発表 コーディングと知識労働向けで同社最高性能、価格は据え置き（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/22/2000001668/
+・AIに頼って登山計画を立てた登山者たちが救助される（GIGAZINE）
+  https://gigazine.net/news/20260922-ai-climber-rescued/
+・[電子書籍人気ランキング] 電子書籍人気ランキング（9月11日～9月17日）（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/ranking/galapagos_ranking/2142373.html
+・NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260922de51819
+・ＴＨＥ ＷＨＹ ＨＯＷ ＤＯ ＣＯＭＰＡＮＹ(株)【3823】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVUkpnRUthTTdpVjJJc1pCMFdubHRrR2h0c1Z2RlVjZUhyN2tiR2QxZnN2ZjVUbHhZR2JJaTB2UHIxemxsWHdQcnFfSGFjNFZSM3c?oc=5
+・日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260919de51243
+・【すごい】日本ディズニー赤字460億円→黒字1,684億円に。決算書は、コロナ期からどう変わったのか（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1rU2FYWnhLay1mbFNCakNLcERGTUlVNzc0cDN5b09JOVJSaERtT0EyNkVaRDFmZjJrQnhUa1BSbUJ2NkhSSWliVVZDcWfSAU9BVV95cUxQVnpxMHhxamFFY2Z0Zk5oSjcxb0NuUVlmaWRxbDJUaGtvd2xlRmRfeC1lSlBhLXBSNHhiVG5mblhwMmZydXpycVRfTXRXb0VF?oc=5
+・米新興AI企業 最新モデルを生命科学分野で提供 安全対策も（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260919de51203
+・財政健全化 ４指標とも基準クリア 大館市２５年度決算 公営企業は４事業で黒字（株式会社 北鹿新聞社）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBJSFVteGxuLTNKTVBMbjlUN29yNl95NWMzUEVoa0VzQXJ4SEZpS1FVc0VjMU9FeVppOFU0SmdPVjlyT2xjaEFjRGtET3oxdlUzM3JPUEU1aTNTdlpZdWhGdTRHRUJ3dzYwX05ORXhYSDJya1NQ?oc=5
+・千葉・印西市にレベル4土砂災害危険警報（21日午後2時24分）（2026年9月20日掲載）｜日テレNEWS NNN（日テレNEWS NNN）
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1NVHVDTXlHRmI1dmxoOHdHbU9aR1lOOXJYVE5Cak5qdXdQMV8yWTBJRTNOX1Rwek5SWTJhNnZRY2RDLS1hVW5nalBPX3BFcGFkQjFITm1kYTk1NEF6clIxV3A0THlIeW5UYzMxR001b2UwZk5rdU9OdDJySFM?oc=5
+・千葉県 22日朝も5万軒近く停電（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kTkdHVlZvcFZLbVRTUnFmcWZzeThwVlJwaXBsT2tFcVVkYUNaT2pzOEd2cExybHA5UkRYUThuS2pHd3VlTDRYUmUtZmJZRkhj?oc=5
+・【レベル4土砂災害危険警報】千葉県・印西市に発表 14:24時点（TBS NEWS DIG Powered by JNN）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9hLWFjWkNVOEd3aEVlMG9KVmw4aTlkM25iNk5GdGg3LWROVlNsRlZFSDFJckdyODZZeWJoU2dBUkNlaHk0YU1mMF94aERvS0FFbk5zNWtrckZoano5d0dUajFjZW1fVDByT29VUEFEYTFRZVhibzdGZEhLZzhmTnc?oc=5
+・高崎川氾濫、あふれた水が住宅街へ 千葉県佐倉市が「緊急安全確保」（朝日新聞）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wTXJSWmpVOF96LXZYa0VOWktUOThwX01GaTVfbHVyT1VQN0hjcFh2TVYyaUQxVDNTRFZUZ0x2ZjhfaFNreFpmSVBNOE0tNGVPMi1tRFpJSEZIaXRFVzVaVmdWZHhmZkU?oc=5
