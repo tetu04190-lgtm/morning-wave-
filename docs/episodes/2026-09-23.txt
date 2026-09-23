@@ -1,0 +1,68 @@
+・日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260922de51902
+・日ウクライナ首脳会談 “各国結束して支援が重要”（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260923de51944
+・トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260923de51930
+・【動画】Pickup NEWS（9月23日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260922de51892
+・台風25号 千葉と神奈川で8人死亡 5人不明 住宅被害相次ぐ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260922de51926
+・福岡 3歳児死亡事故 容疑者“当日の朝は焼酎を飲んだ”（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260922de51927
+・OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/23/2000001674/
+・Anthropic、「Claude Opus 5.5」公開 Fable 5.1並みの性能で利用コスト4割減（ITmedia）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1qeWFXSlpoQXAzbXBPZGtKcFZFUmdnSGRpTEhzeUp3RnJRb1BSUjNHYS1Pc0Z3cXFCUlpsTXN1NnNMaFdrN0I3UHBnZ05jLUh0UkxUZVdfbG9zSFhhOVQ2QThOazNMQjNrN0E?oc=5
+・AIを導入した企業ほど困る「データ基盤問題」 パーソルが3サービスで支援へ（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9DZzVTaFp3dUVVaDQzeHh0c1FKRzgySF9lLUpuMDJ4QXA0RGY1aEdCUVNlNXVCSG1BVTBlRGNWbFY1dXdxT0ZPSlZPZHJzZ2RrQ3F3andUZjluS2V5SlBHdmJ1bjM1dw?oc=5
+・今押さえたい「半導体」の基礎知識 極小チップが“AI時代の戦略物資”になった、納得の理由（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/business/articles/2609/23/news004.html
+・Anthropic「Claude Opus 5.5」発表 40％低コストになり、OpenAI「GPT-6 Astra」を一部で上回る（アスキー）（news.yahoo.co.jp）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5OaVFQVEhyTkIxVnFRYjE0TC1paUpSZFhvMExURWNLblZqNTZsV1A4cDZQWk1FekNKek1LTm83UXFoS2FYZUxzQzZNZXNJclpPQm9xdUVXUmhCcHlxeFdoRGsybEtSM3Z6UFNBNE9CS2JwT2VtODdKZzRMYUFuTE0?oc=5
+・AIが引き起こした問題の責任は、ベンダーではなく導入企業に降りかかる（DIAMOND ハーバード・ビジネス・レビュー）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZTk41WjE1SU1qOXBQbmZEZVpFY3FSUDM1dEFOQ1hhU3l4UkRvTy1ZZHBNVnVIRjlSRy00SVNpcFlFeTV1SGxycHZ4STZzREZTcEE?oc=5
+・iPhone Duoの組み立て歩留まりは60%台か〜初回出荷は少なめの可能性（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606517/
+・スマホCPUがついに5GHz、Snapdragon 8 Elite Extreme Gen 6（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2142600.html
+・【Excel】毎月のCSV加工を自動化！ CopilotにPower QueryのMコードを書いてもらう【いまさら聞けないExcelの使い方講座】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/exceltips/2142394.html
+・iOS27からiOS26へダウングレード不可に～今アップデートを迷う人が知るべきこと（iPhone Mania）
+  https://iphone-mania.jp/ios-606515/
+・ChatGPTの使用量リセット、OpenAIのSottiaux氏が「火曜」と予告（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2142612.html
+・「なんでここに駅ないの？」 首都圏の“鉄道空白地帯”を可視化するマップが話題に【再掲】【今すぐ読みたい！人気記事】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/shseri/readitnow/2142368.html
+・Microsoft、Xboxで新たに268人削減 次期「Halo」はActivisionが開発、Ninja Theoryは閉鎖案（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/23/2000001675/
+・Firefoxに「ピクチャーインピクチャーで再生する動画の速度調整」や「新規タブにウェブサイトの未読通知をバッジで表示」などの新機能が追加予定（GIGAZINE）
+  https://gigazine.net/news/20260923-firefox-pip-speed-new-tab/
+・「Galaxy Buds」の補聴器機能、米FDAが認可（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2142313.html
+・OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開 API料金は前世代の半額に（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/23/2000001674/
+・幼少期からのPCなどの画面を見る時間が長いほど青年期の認知処理能力が向上するという研究結果（GIGAZINE）
+  https://gigazine.net/news/20260923-screentime-cognition/
+・スマホは「アプリ中心」から「エージェント中心」へ。スマホの頭脳支えるクアルコムがGoogleやMastercardと見据えるAIの進化（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2142630.html
+・トランプ大統領 軽油の輸出禁止措置“政権内部に求めてきた”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260923de51939
+・(株)日本Ｍ＆Ａセンターホールディングス【2127】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zckotdWZ6SUNYal9aM3I2Z2lmUFJybTJiUzE5Nzh5RVpCOC13ZG1SU0VjSm1lZG1wcUpFZmQwWmdnUWdTSEpRTjBxcmRKSWVMUEE?oc=5
+・ダウ平均株価は下落もナスダック最高値更新 半導体に買い注文（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260923de51940
+・四季報巻頭の定番企画！最新｢業種別｣営業増益率ランキング（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBQT0pJT0xZR1J3SlllNzN1alBXVlZrNmRyV1hiMFdCTHh2T3hvUlZ2bzJpbEh2bEZoTXlJMFk1YkNjVlJhZ09KSXpBeUdGaUotY183dnpRRQ?oc=5
+・損壊したサウジアラビアのパイプライン操業再開と報道（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260923de51932
+・ラグジュアリー企業の業績見通しは過度に楽観的とRBCのアナリストらが指摘（FashionNetwork France）
+  https://news.google.com/rss/articles/CBMi7ANBVV95cUxPN25ScUZJanpZZUJONXBETjdoMGd1N2pkX3UxTkZfazNOZlpRLUxnWll4NjYwS1psc0xhRmVpd2NCVzZQYkZiaG43ek41enpHLXBZZjRHNzhjNzNEX0Z4c282UEdiY3huVVBFR2phaW9STkpHZFNwUWFKTUtYTk83QnQ4RlRxSkpHVnh0NTRRWnEyRF9SdVdiS1l0NXlFVFlqS094dlIxY0oxS1R4MTVRbk5ycjZVNmtQenFPRTkyVmtFSVl1TzdGN1ozYXdGc1BZaG1nX1pSUXhmWDRzelltX1N2MXZ3RFUteGczQk05d1U0YUNCVk9ZbXpnaUpSVDBsb25kS3U4Qk1tNzA3MXdZRzV1TUxRdFZRSUw0RnE0RDZjM2JJR2VxUnJhREE1THVWY0c2OHNEWFRxdjV0QkJXclplS08xTDFvS1RHLWJmSTBwTEd6Z2FDSVJLaXBMUHpsaXhEWE5oTXYtXzJjbi02alRucjdRRE93YXZUY2JMYTFkNktPMmFYbFlDMV9wYkNvS2hLczZHUHZQZ1VSaEhmUHZENkNRUmZiMjJPcEpSZUZPWlJxdGc1c3NwSkhNVTBadmhmNXJtQU03MXhMTC1xMHFwNEk4X3pmUXpBdGVuOWxPczBsSTVSYnhqSmY?oc=5
+・千葉県印西市:水没車両の近くで６０歳代男性見つかる、死亡確認…台風２５号の死者は千葉・神奈川で計８人に（読売新聞）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtQWZvR1lfYTNrT0sxX0x6SGZ4YzBzaHdJNEtIZVV5bzRGVFdkcENKeHhQZXBSQjEyTldCTXdJcGE1QjFkWXZiakZUUFhTeFNBWlVqbTlsMTcxYkdzRlZYTG5hbEg0QQ?oc=5
+・大雨被害 千葉県内 ６人死亡 ２人行方不明（NHKニュース）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YOUZDXzljWkt3VGZmSFZlbkpaOHJCaVJQU0RCTzYxSnZUZGlBZzB6eVY3eXc3SF9HUE5yNWtKbjRDTHp1bm1Vdk5IMWlLRjIyNkVZNlJvY19DVTViaXBB?oc=5
+・【速報】印西の水没車両付近で男性死亡 千葉県内は死者６人、行方不明２人に（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJRzFkT1ZlTHJWR3ZnZ1Joc0R6RjJKVUhnWmphUDN1Q01lNklVT0N3MUZiTnBuQk1ySXNLLS11QThuVEVOX0NYQmF1ckNLSi1mb3dGaVdzQk8?oc=5
+・【停電情報・9時過ぎ時点】千葉県で停電続く 約2万4070軒（TBS NEWS DIG Powered by JNN）（news.yahoo.co.jp）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9QM2ZRUWw5SWZMN3hNUEdXMnJFXzdaVThLdjRFc0pxZHEyeDFzeWNqWW5OdF9uQmdVMUwxZTlkNWV5YV9WN3hPc1hENGdsa2c3b0EyWUprUDlxdVhaenlBdl85Tm83YjVYVEhQNlJjWWRBaFFLcm9sNk0xMjl0bGs?oc=5
