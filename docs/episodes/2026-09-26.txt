@@ -1,0 +1,68 @@
+・台風26号 沖縄であす非常に強い風 関東中心に土砂災害に注意を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260926de52529
+・【動画】Pickup NEWS（9月26日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260925de52484
+・習主席 訪米終え帰国へ 年内にあと2回会談の意向示す（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260926de52523
+・政治団体NHK党 立花党首 兵庫県議への脅迫容疑改めて不起訴（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260926de52517
+・群馬 太田 女性死亡事件 逃走した長女の元夫を公開手配（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260925de52508
+・ネパール土石流発生から1か月 生活再建踏み出せず（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260926de52515
+・「Codex」全機能に障害 約1時間にわたり（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/
+・生成AIは「コロナ禍」に似ている…その先に生まれる、まだ名前もない「新しい習慣」（ダイヤモンド・オンライン）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1nRTIzYTlLRGJIVkUtSVItaEEtem5BX1Rjc21uT1Vpc2p1STR0YS1Ra1pSdzdhRnhmTjFET3lOOGQtMkdPdFBnd3Y0emVIb0x6Tk9YY1Z0RTBRQzJPM2dYMWFVWEEtcFlfeFQ2TlJHTjdnTGVWNEZlWGNrT01tR1k?oc=5
+・印IT大手ZohoのAI責任者「AIの企業導入、小規模モデルでも十分」（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFA3SG5VbEY5NEFvT2NYdEhWVW5CVmxpeUFLcEZJX044NEpmX1RDZ1ZQbVp4MjZXT0NUSlJXWjN5NWloZlZ3SG1CTExkQ1pvZ2VRM2xLa3RDYWJvSVdYT3dIZmRPb0pQS25IRFZ6SQ?oc=5
+・Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/26/2000001773/
+・OpenAIがコスト半減のGPT-6新モデル投入 Claude猛追とOSS包囲網で激化する価格戦：企業AIのコスト再考（techtarget.itmedia.co.jp）
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE8wQXVJaTZhcUtzWGlQVnc1ZmdvRFRQZDZEZ1psMW5WZy1YX0wtOEJ2RUtnR0xkelpjTDljcnpBNjNOdXN6SlNhaTBiRU9CbEFlVHltanRZYkNiRnRlZDhOM2c2bUtzZ2hRd3psNXJpQmQ?oc=5
+・生成AI活用ナレッジマネジメントシステム「STiV」、製薬業界での導入企業数が前年比約2倍に拡大（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZGF3bUJFT0J6ZEVid3FXa3BzUHF6TV9pTTdTSmg2bjM5TkZfVnVCbmJ1Y0U4WlktXzMyZjFRMjYzeXdTUVZDRmxRVWxuV1p0a0R0cTJTb2I4SmEyUHl2emZGSkpaMDhLLVE?oc=5
+・新型iPad miniはA20 Pro搭載？HomePod mini新色も判明か（iPhone Mania）
+  https://iphone-mania.jp/ipadmini-606606/
+・【今すぐ読みたい！人気記事】ミニPCを持ち運びたいワガママを叶える！モバイル環境で快適に使うための周辺機器（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2143508.html
+・Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2143487.html
+・iPhone AirがAmazonアウトレットで1年前と同程度の価格で販売中！（iPhone Mania）
+  https://iphone-mania.jp/sale-606602/
+・【今すぐ読みたい！人気記事】3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2143507.html
+・「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2143433.html
+・ずっと座っている人ほど椅子には“動いて”ほしい Razerの最新ゲーミングチェア「Iskur V2 NewGen」を試す（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/26/2000001759/
+・「AI家庭教師と人間の専門家による指導の学習効果は同等」という研究結果、正答率の向上にかかる費用は918分の1（GIGAZINE）
+  https://gigazine.net/news/20260926-ai-tutor-human-gre-cost/
+・京王・TX・ゆりかもめ・江ノ電のクレカ乗車でVポイントももらえる、10月7日開始（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2143363.html
+・Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/26/2000001773/
+・中国・北京がドローンを全面規制、飛行だけでなく所持・保管・持ち込みも禁止へ（GIGAZINE）
+  https://gigazine.net/news/20260926-beijing-ban-drone/
+・指輪型AIデバイス「VOCCI」が日本上陸、ユーザーとAIの橋渡しへ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2143496.html
+・円相場1ドル＝156円台に上昇 1日で2円余円高に 介入警戒強まる（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260926de52516
+・小売り決算、天候不順が逆風 集客とコスト高対策に苦慮（日本経済新聞）
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE5BdU1oWGVnRzNRUHJpUUFCVGIxMkotb3VqMXBMUF8zZW1uOUJQbDFkLTZDQkdNNVJSSGdJNW9ZaWsta3F3bThGRUFkRDkyYmlXalBKang2clZUUjFIN0ZUMkhHYzlUOHhmTkRNU2tPNG5ueGtQS0FxSjl6czl4QQ?oc=5
+・片山財務相がベッセント長官と電話会談 日米協力強化を確認（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260925de52509
+・武田、中外、第一三共、アステラスが全社2ケタ増収…好業績を支えた「主力薬」は？（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVXMzWXpRalNUVXZWNHV1MFpaZGxjLXd5bTZYMEJ5M3VuZ2ZfS3R0VGZIWG1wMzliN09Jd0dlZE12QkRlbXZCVHJxclbSAU9BVV95cUxOSFFwRGF1U1ZiRVE4UkdaTVVZdGtyVFFUY1hhQmtiQUV4TENsRThRaEVwWjl1NnZJUU94cmJOZWIzSkEyWENocnN3Xy02dUFr?oc=5
+・ことしのサンマ 全国水揚げ量は去年同時期の16％程度 なぜ不漁（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260925de52488
+・来週の中国主要企業決算 なし（みんかぶ FX/為替）
+  https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZRGJSWkJkVjRYblBtNDV2X2JVRkp1SVM4Y0VxMTFnOUNhYm1UdTVaYU4zRDN4NWN4ejhSZFJuVFExVGR3WGEtbA?oc=5
+・9月25日（金）17:00〜18:40千葉ニュータウン中央駅夕方の少し早い時間にご挨拶しました。（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE00SGtYVE40WTlYUzcyUzVGSTVyMEJzemJlOC00bHc2bGFOenpRaWV5bGowcS1CUDZLQ0pEajZTbkd5S1R6REl2NVpWVFZydU9xZ1otbWNFSU92SE1QckR3?oc=5
+・【千葉県】9/26の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1qWGYxVGd3ZlZNNmhWU0FQVW9LX2ZrcTFQalNHYXdjY2N0VGhqSnRxUk1BOHJpdkpvT3FUcXVucE5RaXdFVlpkVjlJOTFRZS1mbjlEckJvNFh2cHd0UU1DRnNYdlprNnZ3dTRaVWkyWTMwODQ2bXgyQy13aE5JX0U?oc=5
+・台湾発「TAROKO SPORTS」が日本で本格始動！千葉・宇都宮の2店舗を9月26日（土）グランドオープン（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFByZ1hKTkJtdHRxQWhMOUlLOXBtbWdsNU5fTWM0b2hIVkQtSXJFYUhGdDVXTDN0NXdvbnVydVdjakV2ZjE3TWdsSDNpMkhJZnA0S0x6cUE2TTdQZFJMeXMxcDEyUFlRaW1oUVE?oc=5
+・千葉(千葉県)の過去の天気(実況天気・2026年09月25日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE03ekVfa1VRdVNtLWROWTNXMGlZVzRSaXh2VHhvUFB3eUpVYjM3OC1UVE56T1hzdkVhNm1yal9PSEhTX3RPU2hyTDY5NnBZYk1LNmI2cGYyQmRQeG81WDBCdC1B?oc=5
