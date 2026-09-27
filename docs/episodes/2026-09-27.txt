@@ -1,0 +1,68 @@
+・福岡 筑後地方と熊本 熊本地方に線状降水帯直前予測（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260927de52658
+・群馬女性殺害事件 DVめぐり警察が元夫に事件前に2回口頭指導（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260927de52651
+・前線停滞で九州北部大雨に 土砂災害など厳重警戒を 台風26号も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260927de52641
+・パキスタン北西部で爆発12人死亡 自爆テロとみて捜査（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260927de52647
+・【気象予報士解説】九州北部に線状降水帯のおそれ 台風26号は（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260927de52650
+・【動画】Pickup NEWS（9月27日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260926de52607
+・NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/
+・生成ＡＩで「声」無断模倣、是非は 人気声優「権利侵害」訴え―東京地裁で３０日判決（時事ドットコム）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9veWIxRW9wSnJ5LUd3MEctMS04bUQ2ZjhNZmp4WFJLcmZKZkFQMUlDQ29fZmhFSloyQi0tQWMzT0NMNV9pdGNETjN2VHA2bzExdGM3TVdEajh2a1Nxd2E4WTNZQQ?oc=5
+・マイクロソフトがGrokをOfficeへ導入、「企業向けAI流通の主導権」を握る（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBfRG5fWW0wd0psTDJBM3FNUXhhNnpIVklDMmRMcVhHcUlBb0lucHU1ZkI3VnRtWENpQzNXaVd0QjlRLXBzV1hEcnNEZVp3bWpjM0FiY0lzNW1VbW01TVpoMVNBaVdTSEFvNkphWlFBbzVDdk1zVWlCdEVoRmhGYnM?oc=5
+・「AIトークンコスト増を44％抑制」できる可能性も 高性能モデルの“使い過ぎ”、どう減らす？（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2609/26/news011.html
+・【図解】生成AIで「声」無断模倣、是非は＝人気声優「権利侵害」訴え―東京地裁で30日判決（時事通信）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9pcU9keFc2c211bUU1TW9jYm5TTm1LSFhkSDdST2tBWHhlUVpqWmZBN1gwUkNZeTQxOE81eGVjUGJQemhHYmhIUHlsYlg0MVJjUUFEeXBRZXo3NWJWNkNPUzlfSEJuenNGNnFuN2VRZWRSYzFtZVFDZHNVeDRhRnM?oc=5
+・英企業がウクライナ戦場データを利用へ 「無人機の群れ」向けAI開発で - news.tv-asahi.co.jp（"AI 企業 導入 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiekFVX3lxTE1BcGc2RTQ0N2ZBNGNtMVlVSXFvb3J3c09oanMyeVBRRjlZUXlVdHJlTW1SaGEzNzJ6aHhreEtSM1pfUUNsV3UzcnNMYnBLVl9RRFR5eThwaGxQODNwcmNnYlRJbDdGU0tTS05sTmo4NndSY1BvV1pVX1RB?oc=5
+・AirPods Pro 3のカスタムEQを実機検証！音楽・映画・ポッドキャストで聴き比べ（iPhone Mania）
+  https://iphone-mania.jp/airpods-606655/
+・【今すぐ読みたい！人気記事】ミニPCを持ち運びたいワガママを叶える！モバイル環境で快適に使うための周辺機器（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2143508.html
+・Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2143487.html
+・iPhone18 Proや新型Apple Watch、AirPods 5の図面が公開（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606632/
+・【今すぐ読みたい！人気記事】3千円程度で狭いデスクが激変！しかも簡単！「後付けキーボードスライダー」をDIYしてみた（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2143507.html
+・「Apache Tomcat」「Apache Tomcat Native」に最大深刻度“CRITICAL”の脆弱性／最新バージョンへの更新を（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2143433.html
+・イーロン・マスク氏のドキュメンタリー映画「MUSK」の予告編広告、YouTubeとMetaが一時拒否から一転承認 Xは応じず（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/27/2000001775/
+・Steam公式ワイヤレスVRゴーグル「Steam Frame」が届いたので外観を詳しく撮影してみた、「メガネは入るのか？」「重さは何gか？」など（GIGAZINE）
+  https://gigazine.net/news/20260927-steam-frame-appearance/
+・京王・TX・ゆりかもめ・江ノ電のクレカ乗車でVポイントももらえる、10月7日開始（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2143363.html
+・映画「SEKIRO」にホロリときたマンガ家、賛否両論の“原作ゲーム改変”が悪くないと思った理由とは？（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/27/2000001769/
+・「Apple Watch Ultra 4」使ってみたレビュー、重いしデカイけどバッテリー持ちはバツグンでiPhoneなしでも高精度（GIGAZINE）
+  https://gigazine.net/news/20260927-apple-watch-ultra-4-review/
+・指輪型AIデバイス「VOCCI」が日本上陸、ユーザーとAIの橋渡しへ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2143496.html
+・不漁続く中で 「根室さんま祭り」 つかみ取りも 北海道（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260926de52595
+・データセクション(株)【3905】：株価・株式情報（夜間PTS含む）（finance.yahoo.co.jp）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1keVRvWmRJQk9WTGZDN250bXFXSTFtLUZ3RlJCdmVmTjM0clB5UGVadGh6RVJBeHVjdzJlNndZU19aTTEweEJfTlJQcjZtaHkzS3c?oc=5
+・円相場1ドル＝156円台に上昇 1日で2円余円高に 介入警戒強まる（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260926de52516
+・【外食企業決算・IR週報 #2】「客数9.2%増」のサイゼリヤと「脱・郊外」で上方修正の銚子丸。台風・インフレ下でも数字を叩き出す“今週の勝者たち”｜佐藤 こうぞう（note）
+  https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wdFZ3dmNMTDEwdDA4ZEZHTE0zM1pqeGFmZEczMlB2Ti1JRGZncmdnUlVnUHNnT2F2eEhsY1Y3c0xYOE1ScWNCdkotRW83SjBo?oc=5
+・片山財務相がベッセント長官と電話会談 日米協力強化を確認（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260925de52509
+・(株)タイミー【215A】：株価・株式情報（夜間PTS含む）（finance.yahoo.co.jp）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IbDlrSm9DbjAtUHRUekpzTWl1RzhBdEtZQ2VvUFRsSEpqY3Bia20wQkh2ZVFOYW1JemRRdDFJVk13YU9IcEFyNlF4d0xGVWU0RkE?oc=5
+・新着情報“エクストレイルG e－4ORCE”2024年式ダイヤモンドブラック入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBQVlo3LWk4NDdQanBzZl9DZXd6dUJTSmVmaXVDVnlvY0xSdXRnMHFDNG1WMlN2RnBtY1BSRTFwTzJobnZZSXRobnRFNGJLNndrZC1WX3VqVjN6LVJ1eWNrZWtzaDdQODRCSE8tWUEtSGdtX2NzaVBsNnB3ZUdBME0?oc=5
+・台風２５号被災者支援を/党千葉県委など国に緊急要望 | しんぶん赤旗（jcp.or.jp）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBheWdUOVpCcFRNdmhuX2c0MzBNNU1WWUxYMGtpMGZFdEl3X055TWZWdnNGdldZMjNKYzc1NC1zUVE3S1NGRVd4SGJXdjZySTVQbnZ6bmU0aTBCZW9vRFFMa3VFNVhLQno4OG03ejVQOUd2VFpJ?oc=5
+・成田線 佐原〜銚子の代行バスは9/28から6時〜20時50分｜10/4再開目標（ジモはる）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnSE5JTU4zM0VJd19JVWpfSno5aUd5ajJlaWk0VUxER0N2Rmt0a1J3RlZybGpnR1dTTDNlWUhMeTJRUWgwdkJuTTZQc21NdEJTS0dYZDZzekxwODR3X2Z6TWJ0MkFHb1lx?oc=5
+・震度1 千葉県北東部 2026年09月27日09:45ごろ 地震詳細（TBS NEWS DIG）
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDNERk1oX1BBdEVrenZjYV80N3d6RkJEcjdaOEtYdkU2WnZOMzNCRE45YU5wU1BnNU9kRXVNTEJoNjlldkJrZmJ2ZHJjWkU5QmhSTlBLR1BsSVVXekRuSGtrNzZRbjZZZmVYVlc4VlNRbEltWGFtMDVvY05VYk1TeWdB?oc=5
