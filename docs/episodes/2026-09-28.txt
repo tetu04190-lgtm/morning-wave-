@@ -1,0 +1,68 @@
+・「北の国から」脚本家の倉本聰さん死去 91歳（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260928de52785
+・台風26号 沖縄・奄美に接近 北～西日本では非常に激しい雨も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260928de52761
+・【動画】Pickup NEWS（9月28日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260927de52716
+・米軍使用のイギリス空軍基地近くでテロ準備などの疑い 5人逮捕（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260928de52760
+・群馬女性殺害事件 逮捕の元夫 逃走中に服を着替え靴履いたか（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260928de52752
+・技能五輪 日本は金2個含むメダル10個獲得 2年後は愛知県で開催（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260928de52753
+・「AIがSaaSを消す」は根本的な誤解 IDCが示す“本当に起こる変化”とは（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html
+・「それっぽい」から「使える」へ 中国3D生成AI企業VAST、半年で1200億円調達（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1PVkw1czFzd3lUTUtPcWpUNDVNdmhUUy1oUkpsTElNX3oyYTlNbmJiZGF6U2Q0MWJ0anV2YXlSUThwcjdzajVlVWxqZS1tOEppN2t3MXZ4REtPVlpSYUd3ZlNEZi1BLXM0alN3QkZXMkl5a1BESHUtTmZBaVk0YjA?oc=5
+・ロボットを入れれば終わりじゃない フィジカルAIを現場で動かす企業の役割とは（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE9zUGhIY0lKc2FHWk5RcUE1dEpNRGIxR0xaUGdXWnloMGNNYkFYRnhvVjQ2UWczTWJ4aWRDSldzOEc5WjRDZkYyQjYtcURYZHI1ZnJhRVJ2SWtabEhqR041aVFSY0FwZw?oc=5
+・「アサヒ・ニチレイの惨劇」はどう防げた？ 米HP幹部が語る“ネット遮断AI”と日本攻略（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/business/articles/2609/28/news053.html
+・Claude Codeを活用した効率的で安全なEKSアップグレード ――互換性調査から更新後の確認まで（gihyo.jp）
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxOQ2RaRTFGN3RrZmhWeVQ3c01NVjB5N3lKTFl0aFBkY3FldUpQZW1Cck1wM1F0ZG1uVm9iNXh4TkFHOXo3dmJvRUd3YmRFUG5iTHAxQ1U2WHpHOWNkZkowa0V3MktVZkpZWm9xTEo5T2d0eC1vY0poYU9qR3ZPYXZOdA?oc=5
+・AIトークン支出、財務成果との関連を証明できるのは2割未満 - JAPANSecuritySummit Update（"AI 企業 導入 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VVXJ3VkU0LWx4aURKbzNXNHRyQ3F1X1QtQjdVdUNqNC1YN3BEMGFDNDdSNVJFNS1NUUZ0WWFSTWVlZHVRT0EyTk9BdGg5Mmh5dnd3N1JSR01BUQ?oc=5
+・watchOS27.2ベータ2でApple Watchに「Appスイッチャー」が復活（iPhone Mania）
+  https://iphone-mania.jp/iwatch-606688/
+・【本日みつけたお買い得品】カルビーのポテチ×16袋セットが250円オフ。じゃがりこ×12個は387円引き！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2143610.html
+・「Excel」40年の常識“1セル＝1つの値”を打ち破る新機能、対応する関数も4種導入へ／セルに複数の値を入れられる「リスト」、「セル内の配列」、「入れ子の配列」（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2143595.html
+・iPhone Duoは何万回折りたためる？Apple、耐久回数と耐用年数は非公表（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606683/
+・【本日みつけたお買い得品】ブラウンの電動シェーバーが43%オフで8,947円にて購入可能（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2143607.html
+・無償の動画編集アプリ「Clipchamp」にAIアップスケール機能が追加、低解像度動画を最大4Kに ～処理は手元のPCで完結／「Copilot+ PC」ではNPUを活用（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2143092.html
+・「Gyazo」再開 不正アクセス発生前の全画像に閲覧制限（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/28/2000001782/
+・CTスキャンを読み取りガンを含む約150種類の腹部疾患を特定できる医療用画像言語モデル「RADAR」をAlibaba傘下のDamo Academyがオープンソース化し公開（GIGAZINE）
+  https://gigazine.net/news/20260928-damo-radar/
+・au Starlink Direct、オーストラリアで利用可能に 海外対応は5カ国へ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2143293.html
+・タイムズカー、会員の免許情報や本人確認書類が漏えいの可能性 不正アクセスで（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/28/2000001780/
+・成人後にADHDと診断された女性の中には「過集中」をスーパーパワーと捉える人もいる（GIGAZINE）
+  https://gigazine.net/news/20260928-late-adhd-women-hyperfocus/
+・[本日の一品]256個のLEDで“水”を再現する「LED流体キーホルダー」（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2143282.html
+・人型ロボット事業 中国に拠点開設や現地企業と協業の動き（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260927de52740
+・第3四半期の決算発表前、企業の事前情報を投資判断に活用する方法を解説（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRzZsb1pQRTNuY0liZ3ZLOVFqeldjLWpOeWpYbVk1eTdlYkpleE9aclpLTnI3N2YtVElnMDQ3S1JLOXBYVzd2WVJ4ZWZNeXZRVTdKS3FLbG5pcnU1V2pfeTJVOFBlMHNjSkFNb0JqYlFnZnNsc0x1dm1uNnVXMGc?oc=5
+・東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260927de52694
+・米S&P500、年末に8000到達も 企業の好業績支え（日本経済新聞）
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9yQXc4cWVvSzBTS0xpNXdreF9QZ0NoTEVkaEFLRkNOSUR0UGJZMnVUaUJTTnBpMVpWUFA2UEhvRVBZYTRjbGRXREpHcWdYNk1QcnlrdHktMThUWEdaenFzVDJGTTZhM3AySlZ6cjRkV1NwYjAxOElHdDRZaHRHdw?oc=5
+・不漁続く中で 「根室さんま祭り」 つかみ取りも 北海道（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260926de52595
+・日経平均に日米金利上昇の試練、好業績中小型株に注目（窪田真之）（トウシル）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE52Ni1TYU5XdkJyQ0VfWk9EUmZiWFpKTWtSNkRkMTc3cEI0bGJ5cmtUTFFBb0RwQ3laUXpnbWdFSlZTV2JWNmVZQ0swY2RXS0xTVnVZOFQ4ajVmUQ?oc=5
+・治水の困難さ（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyejVtekxrUG9wVEZHODlUb2xobE4xcmRFRDlXR2FnZVlLYW9kWWpMSlFBUE9wLTB6UTNFUHp0ei1pUDM5V3NvUXhDVzQ5NDNxTWxLLWtGMjVjNzhuUi1z?oc=5
+・【千葉県】9/28の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTkVwUk5uMHVubTk0djhDblhJbVdPNDVLNGR6OFBTWTIyNTBNb3dYajJfVWdobENFMzlLOWJpODVzQkJ0RGtGX2gyc2VraVNoRTZTWXhlLVBXd3pmN2xPQTFiUXFsMENhaUN0MFh4eTk3dE9RMFRvSTN3T2p4bVU?oc=5
+・成田線 佐原〜銚子の代行バスは9/28から6時〜20時50分｜10/4再開目標（ジモはる）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnSE5JTU4zM0VJd19JVWpfSno5aUd5ajJlaWk0VUxER0N2Rmt0a1J3RlZybGpnR1dTTDNlWUhMeTJRUWgwdkJuTTZQc21NdEJTS0dYZDZzekxwODR3X2Z6TWJ0MkFHb1lx?oc=5
+・千葉県の過去のアメダス実況(2026年09月27日)(日照時間)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE81ajlraE9KSmVfUmdDWG1iVU54QzhYQjdvTDllcjhFM1ZqOVNuZ2tXQ0p6dVdGQU9EQTBueXVOMHV1RDZyYTIyQVRVUUU3WFcyOUhNYkZYTDlMLVpvX053SVRYaUhvcVptNlE?oc=5
