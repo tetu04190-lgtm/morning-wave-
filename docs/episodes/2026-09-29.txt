@@ -1,0 +1,68 @@
+・台風26号 日本の南の海上を北東へ 最新の気象情報確認を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260929de52959
+・厚生労働白書“医療・介護人手不足でロボット・AI活用を”（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260929de52996
+・スペースX大型宇宙船 初の地球周回軌道投入に成功（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260929de52969
+・天皇皇后両陛下 熊本地震の被災地訪問 天候不良で30日に（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260929de52993
+・群馬女性殺害事件 元夫の車の窓ガラス割れた状態（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260929de52981
+・千葉市中央区でトラックと乗用車が衝突 乗用車の3人死亡（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260929de52982
+・AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ ハードとモデルを一体化したオープンAIエコシステム加速へ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/29/2000001826/
+・Anthropic、「Claude Sonnet 5.5」公開 料金据え置きで30％以上高速化、タスク当たりコスト最大3割減（ITmedia）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1TUXZwMlp3OGZvLUU2U1FfWkRDR0JqMGdrR0pvSk4wNzJ4Z285NW0xTmJmUU90MWZVUjhnc2FuRldNdml4RnlGbWVwUE9DNmg0SnRSczUzdVBKQjJmbzIzTHdHZ2lkSE9Ibnc?oc=5
+・AI導入率「54％」と「14％」、大企業と中小企業の差は約4倍に（日経BP）
+  https://news.google.com/rss/articles/CBMifEFVX3lxTE1vYTN3YU92TnpnRFdmNFVTVDlmYkNkcTl5dDZ1VTgtN1lYWDExWU1UY08taV9QMzFxZEtUZHJuNDdOVDdNNWVMNEhrM3hCX1doTzJiZEdGQzBCV1g3SmZQekZIX21TTGtNWG5iRnBMLW5uSWpfTy1ZbFk5WmQ?oc=5
+・NVIDIA、AIエージェントをハードウェアでも監視する「Open Agent Safety Platform」発表 Anthropicなど100以上の組織が参加（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/29/2000001824/
+・生成AIがフィジカルAIの領域へ GPT-6 Astraがロボットを動かし始めた（株式会社エクサウィザーズ）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE10dWNYamRXNm51T00zM0lVUGk3TFVCaHdueXVEMEFHdzFmeVNYV05YcWhKSTB6Vk9jNEpMbTNib2w1NW5LMFpaeHdKd3ExSXJyejZOdDZHVExoUVhJY1Zxem9jUVA4dDlT?oc=5
+・個人の業務効率化で終わる企業の盲点 AIで成果を出す「上位6％」の手法：業務プロセスを再設計する予算と覚悟があるか（TechTargetジャパン）
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRFAyTmFnUHBaT1lTeElTd0RDYU1FYnIyc3RwTFdWa3pkNXVWcHRteUtuelFzdjRGRnl5X2VJR01TcDctSGxVdFdPVXlYbDF2X2RXTWE5SnZzM25LZ25hSER4YnZHOTE4LVFqZWhXYU0?oc=5
+・iOS27.0.1がリリース！iPhone18 Proの再起動問題などが修正（iPhone Mania）
+  https://iphone-mania.jp/ios-606745/
+・【やじうまPC Watch】謎の無料AI「Space Bunny」が高性能と話題、Three.jsでアニメまで作れる（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/yajiuma/2143972.html
+・Microsoft、「Windows 展開サービス」（WDS）を非推奨に ～次期「Windows Server」から／「WDS」が提供するPXEブート機能も対象。「Configuration Manager」への移行を推奨（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2143848.html
+・iPhone Duoより小型のMotorola折りたたみスマホ登場見込み〜仕様比較（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606739/
+・【本日みつけたお買い得品】11型Androidタブレットが1万5,999円。Amazonでセール中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2143979.html
+・Google App Script/スプレッドシート/Workspace…Googleサービス使いこなし本が安い！／Amazonの「Kindle本 秋の特別セール」で電子書籍各種が半額など【Book Watch/セール情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/bookwatch/sale/2143970.html
+・パーク24株が大幅続落、一時5％安 「タイムズカー」大規模漏えいで（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/29/2000001828/
+・「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能（GIGAZINE）
+  https://gigazine.net/news/20260929-claude-sonnet-5-5/
+・Nothing、新ヘッドホン「Headphone (1) Pro」発売 原音忠実再生やチタンで軽量化（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2143887.html
+・ニッポンレンタカーでも会員41人の情報漏えいのおそれ 免許証番号やクレカ下4ケタも（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/29/2000001827/
+・AMDが3D世界を構築するAI企業「World Labs」を買収、「AIのゴッドマザー」が率いる画像・動画・3D空間の生成が可能な世界モデルの開発企業（GIGAZINE）
+  https://gigazine.net/news/20260929-amd-acquire-world-labs/
+・SPOTV NOW、MLBポストシーズン全試合を日本語実況で配信 30日から（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2143867.html
+・ニデック30日決算発表 巨額損失計上へ 岸田社長など交代検討（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260928de52956
+・artience、ウォルターズ・クルワーの CCH Tagetik Intelligent Platformにより企業業績管理を変革（共同通信PRワイヤー）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YUkNzTlhJSEJnTmp4OUNRcldmV3ZxZk9ndF9IVTU1Y3VTd2JOZXdoOXY5UmVnOERaaVdWZl9BcHFETFV4OXk1bFZ2TmFyRnNFa1BTOE5CaVliVTQ?oc=5
+・卵の卸売価格 年末にかけ例年より高い水準続く見通し（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260928de52904
+・アクセルがストップ高気配､27年3月期業績･配当を大幅増額（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1WaWd6Q1BWMno5TXNaUWliRlh5WGItYVZDbXg3cng2Ukc3Uy1qVGIyTm04MzlhNXJoQjdGVjcxN1lIRHBzZ1E4TjVaU1A4Z3NYV2FJcDV3WQ?oc=5
+・熊本地震 日本製紙工場停止で取引先の仕事減少 地域経済に影響（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260928de52860
+・新TOPIXが10月スタート、「新規採用＆脱落650社」の注目銘柄＆投資戦略は？セリア・フェローテック・マクドナルド…東証改革総仕上げの“詳細”を徹底解説！（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ZbThsN2dzc18wVlBuWWtvUnk3bmJFTVRlYTF2YXA5bDluMlN0NFlJc2RucDh0em9GLUpwTjNxSGZZRUQ1eC1kNHdsMmTSAU9BVV95cUxNN1VzTmdCWm9nb1M1T3UyYUFWd3h2Rk9XWlF5eUFjSkxBd2FvLTBQejk2Ymg0TEN6UjBCcDlab1V3LUJmZ2JlMmVmUlEzenZV?oc=5
+・新着情報“ＤＳ７クロスバックソーシック”2019年式ブランナクレ入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5WNXdDYm1FaGZ1amRqaWQ0eHBUR2xQdVYwdllTZjU1VzEwTUEzektQXy1obkZ4eWpXa0IxOThIZ0N5TWxaVDJaNnZfWnV2YzFjdmxHTDVYcXlGc01pSlkzcXc5YWcycUUtall4MHZSLW9URVJkZTNjQUNWWUd5d1E?oc=5
+・印旛沼の被災箇所の対応状況について（pref.chiba.lg.jp）
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE41VUVtOTNKV1k2dE93Y3owb1NfUndJdEU2LWxHalQxRDJmYWlWaE0zaG9WOXA5S2wydm5xQS1QMTBETW9OTFh2UndsWklRbjhBWGZ1S0R4WFVGM2p4WjVoSEsxSDhFa0ZGcXFrOG5EVGpFSFNBck02cw?oc=5
+・ディスクロージャー・デイ イオンシネマ千葉ニュータウン(千葉ニュータウン)の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpR1haZ01sUlJJX3lhdVNtdGVLM01IREw4TUFsY1pzU1hXdWhHMHY2eWExM3oxSl8tR013dkEtODVGRGR4cGVnWU9FdmltRVFqaEMxaHpfbXBpcENSaUJLcQ?oc=5
+・千葉県の過去のアメダス実況(2026年09月28日)(積雪深)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PQVJIbFo3TUJCd1g4ODdEUkdhdl94SE1aN1l6Z3dINm82UTJNWW5wc2lGRWQxUGpfS0hiMjhSTjNDUkhDb3FhaVlEZ3U0aVdNa1ZXRHRlZjBMUmpFSERmRE9aM2k?oc=5
