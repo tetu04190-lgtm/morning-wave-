@@ -1,0 +1,68 @@
+・台風26号 夕方からあすにかけ伊豆諸島接近 千葉も雨続く見込み（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260930de53237
+・東京メトロ東西線 運転再開 葛西駅～茅場町駅（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260930de53239
+・政府 成長戦略実行に向け建設分野の労働力不足の対応策検討へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260930de53230
+・【動画】Pickup NEWS（9月30日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260929de53181
+・核のごみ文献調査 茨城 常陸大宮市長が判断表明へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20260930de53229
+・日本の教員 労働時間が長く給与満足度はOECD平均を下回る（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20260930de53228
+・AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/30/2000001871/
+・画像・写真 | 原菜乃華、一番身近な友達はChatGPT 裏切られたエピソード告白「課金をストップして友達をやめようかなと」 2枚目（オリコンニュース）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpc1lkZ0dOMnlPQ3hfMUJRNGhtNVJRamxUZTVKbTBvd0tva1FDUThDZVF0RG4zWnp4c3NZemFOOFJKX1Bsc0xUeUpFOGhQU2hrUU5HM3habzBVZw?oc=5
+・AI 各地で導入進む 群馬県内企業3割が活用 情報の正確性不安も（東京新聞）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9UVjRENHNfNkhhZV9rWFdWck14dThoUTNJSFp3RlJRdEMzNUd0MU5BemNIcTBTZ25CN3A0amV0NzVsTk1nVkpjSEk1bnBUVlZkTVY0?oc=5
+・AIは魔法の杖ではなく“子ども”だ 「ずる賢く」育つのを阻止するための3つのポイント（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2609/30/news017.html
+・アンソロピック、生成AI「Claude」で一時障害（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE96am9rVEhKbEV6T2NKY01vZHBINXlmLTdNWWRCcktjbzJDVUwxTV80aWNycm9abGVqY1ozWVh5c1pVbHNKSGd6ckZmeVI0TS1MTEJ3QWJhX2liSFBBcHZvOEszMlZial80eUJCbA?oc=5
+・OpenAI、豪政府サイトへの不正アクセスで謝罪 最先端AI学習の安全指針も公開（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/30/2000001869/
+・中古iPhoneは本当に安い？iPhone17 Proは中古でも172,800円（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606805/
+・Windows 11「26H2」提供開始。タスクバーの上配置など新機能をチェック（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/feature/2144347.html
+・OpenAI、月額200米ドルの「ChatGPT Pro」新規受け付けを再開。月額500米ドル版も追加／使用量計算の変更、プラン間の倍率の見直しも（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2144294.html
+・Apple Watch Series 12、Ultra 4「緑の光」問題と新シアターモード設定（iPhone Mania）
+  https://iphone-mania.jp/iwatch-606802/
+・【本日みつけたお買い得品】メモリ32GBのRyzen 9搭載ミニPCが約2万円引きでセール中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2144321.html
+・【Excel】残業の現状を分析したいが自由記述欄が整理できない！ 分析しやすくする方法【いまさら聞けないExcelの使い方講座】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/exceltips/2144264.html
+・免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/30/2000001873/
+・Anthropicが「高度なAIが人類存亡に関わるリスクをもたらす可能性がある」と新規株式公開(IPO)の目論見書で警告（GIGAZINE）
+  https://gigazine.net/news/20260930-anthropic-ai-existential-risk-to-humanity/
+・Notta「Memo Pro」10月13日発売、録音モード自動判別やWi-Fi自動同期に対応（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2144256.html
+・免許証画像など約160万件漏えい タイムズカー、対象者に連絡開始（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2609/30/2000001872/
+・「GPT-6.1 Sol」がもう登場、GPT-6 Astraと同等性能で料金は5分の1（GIGAZINE）
+  https://gigazine.net/news/20260930-gpt-6-1-sol/
+・10月1日受付開始「こどもNISA」に向けPayPay証券が親子ワークショップ開催 ポイ活から投資の基本を学ぶ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2144240.html
+・8月の鉱工業生産指数 前月を1.7％下回る（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260930de53257
+・企業業績は金利高を打ち破る――相場に灯った6つのシグナル ＜切り出し齋藤正勝のマーケット情報最前線（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kSF9GTWpDMGdrWF82NkhCeGtoZGFnZE5NODFSTWtYTHpIYUE3NUwtNVh5bGdxTEc3Y0JFVjFfXzByY045d3NEdEtvMVdHcWRRU29ISV9odkM0czd0RHBkYg?oc=5
+・ローソン 大雨による店舗の浸水対策で止水板の導入拡大へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260929de53224
+・「会社の価値」は、決算書だけではわからない。京都府事業承継・引継ぎ支援センターが、経営者自身が“見えない財産”を掘り起こす100分のセミナーを開催（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5Pb3R2RDZRLXB2ZDgzSEJLY2c0eTJhdGh4d3g1TFplMXptOGthcVlnRWNMZm05S1JkUmNNNnJEM0Ztcy00LWFHTzVTZFRxTTg1YzcwbGQ1dTBkUlh1c3l5ekxyNlZLYnN2R2c?oc=5
+・原油の調達多角化に向け新法案 臨時国会に提出へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20260929de53226
+・ユニ・チャーム(株)【8113】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nU2l4dlIwZW5kZ2lURG5GVU1HbFd5RkVZamoteDdHaFN4Vl82UFd2by1TVi1GbWxTTVFmRHhSbE9hZEtQb2JOR1FiR2xCeUZzb3c?oc=5
+・議会は「継続」決議 北総線補助金で印西市（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE90UFFwOTQwLWdCYlhuLUp6NDhQZDhkRUZFaGU1aGFUV0JYaDV1VUJEWXNJYlduLWRXSFk1c3FwSkN1aEVSeXczbVA5VHIxTV9tc2JLUW1XQQ?oc=5
+・印旛沼の被災箇所の対応状況について（pref.chiba.lg.jp）
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE41VUVtOTNKV1k2dE93Y3owb1NfUndJdEU2LWxHalQxRDJmYWlWaE0zaG9WOXA5S2wydm5xQS1QMTBETW9OTFh2UndsWklRbjhBWGZ1S0R4WFVGM2p4WjVoSEsxSDhFa0ZGcXFrOG5EVGpFSFNBck02cw?oc=5
+・再び被害地を視察（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QRmVZbV9sV2YxdWVhRHRHYzl2SXBqV29pUWJYOW83cE42dERJR3hkU19nV1RrSU9NZVdYRl9Ub01xcUNFaTJTLVREVkhWSkd5R3VyX0RTclZPZldwckNr?oc=5
+・千葉県がメガソーラー規制条例、実務対応のポイント - 特集 - メガソーラービジネス plus（日経BP）
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9hUS1OTEQ5NFFwM2NmUzhEWWxnMzVlSXZCNG42MXV1RkNYVnZwb3JUcmpBSmVRNE1OSWROWXZJaFF6MDBxZDc0TDQ1ckx2akRyY0JmQTlhLUJwQnNaTk9MUDNuRXlnQU5sZHlIajJXdEJydEcwekJlZlRaRWNKQQ?oc=5
