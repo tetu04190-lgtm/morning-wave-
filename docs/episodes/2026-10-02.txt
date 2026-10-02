@@ -1,0 +1,68 @@
+・東海汽船の飲酒乗務問題 一部船舶に初の使用停止命令へ 国交省（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261002de53794
+・福岡県議会 元議長が就任前にゴルフ会費用負担を証言（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261002de53802
+・東京23区の9月の消費者物価指数 前年同月比2.7％上昇（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261002de53786
+・日米演習で与那国島に米軍の新型地対艦ミサイル初展開へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261002de53784
+・プーチン大統領 日ロは困難を乗り越えたあと互恵的関係に（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261002de53774
+・完全失業率 8月は2.5％ 前月より0.1ポイント悪化 総務省（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261002de53785
+・Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/02/2000001950/
+・名もないサイバーセキュリティ・ベンチャーがClaudeを使ってOpenAIをハッキングし、100万円の報奨金を獲得した（Business Insider Japan）
+  https://news.google.com/rss/articles/CBMipgFBVV95cUxPQ3IySVB0Y1dXYWNQQ2RDMjNXZGNVLXlndlRHb3NfWEtSQkl4Yzk0NnZzRGFFLXV0UGw3dG5XdUlseDhoSDlKc253bklVaGVYcmJaeFF0TW4zQUJrQ04ySTJwdDNBTUExcTk4Q1RQNy1ORGFnXzBlSVRQalVFRWx1ZmlaOTg0dmtLZWlpb3pxYWpBT1JHLUMteV94WXRVdjZXc3ZZa0xn?oc=5
+・〈日本企業の難題〉AI導入を阻むレガシーとデータ分断の壁どう破る？アクセンチュアとSansanに託された｢日本型変革｣（東洋経済オンライン）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HQ3BRLTRCSHpPQ0NkcUNBdjliYXpSUnZHMTBoRjJ6OEFSNWoyRmx0LXEzRzFpSEltWTJuWUNIU1locTRBVGZjczNSaVo0T2RTZFY2ZXNaREM4Z0kzM1VN?oc=5
+・SIE、PS5向けAI採用画質向上技術「QSSR」発表 AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/02/2000001946/
+・「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFAySTk1OXgtN1Fza2lTLWhfemZUeEdOYzI1aUJJYVRvdHFET0ZvWEZSbWtxdjhpbWpOeW11d3pzdXphY1luMXVSRFNKc2VmT2xPd1VKVTd2cVM0ZUtxcU5iZVJtbVJFQQ?oc=5
+・中小企業における生成AI活用に関する実態調査（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWDFleTk3c3l6c1JOdHNFVG1JUUw4LWNPdWoxM3ZBaFVvdnV2bEU4UlhZWW1Ua2dhUW1SdWtIUWJ0bHBsb1BudnBGanFnNUNuZmo3U29xXzB6MFhBTk5TLXBNSUIwS25RMGc?oc=5
+・楽天モバイルでiPhone Duoを予約する方法｜10月16日午後9時開始・発売日は午前8時から販売（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606613/
+・【本日みつけたお買い得品】12.2型のAndroidタブレット、Amazonで約4,500円引き（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2145070.html
+・日本初上陸の国際データセンター関連イベント「Data Centre World」が出展募集を開始／2027年12月7日～8日、幕張メッセにて開催（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2144661.html
+・ソフトバンクでiPhone Duoを予約する方法｜10月16日午後9時開始・本申し込みまでの流れ（iPhone Mania）
+  https://iphone-mania.jp/iphone18-606612/
+・【本日みつけたお買い得品】メモリ64GBのRyzen AI 9搭載ミニPCがクーポン適用で約4万5千円オトク（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2145052.html
+・「Edge」の「IE モード」は少なくとも2029年末までサポート ～Microsoftが改めて周知／早めの移行計画を（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2145034.html
+・Microsoft、初のストリーミング文字起こしモデル「MAI-Transcribe-2-Streaming」公開 音声合成「MAI-Voice-2.1」と高速版も（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/02/2000001950/
+・Amazon Kindleシリーズ4モデルが刷新、全モデルがフラットなフロントデザインになって11月11日発売（GIGAZINE）
+  https://gigazine.net/news/20261002-amazon-kindle-renewal-2026/
+・エキサイト、「Flatプラン30GB」料金引き下げ 音声SIMが月額1980円に（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2144895.html
+・「Kindle」シリーズ4モデルを刷新 全モデルで画面の段差なくしフラットに 2万9980円から（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/02/2000001949/
+・画像生成AI「FLUX 3 Image」が登場、「最大4K生成」「被写体の位置指定」「一部分のみ編集」など高機能でオープンモデル版も数週間後に登場予定（GIGAZINE）
+  https://gigazine.net/news/20261002-flux-3-image/
+・ソフトバンク通信20年の歩みとAI-RAN――周波数制約からのインフラ構築と次世代戦略（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2144997.html
+・【きょうのおはBiz 10月2日(金)】東北3県 地方銀行 統合協議へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261002de53795
+・業績の上方修正を先取り、進捗率や市場予想を見極め（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1zT1hUYXlBNlg5RUtObUN6VFhnZVF1N1BvSnNvNi1sYVRxSk1JYk5ocmZWUEhlSEJBN2dZMHF4WVY5NTZGb1NaV2RwWl9obG1aX2VqM2wzQzdueWpBM2gzLTdMOVluWHpZRmJwZw?oc=5
+・東京23区の9月の消費者物価指数 前年同月比2.7％上昇（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261002de53786
+・東亜建設工業(株)【1885】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sLUE1cVIzTkdCWXpFZTZHZGZJM1hWU1lKWGY3S2ZTY2g2ZW9aMXM4RFUtalNVS1VMRlU3ZGNPZTBlYzJEeDRxRmlvektBdUNKOFE?oc=5
+・米長期金利 24年ぶりの高水準に 住宅ローンは7％台前半（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261002de53787
+・平和堂、上期決算は増収営業減益 「3つの重点戦略」と「北陸強化」で巻き返しへ（ダイヤモンド・チェーンストアオンライン）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE02UUx4SUYwVUUxUGxtaFFuM0dzQnZWZ2pab2lfSTVMTk01alVVSjBoZEFRc1FLQUhvZTVXLXYwd0pYMnRQV2t6X1l2WUYzWWtwdFlFVkR2Mi1Jb2ox?oc=5
+・「元夫にボコボコにされた」元妻の通報後に助けに来た女性への殺人未遂か25歳男逮捕（asahi.co.jp）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE51WXhER25lM0lPTjlscEhNUTNvUGxBeGxuVDlzUm9JVVNUeUd0ZkpOLXZTcGU0WU5IMmstZWwzeGUyU2xWaUxzenVWSWQ1Q0FBdl9lWFZxZWI0Tno4YVg2clRDZ2xyZkE?oc=5
+・令和8年10月（city.shiroi.chiba.jp）
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE5VUVIzdExCdHJkWTVvUGV5RGtSYkNnMnJfaENzbExMbUF2TFRhN3V1OGNLLUplbUdPQ3RCMGhMeHZRUmZXREs4RkZjd2dOT0M5WmJ0ckl4aHlWRTBTR1NpeFRsa1VlT05jUU55dzFVS25FWFdMUG14NA?oc=5
+・震度3 千葉県北東部 2026年10月01日21:27ごろ 地震詳細 | 長崎のニュース | 天気 | NBC長崎放送（TBS NEWS DIG）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOZjlNQURBZUw3cUVJRGpJVWFKdUdPbHc5SEstTkZoSXJONjN6OGFVcmNMcWdEWElHVjVqUFgyQXNmbFdnc1FKOTlvcmVTd3FFSVZ1TS0xTWN5WlJUWnBMak42aHo4TjdzMUZRcTZfeHJvS01aTUM5MHB4c1RQUnB0MmJhQUQ3VkE?oc=5
+・茨城県、千葉県で震度3の地震 津波の心配なし(気象予報士 日直主任 2026年10月01日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE41cHYtWTB2c1NQUmxzR042blEzR21kNF9EdnU4a2xJUnlDczY4Mk14MER3N0l2SEJEWXRPQ19SMnJYYmlScnY2UE50LTEycWJaNm5kMFRZeEt0VThLWGQzS1ZZaGVFNGdMc0HSAW9BVV95cUxPeXo4SzJoUFIwai1nVVczZk5iNjh4U2I3M1cyNURRcGxyVnJ6MFdRZkZrbkVJNUtJTWdoQWFSVU5SWlRmc0M5LWVEWXVpemFYbVVETlk0ZklNVjZ6YmdIc201aVlkS2ZTVG9NdEVZeGc?oc=5
