@@ -1,0 +1,68 @@
+・ブックオフ 不正アクセスで最大643万件の会員情報漏えいか（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261009de56955
+・過労死白書 パワハラなどで精神障害の労災認定 過去最多に（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261009de56967
+・政府 食料品の消費税減税関連法案を閣議決定（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261009de56958
+・【動画】Pickup NEWS（10月9日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261008de56856
+・簗農相 バス無料送迎報道「事実関係を整理でき次第説明」（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261009de56980
+・神奈川県警 免許証不正持ち出し 警備部門の情報収集あり方調査（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261009de56944
+・トランプ米大統領、「AI」という言葉を使う者は「敵」 政府サイト「AI.gov」は「SI GOV」表記に（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/09/2000002157/
+・Anthropic、「Claude」の新機能「Dashboards」「Motion」を発表。「Docs」「Slides」「Design」は無償でも提供（窓の杜）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFSUE0anJTTmJISXJWa29vVkpxbEN2TGpULUtRVDdNSHRnLWs5QlcxR3NNWjNCd2w5Mk1RYndpUHhaYkpLeUc1ZXdLX25YV296NHJyd2JoaHFjNkpSU0xrQWN5ZW9SS25v?oc=5
+・「AIの暴走リスク」にAI導入済みの企業はどう対処すればいいのか？AI同士が結託してサイバー攻撃実行、再発防止策も効かない…（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jb1gzN01XcGdCd09PQjZvUnVCcmRxR1hYNTVuRF9aaVAtRGxKdG9uQU9Xb3IzSGVSWTJoa0NUUDctMXRpcGw0WThBdDjSAU9BVV95cUxQQ1NJWE1JN2liSmpybjZfc0x5Qk9WTExFdVIyR1cyZG1FcTlmdUNKQ0ZDWTJNcFNubkozRWJIVTlieWp2RVFXZnhSQkdnQl9r?oc=5
+・Amazon、「Fire」に代わる新タブレット「Amazon Alexa Tablet」発表 「Amazonキッズタブレット」は日本でも発売へ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/09/2000002155/
+・ChatGPT と Codex で数日分の作業を数分に短縮した Oracle の取り組み（OpenAI）
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LRlIybEIyUU9QNlY0X2pFbTVzejJLcW1SbDhrOEpmemIxUzJqUlk1WWxOMC1UVTVVU0o3WkJGOFhmT1FTejgzb3BzM01sNDg?oc=5
+・企業向けルーター／UTMの導入ランキングを公開、生成AI利用も大幅増へ（日経クロステック（xTECH））
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWjR6TkhQbXhPSE0wdEpyUGVHdmFPQmlxdUJPWGVadGZ0NXliME9DUG42akhSWlEwMDA0U0NTVU41M25oVmF4UWpYOFdyM09ybXVhMWpOYmFiamEtYTNpM3ZDX19WMlRQUXYzNw?oc=5
+・OLED iPad miniは120Hzにならない？LTPSパネルの事情から考察（iPhone Mania）
+  https://iphone-mania.jp/ipadmini-607198/
+・【本日みつけたお買い得品】ソニーのワイヤレスゲーミングイヤフォンが5,200円引きセール中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2147040.html
+・初心者でもIT業界の全体像を理解できる「動画で学ぶ IT仕事図鑑」が配信開始、窓の杜読者限定でクーポン配布／63のIT職種を徹底解剖した人気書籍がオンデマンド講座に【ラーニング】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/learning/introba/2146803.html
+・【iOS27】iPhoneの「写真」アプリでキーワード（タグ）を追加・検索する方法（iPhone Mania）
+  https://iphone-mania.jp/ios-607190/
+・ホワイトのマウス/ヘッドセットが付属したRTX 50搭載ゲーミングノート（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2147014.html
+・「EmEditor」v26.3が公開 ～物理メモリからあふれる巨大ファイルもほぼ瞬時に開ける「高速ビュー」を追加／AIとチャットは「MCP」コネクターに対応。使い方もAIに聞けばよし（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2146952.html
+・トランプ米大統領、「AI」という言葉を使う者は「敵」 政府サイト「AI.gov」は「SI GOV」表記に（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/09/2000002157/
+・Let’s Encryptが2027年2月から証明書の有効期間を64日間に短縮（GIGAZINE）
+  https://gigazine.net/news/20261009-lets-encrypt-cuts-certificate-lifetimes-64-days/
+・ソニー、スマホ用空間オーディオマイク「ECM-AX10」10月23日発売 手軽に立体音響を収録（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2145732.html
+・急増する不正アクセスにJPCERTが注意喚起 寄せられた情報から判明した「攻撃傾向」とは（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/09/2000002156/
+・アメリカ政府がMicrosoftやAdobeなど8社の外国人労働者向け永住権申請手続きを停止（GIGAZINE）
+  https://gigazine.net/news/20261009-us-visa-program-microsoft-adobe/
+・ファーウェイの公式サービスセンターが秋葉原・神田エリアにプレオープン、23日グランドオープン（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2146400.html
+・簗農相 バス無料送迎報道「事実関係を整理でき次第説明」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261009de56980
+・ａｂｃ(株)【8783】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5MTUt1TG9RX20tQmxLeW56eXcybWNaUExXV3Z3RFczR1kwWjBXOUxoM1I5Y2RTTUtiRlRLbkxzRDZjOFNLblpNQ0pUZTJIalZRQ3c?oc=5
+・ブックオフ 不正アクセスで最大643万件の会員情報漏えいか（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261009de56955
+・【情報・通信195社】最強「オーナー企業」ランキング！6位大塚商会、3位ネクソン、1位は？（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE40SUlLazc5N0lKektPOHJ2LXY5VWtjR2hvRHF4aTQ0Y1ptQkF5MkVJR3ZpeXpjRVZ5Q2FrSXRna2NJSzlkTnJPR05YVkHSAU9BVV95cUxQdXlBMFVGNTZWVHJWVS1GeU5Cb0RqRUFMRmRiQXo0ZDgyZW9neDhhcFNPaWt2NEJVM0VuRlN6empmQUpKLUJjNDZjV1FaWDc0?oc=5
+・8月家計調査 実質の消費支出9か月連続減少（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261009de56954
+・米企業の第３四半期決算、ＩＴ・ハイテク主導で予想上振れとの見方（株探）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5CVGpuUXdDa3Z5NlY2eXJ2cDd3SFk1UTI0VmlObkh5aEtFSG5WcVJXXzhFMXVHdE1qMzNrbmcwQmR1RVpQSFQ1NGd2ekJicHZ2UWc?oc=5
+・新着情報“ランドクルーザープラドTX Lパッケージ”2022年式ホワイトパールクリスタルシャイン入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBhVmI5YURTTF9rMmMxSlBnQVJqc0RGLWxRMU80OS1yZVRlVE41cVlHbnZPWVQ2SklINW9pSkI2b0stMEhURC1Zc3hrUVkxMG5pbGs3bG5taUpkVTRzUjhYQjkwcE9Tc0dqanJkVURIdUh5ZnpCZjhyR2ZBLVFIV2M?oc=5
+・千葉県柏市にて2年連続「地域の魅力を映像にしよう！〜撮り旅〜」プロジェクトを実施! 学生が地域のPR映像を制作、成果報告会を開催（AOI Pro. Inc.）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ER18wOTd5cjdEWlFuWWdnZEd4UTI1anZ1Skg0WjMzLVBQYWZ6ZV9Qc0hOd0wzWkE0dDdOZ05yS2hqNU1zNFlfMS1FYUJRdkpkNG0yMWswZVl0Vjg?oc=5
+・あぶない刑事 USシネマ千葉ニュータウン(千葉ニュータウン) の上映時間・上映スケジュール（MOVIE WALKER PRESS）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CYlcwbk5tSFl3bEtGdHRjVy1qY0VTd3JIUFBYbjU5X0JTOExIWi1qV09JRUpJbHZ5eHBjSFJPeVpLeUN0d0J6WFp1U3ZLUHVxQ1JRcm5xeUo0M0ZseUUzLWdB?oc=5
+・千葉県の過去の天気(雨雲レーダー・2026年10月)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFByeEsyTnV0ZmxhRTlHdFh4UTJHUUx4dHVwVG5ramlZSWQ4cXBlV2lhRDZpaG1wZjlNY3FneFdTNlIzZzZPU056bDRGQTZOUzRRU3VV?oc=5
