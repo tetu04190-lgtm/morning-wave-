@@ -1,0 +1,68 @@
+・“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261021de63209
+・【動画】Pickup NEWS（10月22日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261021de63042
+・秋田 子吉川に一時氾濫特別警報 川の増水など注意を（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261021de63227
+・岩手 大槌町の山林火災から半年 焼けた木の活用が課題（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261022de63238
+・【ドローン動画】一夜明けた子吉川は 秋田 由利本荘（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261022de63278
+・EVなどの補助金を来年1月から減額へ（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261021de63222
+・Google Cloudに「Astra」含むOpenAIのモデルが追加 「主要3社のクローズドモデル使える唯一のハイパースケーラー」に（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/
+・アンソロピック、能動型AIエージェント「Claude Duet」を発表 離席中も作業を継続（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kOW12QUJKT3Y3Q0RMZEdTeEZvMHhtN0Q3V0FUZDBST1M4elBkZjNzM1BVUHBVTlVCeGNVWEJuTklFUjlObFQ0cFV5NEZ3SWx4RW5n?oc=5
+・日本企業のAI利用、導入の7割以上が現場主導--約25％は「費用を個人負担」（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqeGI2cVVBcFI4cDM3YzB4cVQ4VnVMMEZodWx1NVpxX0dyVkpMX18yVmpqWXoxMVdacGozeTJSVkxMOUhPV1RETzc1SEtkSEdpVmZv?oc=5
+・AIで“ゴジラになって”街破壊 富士通が体験型展示 「体操の採点システム」活用（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2610/22/2000002364/
+・Anthropic、能動型AIエージェント「Claude Duet」発表 Meta「Muse」と競合（マイナビニュース）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE03T0Y0TXVXMjZjc2Z3QnRYU0RQQ2FrZTNQSE1EbW9wM01WWjBpU1plYWZ5RGtjVXpJU0NkT29wVlpUdEVMUW1FTzA1OFkwbXM4UjF3SzJhV2RzN01H?oc=5
+・MugendAI、生成AI経由の個人情報・機密情報の流出を送信前に食い止める「QEV導入サービス」の企業向け提供を開始（valuepress）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rVS03LW1yamg5a3JDTFJqS01iQ1h6OXRQRXFxYUctTTJjaWRZQ3pRTkxzME1NUTBWMFV2YTE2Q0U3T2hzcG0yelE0dEVJZ3FOMDhBS3JONGU0UEU?oc=5
+・iPhone Duoのチタン供給強化〜Appleが3年で最大1億ドル（iPhone Mania）
+  https://iphone-mania.jp/iphone18-607695/
+・【本日みつけたお買い得品】15.6型モバイルモニターがAmazonで7,950円にて購入可能！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2150204.html
+・「Node.js」にセキュリティ更新 ～10件の脆弱性を修正、「eMudhra」の侵害にも対応／v22.23.4、v24.22.1、v26.12.1が公開（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2150169.html
+・iPadOS27のAirPlayでプレゼン中に手元の画面が露出する問題〜不具合か仕様か？（iPhone Mania）
+  https://iphone-mania.jp/ipad-607691/
+・【本日みつけたお買い得品】スナドラX2搭載で990gの軽量モバイルノートが4万円オフ（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2150197.html
+・世界初！UGREENの液冷式モバイルバッテリーがセール中！25％OFFの14,179円【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2150192.html
+・Meta決算、売上高26％増も営業益37％減 AIエージェント「Muse」は1000万人超が利用開始（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/22/2000002489/
+・GoogleとOpenAIが提携、Google Cloudで「GPT-6 Astra」などOpenAIのAIモデルを提供へ（GIGAZINE）
+  https://gigazine.net/news/20261022-google-cloud-openai-models/
+・TVer IDで有料プランを簡単決済、「TVer ID支払い」開始 第1弾はFOD（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2150025.html
+・Tesla決算、営業益56％減 FSD契約は67％増の174万件 SpaceX合併は「昨日すべて話した」とマスク氏（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/22/2000002488/
+・神の如く自由な都市開発を行うのではなく市民の要望を聞き建設計画には議会の承認が必要となる都市シミュレーター「Permit Pending」（GIGAZINE）
+  https://gigazine.net/news/20261022-permit-pending/
+・ドコモがWebサイトを一時停止、予防措置で緊急メンテ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2150170.html
+・アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261022de63277
+・米国株式市場＝ナスダック主導で上昇、決算受けＡＩ投資心理改善（Reuters）
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQSHR3VTg3U0dpTk9jT240WjZqOTY5TUxhRFk0Ykx4Sm1PQ3hadUZFMzYxUk5nWE1JTlhHdzlWdGNSdlJsQl9DX2ZLbDVzSHcyZ2Q5WU9GeDFldjdJb2VRcEF0dXhlUnlZeVFHR25oVWxpeXdic1FxLVM5b0FoQ1JZS1ZYZ0Y5Zw?oc=5
+・中国AI発展に向けデータ事業担う国有企業を設立（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261021de63217
+・22日の香港市場見通し：上値重いか、中国企業の決算内容に警戒感(フィスコ)（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxOYU8wRURZd29oSkVRdno4azZQTGQ2cE1XTGJhLXZPZUw3bEpYN0lKWE1BZndCYi1MOHlRcHJvNmhJVGNUelVDOG5pM2lQcWZKYUJvams0STVZaGRYMXVTRW9RU0VUZXo2TVB6QjhxVGdmTy1GTkNBSXRhSGZ4TDF1MlpGTE80NGM?oc=5
+・日証協 2040年に向け社債市場の整備進める方針発表（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261022de63239
+・日本市場、米AI決算まちまちで株の上値重い公算－債券堅調も原油重し（Bloomberg.com）
+  https://news.google.com/rss/articles/CBMid0FVX3lxTE1hMjdzSE5HLTEwVzdVYWV6eTZRZG9ZbHFTZHA5NU4ya1p5OHFaUFdLVWw2VDBTYVh0Q2VsTVZUNGdfMlBRV0lHWFd4WG1EZlNjMTZGRVBXQ2RBYVVXOEp1UVZNeEctTWdwcDhPdloyMlg4N044SU5Z?oc=5
+・【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！（PR TIMES）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9ndnNqY0VIbkRNZWxpWFpaOF9lSjk3MW82LXViaXBVLXZwOXc4WEdpcXJTVjNTdm9MYkhyMDk2d0JuUW1yeG1SUWI0WGRfWmpjLWxpS3RhUXY0bHB0MzFlTlJ5S1RaMElQM3c?oc=5
+・千葉県の過去の天気(実況天気・2026年10月21日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HYVAwNzRuOGlWcXB4dXZfQ1lCejdEd2wyNzlWN2VDYWlEX1lGTF9lcnZKRndrTU1uenp0TWxDWldXeDd4NkhRYmd2YXVzZ2ZMOWpoRGlDbEpXdw?oc=5
+・【印西市】コスモスふれあいまつりが開催されました。（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1mbG5mUmhmdUpyLTV4alFYX082OTdrc2djYllvbDJ1NGJDUXRocS1tQVQtLU92akU4cWQ2NjE2aHU4ck9yR3J0MldudzVLZFJubXFPcnBDUUFhRmJTUFdz?oc=5
+・11月3日までエントリー延長 館山若潮マラソン（千葉県）（房日新聞）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBMWmU4LTVBXzd1dVJkUHZhTFd4R1NJQ3U0TzZCTVRyQXRMcEdlRVpSSXFGV1lTUDdYcklpakJQUDBPbWI2UE12UzlYMUEwZFM2ck82eDFiVWxMMnVCaHJUUUc4aVhoclQ5RzVGMEVlQ3lsUHZUeDFPNDRudDl6M0E?oc=5
