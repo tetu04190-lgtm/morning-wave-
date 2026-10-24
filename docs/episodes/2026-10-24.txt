@@ -1,0 +1,68 @@
+・台風30号 先島諸島が暴風域に 沖縄で2人がけが（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261024de64650
+・【動画】Pickup NEWS（10月24日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261023de64531
+・台風30号 台湾で1人死亡350人けが 警戒続く（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261024de64639
+・東武野田線 運転再開（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261024de64660
+・KDDI モンゴル自然保護区の大規模火災の経緯公表（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261024de64642
+・国際業務に特化した初の巡視船「ふじ」12月に就役（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261023de64611
+・「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html
+・‍‍‍生成 ai 画像 生成（小豆島町）
+  https://news.google.com/rss/articles/CBMi4gJBVV95cUxNeDNuUElBTjgzZDR0dzJNUGtoNmd4N0w0UFRfaGpCOXIxR1IyRktGVmtXeFZjQ2hCV0RVcTFNeUJWcHlDQ2paVjBFREctS2VhYmZsWmxpSmZpcDYwbjBQRUNwS3NmSEtIdVNlYWdPYjBLZlVPR3pWMTdTYlE0TFhhdWNXWndHSk8tV2VlZ0ZBbkZtTTBHeG9ZdGdNYzRMMjQ4d1B1S3hjdnItN3dRTzBVN0c3YWt2VENtS1VEeW14MzVGY1l4eTRsLXRYaXFMaEdWdHQzNzctNkE2enk5YmxySEZlekxGeU5JZDVzd0ptVnhlSDZJOWZEcnRsQnZpN2lEcmM5dUF4VXotZ3JQLUtoZ0tmQ2NNcjU5R2lmQ1NsRVdRemI3Zkx4VU12QW8wRUFkeDgyX2VZaXJoel80Z0lrZkE5MTZNaUpKeFZBTU0zR1dTU0RhRzREM1NuTEJSdVRUQlE?oc=5
+・中小企業のAI導入支援を要望 同友会那覇支部が知念市長に政策提言（沖縄タイムス社）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RdVNqZjNjRXZRSGlEUVoxeGlRbWR4YWd4MUFyVXpYRFRWRHhuaURFR1IybWJ5RmN3ZlpSOHI3c21naEZzeWxEVWRUR1JLX0U5S083bzZPYUVEV3ZkVGc?oc=5
+・「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/24/2000002564/
+・アンソロピック、ClaudeでOSS123本を形式検証 約1億8000万行の証明で数百件のバグ発見（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE53T2sydG9uOEJjb2xDc2VTRUQ4MmhnU3R5bENKV2hoRUYyeXd3d3pidlM0d1BEWVB3c0o4WVU5S3UwYlVxM2F4TVRNOEVOVGFRbEZr?oc=5
+・OpenAIの判断特化「Decisions API」が導入企業から大絶賛 NVIDIAが追加学習不要AIモデルの発表も【AIニュース3選】（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE01azBDRjRyV2pnLU9zemZTS3NtRjk2ajg4azNVd1NqdzBYUk1NaElGZFo1SDdZU2NhZy1mR1FRUG5JUWY5MjZ0RXNDd1l2SWhUaE1yVkVlVkcyMF9oeEVPTXR6d0hCSmxCeE8xcm4yd1NHbzFTS0VtcmxrNG02ZTQ?oc=5
+・iWorkがAI機能追加で進化！折りたたみiPhone Duoにも最適化（iPhone Mania）
+  https://iphone-mania.jp/apple-607820/
+・【本日みつけたお買い得品】Amazonで約3千円安、Ankerの67W/3ポート充電器が4,390円（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2150901.html
+・Webブラウザーで動作する無料のベクター編集ツール「ぷちパス工房」 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2150874.html
+・iOS27.2のメッセージアプリで「ミュートしたチャット」の未読バッジを非表示可能に？（iPhone Mania）
+  https://iphone-mania.jp/ios-607816/
+・【本日みつけたお買い得品】バッファローの500GBスティックSSDが1,280円引き。Amazonセール（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2150899.html
+・AIをCPU/GPU/NPUを使ってWindows ML上で動作可能となった「AnythingLLM」を試す【使ってわかるAI PC】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2150397.html
+・「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/24/2000002564/
+・アヒル型ロボット「Microduck」の予約注文数が2万台を突破、NVIDIAのジェンスン・フアンCEOとの戯れで爆売れ（GIGAZINE）
+  https://gigazine.net/news/20261024-nvidia-ceo-plays-microduck-20000-sell/
+・モンゴル火災でKDDIが謝罪、現地子会社社員が乗車の車両が関係 訪問は通信品質確認のため（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2150880.html
+・パナソニックHD子会社、使用禁止の生成AIに従業員約33万人分の個人情報をアップロード（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/23/2000002562/
+・GIGAZINE記事でコメント機能のテスト開始！そして2026年度9月分のGIGAZINEのアクセス解析結果はコレ（GIGAZINE）
+  https://gigazine.net/news/20261024-access/
+・ドコモ「エリアメール」がPHP対応で一部停止、Jアラートや避難情報対象・地震速報は継続（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2150887.html
+・KDDI モンゴル自然保護区の大規模火災の経緯公表（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261024de64642
+・フィンテック グローバル(株)【8789】：株価・株式情報（夜間PTS含む）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE51U3Z6M2U5a01XUXNsV0lOMjM1NHg2emU1OHJ1d3V1MVhKckY0RFA2MzlLV0R2MDhfU205aHZSRVdiSldVa0JJZlhycDR2YzItN1E?oc=5
+・ボルボ・カー約2500人削減へ 中国販売台数減少など業績不振で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261023de64605
+・来週の米主要企業決算 アルファベット、マイクロソフト、アマゾン（株探）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwMmVlaFpqY1duMlFQNHNqdmJxcHo5NFhJcWVGeldUSmRnSjZPMVlDZ2JPajlqUDYxZi1RLVZvUUROdjl1UmRkWVIxYkRqcVZRb0U4ald3dG9PTzJsbDloWGF3?oc=5
+・経産省が「核のごみ」文献調査について宮崎県串間市長に説明（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261023de64584
+・マクロ経済から見る日本株、好業績でも株価が下がるのはなぜ？金利・物価・為替が与える影響（マネーフォワード）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE5DWXQ3b045RTYxNzROQU5BVWh2SGdBQnc3MmlGdnh3LTNteFNmdUNJZFJvV1lFRy1Gd2twckdnd2ktdjhwaUQzOUYyWGRzWjQwNkQyaWVTcnF6LWRSRGxDN09QWQ?oc=5
+・新着情報“デイズルークスハイウェイスター ターボ”2016年式スパークリングレッドM入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9CNDg5SDJoZFQ3aEVTc2d5dmxhV2hPOThmQlUyWjZhdlB5aHJob1M1d1RRM2R0Q2FWaWdZZmlTWF9fbnBtTzhKbE5KR0V4VmpEUEsta18zQlA3Nm56ZVR6alUtMG1PYV9iLVRSTVhBd3luekMyNVN4SUdsRmY4LVU?oc=5
+・船橋(千葉県)の過去のアメダス(2026年10月23日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRV0puazlaLWJyOFRQdE5PaVhxYmR4ZGs0X0RQTzdVZEFpS2NNRDNscGVzOTJ4dzNsNnpuZUpZeDFtYVI5MmpGUzRBWUczQVNjSjBQX0J6eE9ZNFNQTk9YM1pzOGRNZw?oc=5
+・オリジナル フレーム切手「印西市市制施行30周年記念」の 販売開始および贈呈式の開催（郵便局）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5vSHBQQXd1eFNINXpmN0UyQzN3Q3VDVDF0T3VpNkNmT1VFOXY1TE94V09VcnVrMDFuVmlldDRiWVM1d0xydjhxNEdwdHFJdTFXcC1pTXpZOERTOWN1TlFDam53TEFITzA5c01neERTZjFJUVNPNmhvb2kzTnVMSnc?oc=5
+・【千葉県】10/24の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5DMkVJZGRiOGlobVY0a1BPOUY5VmZMNXBuM21aUW9Wakk4TzkyNHBXZ3phQzBkR1V3bWJfQ202RHg2NVkybHRCbTNjdnBMZ1JKZmdIY3QzaHdHWjFJamJXOEIzckMxZzdGQjBWZmRkVUpkUjUxZkRXMmlTcDdmcTA?oc=5
