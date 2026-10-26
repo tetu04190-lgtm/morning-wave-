@@ -1,0 +1,68 @@
+・台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261026de65420
+・【動画】Pickup NEWS（10月26日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261025de65309
+・ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261026de65416
+・長崎 漁港で男性死亡 台風に備え船を見に行ったか（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261025de65387
+・大相撲九州場所 番付発表 33歳の美ノ海が新三役（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261025de65392
+・那覇 女性強盗殺人事件 米海兵隊員を起訴（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261025de65279
+・設計開発の知見をAIとの対話で蓄積、横断検索による回答生成にも対応（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2610/26/news017.html
+・建設現場の生成AI導入、中核業務で道半ば 国土交通省は活用に本腰（日経クロステック）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBZaGpEYjdMTE1DWUFhbmtidnN2cHZRQTZRMzduNklyaXE2SV83aWVZQldvWXA4Y2dqM0dqZ21jZ3djdDhYN2I1U21ndi1sVktPejdmQUJXZURYckFqclJqajNFbFBCcE9BYnZRaw?oc=5
+・プレスリリース：協栄情報、生成AIの導入から本番運用までを支援する技術力と実績が認められ、「AWS AI Services コンピテンシー」を取得（PR TIMES）（毎日新聞）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wam9WUnEwZnA4d21JU0xuMGN5TFhkeTZ0bWN2bEF0MXlsaEJoZ0I0TTA3akZ6b0JCMWQ0TDVuajVaeHhBNVVsY3ZRNTJUWUF2cFBwU01mbV9nRHpVZWI3cUpscG9OTG0w?oc=5
+・Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/26/2000002570/
+・生成AI「ChatGPT」登場から4年、変化する教育現場のあり方 “十年一日”の学習指導要領が日本人をますますダメにする（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE8tUG5EUUZVZExWaFVZTnpXMm1RZDRRcHJ5ZTRqVXNRU2hrZ1dQX2FUMkkzU0NnSjNGVThoVmVIcEJfX2thakhHUDd4enFtN0wwZkY4ZDZkbm42em9NbFJoMXVMelBLLXlLaFAwZ2Zad3VKTnM4ZFZEdnJaOE9laTg?oc=5
+・サイバー攻防、新たな局面に ＡＩ利用、「軍拡競争」の様相―不正アクセス、影響拡大（時事ドットコム）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE9xbUhOWDJPY0w1bFlfbkwzYzI0NkpGajJiZFMtNU9rQjhLOG5oU2M2ak9kZEYyTE56LUtfOURrZml1S3lQWmFLY05zSWxzUVlRY2RDam1penI3YjhlVVl4YlN2NA?oc=5
+・iPhone Duoに左右版の簡易アクセス追加見込み〜左手での操作性改善に期待（iPhone Mania）
+  https://iphone-mania.jp/iphone18-607923/
+・【本日みつけたお買い得品】ASUSのRyzen AI搭載ノートが3万円オフ。MS Office付属（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2151010.html
+・Googleの圧縮形式「Brotli」に深刻な脆弱性「HTTP2Shell」、Web関連に幅広く影響／OpenAIが発見した「Node2Shell」の影響が拡大、認証なしでリモートコード実行のおそれ（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2151000.html
+・iPhone Duoの外側画面でSafariが窮屈〜Appleが改善を検討（iPhone Mania）
+  https://iphone-mania.jp/iphone18-607913/
+・【本日みつけたお買い得品】64GBメモリ/1TB SSDのRyzen AI 9 HX 470搭載ミニPCが約4万4千円オフ（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2151002.html
+・【アップデート情報】窓の杜収録ソフト 10月26日 ～「7-Zip」「Microsoft PowerToys」「PDF-XChange Editor」など（窓の杜）
+  https://forest.watch.impress.co.jp/docs/update/library/2150869.html
+・Google、プライバシーポリシーに「Gmail」「Googleフォト」のデータを広告に使う例外を追加 回避方法は（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/26/2000002570/
+・海底火山をエネルギー源とする世界初の海底地熱発電所の実証実験、海面下約1.6kmにある活火山付近で水中発電に成功（GIGAZINE）
+  https://gigazine.net/news/20261026-underwater-volcano-energy/
+・[スタパ齋藤の「スタパトロニクスMobile」]iPhone 16 Pro Maxから「iPhone 18 Pro Max」へ乗り換えて感じた地味な大満足（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/stapa/2150540.html
+・「5年でバッテリーが使い物にならなくなる」は本当か テスラ「モデル3」5年目点検で分かったこと（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/25/2000002569/
+・「地球上のどこにも存在しない花」を遺伝子工学で作り出す植物生物学者とは？（GIGAZINE）
+  https://gigazine.net/news/20261026-how-to-design-flowers/
+・[本日の一品]5年出遅れて導入したpovo、週30分のための2枚目のSIM（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2150539.html
+・生保各社 長期金利上昇で国債入れ替え方針（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261025de65326
+・26日の香港市場見通し：上値重いか、企業の決算内容などに注目(フィスコ)（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNY1p3X1VTQlA5R29XR3p5ZDByMnZtV0FhSHZJcW8xbEVWdlBPZTJNNVVRb2dBcTRzU3dsVHZXMjBoMUlxZnhYdGtyNTFhazZBQ1E5MXZMTUhxazVCNnVjWmhsRmdwYl85VGNFRS13clcxcXc3b1JrLWZhTXRpeGZIMVZOSEZVUVU?oc=5
+・日銀10月会合 政策を維持する見通し 2%物価到達が焦点（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261025de65328
+・もみ合い、中銀会合と決算ラッシュで模様眺め 消化後に乱高下も＝今週の東京株式市場（Reuters）
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQU3BDUWI3RFV4X2x6ZDl2TnNYdFA4RWpCcXUwSUJEUFcybnI0azJaUm5aWUlDWUdJcVNuMVlhSHM2Rnh5eG02SVFoMUZPY0NxeG9XU0hHRTYtOUNtTmh4QnRhVko4ZG5Mc2IzTmZMeU9fQjlobHpyUjdUd1Atc2dCZFV0anREdw?oc=5
+・GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261025de65362
+・日経平均、年末に7万5000円 中間決算で自社株買いに期待（日本経済新聞）
+  https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZQlN1bFVidlk0UDdJbmZfQndxQkpJVVdLU1RxNDJSUTFsM1lrVGV6QnpiV2VWNTVpeEVmX2hrOVJyemkwT05CRmlnemptR2twZXo5MjhXNTB3b0NMcGNTRGhzUS1vTHBsejY3aENEWDJRM2dfd1dpMC1PTlpVZw?oc=5
+・【千葉県 印西市】50年後のこどもたちへ残したい風景とは？木下駅周辺のまちづくりを市民と考える「にぎわい広場」プロジェクトが熱い！（Glocal Mission Times）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9QREhvU2FrYWZRd291UGlHc0VhQkJYSHFkbVdhZVpHSkRqSEg5QjRMLW02dnFTQmE5MlNCVHRjODgzX3JES21rWXA2NmVNdVZHcVRYYlZB?oc=5
+・ベスコングルメ★秋に行きたい千葉・成田市で地元ブランドの極上鶏すき鍋を堪能！ [解] [字]（TBSテレビ）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TFRaUjMtazZTZnJ1Q29qYXdzekw3bE5mc1VfcmNsS004OUJNS0QwQ3ZkRzViXzdpb3djcDdvYW82eERJMUM2WjlfWkRyajIzSFNRWFhB?oc=5
+・【訴訟に発展】AI時代の「データセンター銀座」で住民反発…駅前一等地に高さ52.7mの巨大施設（FRIDAY）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5qekpMeDFKZHkxTmZUTzRmR3RJX2x0VmdtRnYwWlJtUVZPanI3ZWdnRG41ZGMyU2FNQzhIV296X0FhNUhKb01YeU1YLWVjNWNwc1FkR0s2ZFRQTWZkY2x2OEJOanZST1BNUUYtdlVoemZHM3lwU3JiRXJNT0ZPSlU?oc=5
+・フレーベル館 Kinder Platz 成田空港店の今日・明日の天気 週末の天気・紫外線情報【お出かけスポット天気】（tenki.jp）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE13YWp5dHlXaXNlMVhmbWxwLWZYOFNtZ1o1M2ZNeHN2TTFPemVvN3NIQzY4M3AxQWN6LXBON09tWTNZS2xTSG5OTFBqOXBWV3ZYLWc?oc=5
