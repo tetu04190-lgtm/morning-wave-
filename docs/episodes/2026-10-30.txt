@@ -1,0 +1,68 @@
+・東京23区の10月の消費者物価指数 前年同月比2.6％上昇（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261030de68190
+・渋谷駅前「ハチ公像」がシートで覆われる ハロウィーン前に（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261030de68224
+・富士山で初冠雪 今シーズンから新しい手法で観測（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261030de68207
+・9月の有効求人倍率1.19倍 3か月ぶりに前月上回る（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261029de68097
+・【動画】Pickup NEWS（10月30日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261029de67943
+・愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261030de68166
+・ChatGPT Pro 100／500プランの利用上限を「倍」に Pro 200プランの「半減」は撤回 経緯まとめ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2610/30/2000002738/
+・【完全版】Claudeアーティファクト(Artifacts)の使い方・ビジネス活用法・プロンプト例（AIsmiley）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NYk9naDc0cmpZLUd4VUlfalEwQ2IxUUZUb2laUmtwdGZCTVcwZEE0R2xZd1NLam9jSThQclFuWkI0T3hXTDBHdzJKc19vYUZYUmt3NnA0bkNUNkZDX3doZ2FESQ?oc=5
+・中小企業のAI導入を組織成果に変える（AIsmiley）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ISmdXUnd0WkkyMVdwV0g0T1RZZmFLTEdzYjVfQWtfdU0yb05uaW5OcXhmd1JBODNLM2Zmcl9GVkJrV19LNEpoZXRSMHNjM3EyRGlfLXMwcE9SUUEtdlBZS01yWmg?oc=5
+・OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/30/2000002735/
+・「人間のコーディング作業は、もはや存在しない」…アンソロピック幹部エンジニアが、自身のチームではすべてClaudeが書いていることを明かす（Business Insider Japan）
+  https://news.google.com/rss/articles/CBMikgFBVV95cUxPMFZ2VGViU0JNNTdxeW1jbE1JMkk0WkZsMVFhY00zd1Bpd3BidHFjd19UYnIwWW1La0xYSXRuY3B4LUV3REFfMW1ZdGYyNFZsb2hlQzRYZldyOXA1bHI5Wk42ejBQeElrcEdrWnZoanJvZkY4NHdMT2Z0ZmZkSHEtdzJmY0ZqMEpTSGZDa2N1akkwZw?oc=5
+・Blucor、ブルーカラー向けAI採用で1年1,000拠点を目指す 伊藤忠商事グループ企業も導入（EnterpriseZine）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBVMS1NTUR1VWcweFJYVVgtWGpZWm1RWlJzUllxVndjS0lVVUo4ZDM3bjR6UnFSbEpQdFpzUTZ6RkNaYnRzclFTMzVsTzFNZU4yT2FXSV9n?oc=5
+・AirTagの通知が生体認証なしで切れると米国で提訴〜盗難デバイスの保護も対象外（iPhone Mania）
+  https://iphone-mania.jp/airtag-608105/
+・ChatGPT Pro全プランとBusiness Premiumの利用上限が2倍に（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2152509.html
+・「ChatGPT」のPro/Business Premiumプランで「Work」「Codex」の利用枠が2倍に／予告されていた「Pro 200」の利用枠削減は撤回（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2152456.html
+・iPhone Duoが在庫あり！【10/30】〜公式・キャリア・家電量販店の最新状況（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608106/
+・【本日みつけたお買い得品】10.95型Androidタブレットが7千円引き。Amazonセール中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2152510.html
+・「Google Chrome」の自動入力が強化 ～「Gmail」に届いたメールから情報を抽出可能に／メール内の注文番号や追跡情報、フライトの予約などを提案できる。米国で展開開始（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2152429.html
+・ヤクルト本社、個人情報約4万件漏えい 公式サイトへの不正アクセスで（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/30/2000002739/
+・Appleがペニスのサイズを嘲笑しているとの懸念からか韓国でiPad miniの広告を修正（GIGAZINE）
+  https://gigazine.net/news/20261030-ipad-mini-korea-remove-gesture/
+・楽天モバイルで「Rakuten Link」アプリが開けない障害（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2152526.html
+・アイリスオーヤマの通販サイトに不正アクセス 情報漏えいは「調査中」（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/30/2000002737/
+・数千億円相当の仮想通貨を盗んだ疑いがあるとして仮想通貨取引所のBinanceが出金を一時停止（GIGAZINE）
+  https://gigazine.net/news/20261030-binance-pauses-withdrawals-hackers-stealing-crypto/
+・シャオミ、最新型スマートバンド「Xiaomi Smart Band 11」発表（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2152054.html
+・株価 一時1600円下落 AI・半導体関連が売られる（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261030de68260
+・米国株式市場＝反落、アルファベット決算受けＡＩ投資に警戒（Reuters）
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxOTWdIMW42eTZMalZka0g5Y19sRlEtMld4RkNHYWxCaG5nYXhNMC13VGJkd3JtR0pBUS1BbXlIS1dGNmZaa01BUHY1ZnNNendUUnVVNlNpNDgzTGV0Y0hUWTY0OS1wOEx4RmJWdFFUN3Q5R294NzNNbW9WX3JwUzNhdU1EbnY5dw?oc=5
+・赤澤経産相 中部電力への業務改善命令 発出手続き開始（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261030de68216
+・【厳選18社】決算前に仕込む､利回り4%以上の｢上方修正予備軍｣（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE84azZEV1ZuNXE3M2JyZk5BYXFYTGhNOFk2MGFxcDR0cVNRMXJId015dmxoeU4xOVYwX2F2bGRtRlhJTzlyMnplZVUwTEZFV0dicXpsQXZVQQ?oc=5
+・「ワールド」 不正アクセスで個人情報120万件流出の可能性（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261030de68227
+・キオクシア、「実質無借金」企業に変身 株主還元強化に市場が注目（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5xRmJDbFlwekd6NkhoT25ZZFkzTkQ1cm1rT3h2QU9ieTRrYnhHcFdheUEyay1aT195dDVOXzZoNzZsX0pvWEJLUnZ0NUVkampXX2tMbHRVd2dDdkJveTRDMjI0SEZISFNhR1pOVA?oc=5
+・画像・写真 | なぜ家の隣に“四角い塔”を建てたのか？ 2層の図書室に込めた夫妻の夢…千葉の個性派住宅へ 2枚目（オリコンニュース）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZQTdBUVpUVkZxUHd2R3d3YnFzeGZpVzl1WG9fOUFHU2YtaTE5blg3RFNvOEV4NUUyOTJQeHkzNGJXVENYRWwzNXVUNlZWcDBOQzFMYUpqTXZMdEtYUkkzSmVDUWc?oc=5
+・難関10国立大現役進学者数、千葉県私立の最多「渋幕」127人（リセマム）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZMWhBR2JodF9VLW9zQ3hpa2k4dHdxeENiNnhkRGs4TS1nU0MxQ2QwT1lXTWhqTHRCX1hfQm5kRFhnS3R5Z2UtZGZuRVQzTlliUEZUcDRLUjRsTUtWUGo2LW55Z1ZKck93bWhwN0YtbUtzS1BMVFBDRjBJT01HUFE?oc=5
+・なぜ家の隣に“四角い塔”を建てたのか？ 2層の図書室に込めた夫妻の夢…千葉の個性派住宅へ（オリコンニュース）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBKN3NER2VpeDRHMlVuSlgyZWVjTXFVMzlHM1g1a2s0RlBjU0ZRbU90TUttUWowWnZvd3lEVEs2bnNRNWZoZ0V2dk5yMGl6UjhTSE9wX1JR?oc=5
+・千葉県の過去のアメダス実況(2026年10月29日)(風向・風速)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hcnhUd2YxaWVvYnktTmJDU3hJRTh2cmZLdFN1WmdSS0p2SUhPSDhhZnFRZFNXYXlGWEVUMXpvNW9NcVNNRm5EaFoxQ0NLdEIzTVpld0V4Yzl1by1PNEVaTHBuQjM?oc=5
