@@ -1,0 +1,68 @@
+・政府が力を入れるべき政策「物価対策」4年連続最多 内閣府調査（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261101de69083
+・GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261031de69037
+・【動画】Pickup NEWS（11月1日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261031de69022
+・アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261101de69054
+・ハロウィーン 東京 渋谷は混雑も“大きなトラブルなし”警視庁（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261101de69057
+・GMOの被害者情報集める不審サイト ハッカー側と関連か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261031de69043
+・AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/01/2000002776/
+・Claude、月額200ドルの「Ultra」で5時間制限撤廃 週間上限は維持（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFA0TTN5TGhwaTBscWhUYXJ6X3hKc2E5N2tiNGNvR0t2am9aTkN4ZVRvNHZPbGRJal9FYVFwQ3huQjdKV0NrYnI4ZWpfUDRhcVY1VU5mNFI2cDdfQnVvX1JOM3V6WlFPZUdJYWJOUk83a3Viel9hNlA0S194ZjZ4NXc?oc=5
+・AIの「費用対効果が分からない」問題、解決へ？ Claude Enterprise搭載の「3つの新機能」（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2610/31/news009.html
+・「AIを使える職員に仕事が集中」--政府の生成AI調査に負担増の声も（CNET Japan）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3bXMwdmxtWEpwTjUyZTVLdzExZFZ0a1RnRlo4YkJTR2VEcUwwcWdYOU1NNzNUV3pYWmQxSTNtWVRSMTlZbkZGMW42azJQNV91SlE?oc=5
+・シナモンAI、企業ナレッジ基盤「Super RAG(TM)」を機能強化 初期導入費用70万円(税別) からの「Starterプラン」を提供開始（Infoseek）
+  https://news.google.com/rss/articles/CBMickFVX3lxTFBmNjlMWGl1X1ZvWnlMVjRxWDNNWF9qSlNaNDAyM2lMc1d0NWpKT2xWZDJwam1iQnBrZGw2NktIVW1sZHM0eFJpTE54RWU3ZWtjcjM1d2IxRUZkUHVTMC1XQnJYam1CRUlqM1ZXa25aVXVXZw?oc=5
+・GMOがサイバー攻撃情報に異例の1.5億円懸賞金、AI時代の新防衛策となるのか（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2610/31/news013.html
+・Samsung、iPhone Duoの画面割れを広告で揶揄〜同社も故障で発売延期の過去（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608198/
+・【今すぐ読みたい！人気記事】突然の「BitLocker回復キー」要求に慌てないようにする心得～BitLockerの仕組みをちゃんと知る（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2152803.html
+・画像をExcelでドット絵に変換して変形・復元できる「Swirl Dot Animator Free」 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2152765.html
+・MacBook Pro PROLEDが牽引！OLEDノートPC市場は2027年に40％超成長へ（iPhone Mania）
+  https://iphone-mania.jp/mac-608168/
+・【今すぐ読みたい！人気記事】世界のコンセントは3つ穴なのに、なぜ日本は2つ穴！？（PC Watch）
+  https://pc.watch.impress.co.jp/docs/topic/readitnow/2152802.html
+・クラシック版「Outlook」で［ヘルプ］などが開けない問題、Microsoftが調査中／再起動で一時的に復旧するが、再発するおそれ（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2152701.html
+・AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/01/2000002776/
+・Apple純正マップがNASAやアメリカ軍基地の航空写真をぼかしはじめる（GIGAZINE）
+  https://gigazine.net/news/20261101-apple-maps-blur-nasa-space-force-bases/
+・「マネーフォワード ME」がMetaのAI「Muse」と連携、家計の見直しや貯蓄計画を支援（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2152064.html
+・総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2610/30/2000002765/
+・アメリカ人の5人に1人は定期的にTikTokでニュースをチェックしている（GIGAZINE）
+  https://gigazine.net/news/20261101-american-adult-get-news-on-tiktok/
+・デジタル庁のAIアプリで国会答弁案の作成支援、来年1月に本格提供へ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2152739.html
+・事業承継の相続税節税で評価方法検討 自民党内から反対論も（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261101de69080
+・総合電機3社の決算、ソニー・パナソニックは大幅増益、シャープは「14四半期連続減収」（ダイヤモンド・オンライン）
+  https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FWjljbVdmaVJQQmY5ZjBJMXRZWFNpOUx3XzZma3ZSVzNseGkyZjZlNTVyc0YzelhrdmNaWHBHSjgyNlYtTG11bldsVUbSAU9BVV95cUxQVmJvUmJTdTNMQUtnQXE0UDBiaFNDcDl3cWJHaFQtUEhySXBuSG1yeFQtZ2NYdVJQT19BVGcxMEUtMFo1OUVvUFNGWTFyblA4?oc=5
+・G20外相会合閉幕 茂木外相“サプライチェーンでもG20協調を”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261101de69059
+・WOWOW、為替差益4億94百万円で中間期業績を上方修正 Lemino承継で通期売上は増収も利益は下振れ - media-innovation.jp（"決算 OR 業績 企業 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTFA4djUtRTdiU1VVUy1QVENsaFJrYUw0aHZXYk85LWVjS3B1MS1GUVpBYU1rMFcwTk9JMVd0eXd0Q3ZLOUJlZVBOUm9LeFQ0VllIM2F4RGstaVRoWkg3ZGxqcGRnTVkwQ1ZnTHc?oc=5
+・GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261031de69037
+・アンソロピックIPO》上場目論見書と直近決算から読み解く“収益構造と巨額投資の実態” 巨大ベンダー企業との「130兆円のAIインフラ契約」の全貌 特殊な企業形態によるリスクも（マネーポストWEB（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1mOElpQmRkSWg0VlRhUzhnb1NWVGR0cGtvRWlBNDB4Ul9ZSFBGa0lkNjNPdFMxZWZ2YUpITTRUSUlDczllNFNoMWhSNXRGbzUwOElsdnpfM2dZd0R4Y19iTTRVRUtWeTZPcEs3a0lNOHlqQkc3QWtwRTRYc0Uxbjg?oc=5
+・なぜ家の隣に“四角い塔”を建てたのか？ 2層の図書室に込めた夫妻の夢…千葉の個性派住宅へ（山陽新聞）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XZ2pPYUVUdE12dy1nZWRIVUVWMEFPcG1aYnBVREZ0RjN2RTkwdXNKUnZ1b3BIZV92Z05VQW5GQi0zM0JDZFdkR1JWZjdXUTQwbWlqMTNRR2ZlX1RCbUE?oc=5
+・台風25号で浸水被害 農家に説明会 千葉・成田市（ABEMA TIMES）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9xeEEwY012eWRpRHRSRlFkZWNhLXA3cU0zWFEteXY5cFFPMDBSRmFfMXJ4R3hWQUtkMTYxajd4aDhUMzZCRUZNTFFVZUxzMnZVaFpHZHViV2thcDZxNlp4dUdzNXg3cjNMNTRFZUZYR2VRQnZJVmpOVG54d0dFQUU?oc=5
+・震度＝気象庁発表（１日７時２２分）震度順・市区町村別 ：地震（大分合同新聞）
+  https://news.google.com/rss/articles/CBMihAFBVV95cUxPV085Q2k1YkE1NURmSm5SdC0tUDBTNFVDS29rRjQ0UlR1YnNxSjVtYjByWmxfaDNlTzhaVk1VaUdsYWxQX3VjX1VSLXFUNlNhdW14N0VMWkZMajNrTXNoMzJPS29aTzU2SV9uNVN0THRuRGFNU2RSX003RExsb19SQXZqV0PSAYQBQVVfeXFMT1dPOUNpNWJBNTVEZkpuUnQtLVAwUzRVQ0tva0Y0NFJUdWJzcUo1bWIwclpsX2gzZU84WlZNVWlHbGFsUF91Y19VUi1xVDZTYXVteDdFTFpGTGoza01zaDMyT0tvWk81NklfbjVTdEx0bkRhTVNkUl9NN0RMbG9fUkF2aldD?oc=5
+・週刊地震情報 2026.11.1 千葉県北東部でM5.5 関東で震度5弱以上は今年5回目（ウェザーニュース）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MeUJ0cFdwaVkySjExLVZZRk9uVVVBdGZQQVpYbF90YkItalF2aHdreHREQU1BTmdMRk4zQnJnZURRblRLWWQtOUQ1aVdZOTVkZ2NXUw?oc=5
