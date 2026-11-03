@@ -1,0 +1,68 @@
+・スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261103de69859
+・脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261103de69916
+・アメリカ中間選挙 日本時間の今夜から投票開始 焦点は（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261103de69868
+・【動画】Pickup NEWS（11月3日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261102de69570
+・カブス 鈴木誠也に“クオリファイング・オファー” 1年36億円（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261103de69908
+・「秋の叙勲」受章者発表 各界で功労のあった計3861人が受章（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261103de69860
+・Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/03/2000002831/
+・生成ＡＩ、是非より活用策考える段階に 岐阜市で新入社員向け研修（岐阜新聞デジタル）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBQ201aGxtTHM5NU5QX2tBTmk4OGRfNjBxY29QT01ETGsyc1pBTTVQbU5XNmlwV19jT21oYklDR3VDR1R1Z2s0Zko2QzZTcW0xM1NsY3JB?oc=5
+・AI企業への依存を減らせ 企業が取り戻そうとする「AIの主導権」（株式会社エクサウィザーズ）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE92T242NDJyUWxkV2p0VmVTWEZ6WDQ4R2pxVkdKcm54T1VCM0JjVGlZR0E3QWhUUTN4eFZmZ2Z2TzE5WmI1dzB2Szkzcl9nOUl1N1BqWmJCV0U5cXZ3Zm9uZXdhbEtEZw?oc=5
+・Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/03/2000002830/
+・ChatGPT、仕事での利用が多様化 日本では「計画と意思決定」が最大、OpenAIが約100カ国・165種類の業務データを公開（Ledge.ai）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56MFRfNDFGWmtBSDVBZ0RxMXZRSi1GN2k1WkdvcmE3OEd4QzIwSWd2amgzOGdKSm9VZlVmUGhhMWVwMkFLcFI4bEhYMzlqbFB5TjJUN2JwenJXdE5QeXRxejA4V3poc28?oc=5
+・ＡＤＮＯＣ、エネルギー企業初のＡＩ基盤導入 - Economic Media Bulletin Limited (EMB)（"AI 企業 導入 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MN3hrM1BBNE9MRHJ3MGFWWDZSV2FlcFdveDJXN0NRekpqM1NybUdPNDZCdFJpVTRZZTctSEprQVJ3dnFnQmtlLXRCOGNGQnJOeWVubW15OA?oc=5
+・【独自調査結果】iPhone Duo 買った人の満足度と気になったところ（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608225/
+・【やじうまミニレビュー】550円なのに240W！ワッツの巻取USB-Cケーブルは“やりすぎ”スペック（PC Watch）
+  https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2153264.html
+・「Visual Studio Code」v1.144が公開、複数のAIモデルを賢く使い分ける「GitHub Copilot Fusion」も一般提供／エージェントとの通信仕様「Agent Host Protocol」v1.0も公開（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2153125.html
+・MacやiPad、年末も供給制約〜Appleがメモリ不足を認める（iPhone Mania）
+  https://iphone-mania.jp/apple-608248/
+・スパコン級チップがノートPCに。RTX Sparkが日本で6社から登場（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2153206.html
+・Windowsの不要な設定や同梱アプリを一掃する「Bloatynosy」が原点回帰で復活／新たに「Bloatynosy Origin」として再構築、メーカー製の同梱ソフトも削除候補に（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2153079.html
+・Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/03/2000002840/
+・アメリカ産基板を中国産の2倍の速さで爆速納品可能な工業規模ロボット「The Grid」、注文に応じて回路基板を製造可能（GIGAZINE）
+  https://gigazine.net/news/20261103-circuithub-the-grid/
+・XREALが「XREAL AURA」を発表――CEOやグーグル、ソニーが語る空間コンピューティングとは（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2153244.html
+・渦中のGMO記者会見、責任の所在はどこに？ 熊谷代表が語った“グループ内の力関係”（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/03/2000002829/
+・GoogleとAppleの電子書籍ストア開設したので90％オフの記念セール実施中！【2026年11月10日(火)まで】（GIGAZINE）
+  https://gigazine.net/news/20261103-ebook-google-apple/
+・XREAL、輝度1200ニトや60fpsの3D変換に対応したARグラス「XREAL 1 Pro+」を11月10日発売（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2153189.html
+・「バイナンス」へのサイバー攻撃 AI使った新たな手口か（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261103de69892
+・米国株式市場＝Ｓ＆Ｐ下落、原油急落と中間選挙にらみ アップル軟調（Reuters）
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQaUJEbmpvSHRNei1DOXFkX2tIOEZGZ3IxeF9ZdmtpVjZ5Z0c0NndhNXRRZVluSDVsVjh4S3pfalFzS3hlODFJMHZfUVFLMV9GMTJXOU1KZVBqV0tQbU5XMlVuYVdEOGhwcXhZeWpOMzRaZXVlRjFCX21DTVJ5ZFh6b0drNzZZdw?oc=5
+・米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261103de69869
+・好決算でもAI関連株はなぜ下がるのか 「オルカンの父」が解説する株価と市場の期待(1/5)（JBpress）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9NUFNhREd3bk9pWHItOXBkMjlETF9Rd0ZQRmdXVkQ2VU1VZG43allxbWUtSWJjUzA3WkV3Q3FuQW8zRkpabmhObklxUjgyT2tQZ0hZcGJB?oc=5
+・ベルギーやスウェーデン スーパーにサイバー攻撃か 食品に被害（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261103de69864
+・市場で"AI第2幕"開始の予感､好業績で注目度が高まる2銘柄（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE51akNISEVGZzBKeXFfSnV0ZzJVRXByQTdCWGFzMGp6dWRvNGxWMjRub0MxNThBRWhyQndOZzJBbGVGcHdxQ0VpODdnN3BrSTJXNEJpSE1lOA?oc=5
+・コストコ千葉ニュータウン倉庫店は10〜20時、駐車場は平面784台｜千葉ニュータウン中央駅から徒歩15分、ガスステーションあり、口コミ7,005件の平均は4.0(10/29時点)（ジモはる）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE03UWtzUmhRR2syLW5KR0diYW1iaW1zTkZtcGpDY3NRemtjUFA5dG4xaDlyc25ELTFrcV9oaXdyZE13VmtXNWFkSk5FdW9IWU03MHViT1FEYVFpVC1WTElhX1hPU0d6UQ?oc=5
+・令和8年11月（白井市）
+  https://news.google.com/rss/articles/CBMieEFVX3lxTFA2R2FTQ1gzZ3ViZUFJdG5EYW5oUWQza1dkbGFmQmhPNmlKZEJUWnVic3VEa1NxT2FLVEZEN2d1N0dydnMxTGw0NE4xd1pQVlFWX1Nha0NoOEZldVJmUU5FNi1sWUJtbEJLNVR6UVZuRE4zdlA4X2dhUA?oc=5
+・千葉県の過去の天気(実況天気・2026年11月)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VUTlnMDN4aTlYUHZJSkJkc0llM3JCb2ZmRjdILXJrQ09uYmlKSkdFUU8xTXU4dFc3dHY5SkdUdGpyTUF4TExobWltNEs3MzRtUmNLckhR?oc=5
+・【このパンがすごい！／パンエシュクレ（千葉県）】団地の商店街に“フランス”があった 柏で出会った正統派ブーランジェリー（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ocDZZQnBwWnhDbFVEbmZ5S0xWU29BVHNaNFZkTFowOFJhb0tlQm9Jdl8wbDNOV2tpUjRiSEVxdVh0VUljZnR3dkZxTXhmQkh5N2pTa0Ezc0lxVmdzbjBLaVlJUV85SzE4bmljbS1LUlRsRGRleGxfUm1kYmhZZXM?oc=5
