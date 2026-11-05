@@ -1,0 +1,68 @@
+・ドコモに不正アクセスの可能性 オンラインサービス停止（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261105de70776
+・NTTドコモ 全国で音声通話やデータ通信など 利用しにくい状況（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261105de70883
+・【動画】変わる東京湾 海中では何が（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261102de69409
+・アメリカ中間選挙 共和党大敗 イラン情勢への対応が焦点に（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261103de69965
+・JR内房線 運転再開（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261105de70729
+・国税庁「e-Tax」不審な通信検知でメンテナンスも再開（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261105de70796
+・OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/05/2000002894/
+・サイバーエージェント次世代生活研究所、「若者の生成AI利用実態調査」を実施 最終回となる第4回は「生成AIが消費に効く理由」を発表（株式会社サイバーエージェント）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LY19BbmJWR1hRemxFWEU4c1Z2RTdPTktqVDBzaDBwd1RpdUJUSzVhNS1iSnhlTDhUYlEzZGhNbjhpTHluWFptaVp1OGRGOWFvZ3RVZ0NuQXhaOExiaVE?oc=5
+・アンソロピック、AI人材育成に1億ドルを投資…企業への導入を担うFDEに求める5つの資質とは？（Business Insider Japan）
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjZzMndfZGF5REo5OXVvaU8tRy1pSU0yVzMtVU5kVEFhYXE3OU5zLVRJSFk3U1hRaDZMQVEyenFfWHJrSjBsWEZmenVfYjdEME1hZmxiOFZyOTFkRGtXY2ZuMG1kSmY2elNOVDV5V2pLMnlNRFFBQmE0SDFjSThUUFBpM3lncEd0UUN6UFp5TUdSWGE3X3V2LUxCUVNySHFNcEE?oc=5
+・AI生成画像の「99％を検出」するChrome拡張機能が登場 米スタートアップ（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/05/2000002892/
+・生成AIで業務効率化しても「仕事のやりがい」が高まった人は半数未満（共同通信PRワイヤー）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwMVRiU1piX1k5OUpCT00xODc3bkxuVC1kRWR1akNBTk1fUVQ4aFhndG9xZzlfV3MteVJPUUFacGNncWRTWS1iMmZqcmxlTXpqZnpRd1RQQUZqLTQ?oc=5
+・ＡＩ導入している四国企業は６割余 去年調査から大幅増（NHKニュース）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE43X21pdlJXbk1HQzYzWkRUYlV2Y2lQRHZtMGVlM1p4MG8tYUhWUHRiY2w5Q19pNzVvajNWZ1NLQVlocjJIMVQ1UEJGY1FIOHc3Q19sVHpJZjFzekhnNW9r?oc=5
+・MacBook Neo 2に高まる期待〜2027年の出荷計画は倍増か（iPhone Mania）
+  https://iphone-mania.jp/mac-608333/
+・最大風速55m/sでゴミも水滴も吹き飛ばす充電式ジェットブロワー（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2153808.html
+・あぐらをかいてゆったり座れる「あぐらチェア」が13,320円から！【AmazonスマイルSale】【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2153781.html
+・iPhone18eはノッチ継続か〜基本デザイン維持で値上げを抑制？（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608308/
+・【本日みつけたお買い得品】WDの外付けHDD 8TBが3,306円引き。20TBは9,270円オフに！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2153828.html
+・フリーのピクセルフォント「でんきチップ」がJIS第1水準漢字に対応、2,965文字を追加／ライセンスは「SIL Open Font License」（OFL-1.1）、商用も可（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2153762.html
+・人気ゲーム「NIKKE」公式PCランチャーで不正プログラム実行か CDN上でスクリプト改ざん ユーザーは対策を（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/05/2000002895/
+・イーロン・マスクは中間選挙に700億円以上を費やしたが応援した候補はほぼ敗北（GIGAZINE）
+  https://gigazine.net/news/20261105-elon-musk-wasted-446-million-usd/
+・60秒で健康チェックができる「ヘルスグランス」と、身体の状態を可視化できる「ヘルスインサイト」 HUAWEI WATCH 6の健康管理機能を試す[Sponsored]（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/topic/special/2149321.html
+・OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/05/2000002894/
+・ブリーフのような「きつい下着」を履く男性は精子の質が低下する可能性（GIGAZINE）
+  https://gigazine.net/news/20261105-men-tight-underwear-sperm-quality/
+・Amazonに「eo光ネット」のエントリーパッケージが登場、契約事務手数料がお得（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2153840.html
+・株価値下がり 米中間選挙の結果を受け AI半導体銘柄 売り注文（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261105de70872
+・【ポイント解説】2026年度2Q決算：2Qの過去最高益更新 年間見通しを上方修正、2028年度目標を2年前倒し達成へ - Panasonic Newsroom Global（"決算 OR 業績 企業 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3WkY5N254cGZybWR2eE1OdHVxS2NyLU8xSzVNRTByaDJjRVg3b192NVlHcXg4X3hHZ2VaR3NQWTdSR19vaktLelZWZkNORFhzeDJtYXl3?oc=5
+・モンテローザ 会員情報62万件余流出か アララの不正アクセスで（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261105de70839
+・国内企業の決算発表と市場の反応（マネクリ）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE1rbTVoY1BsZkdscllZNDAwcEc4VmdHVG5Jd1YwdzZ5RW1fWjN3Y3RxUXlaOXIzQU1tRXQ2ZnczTGEtN04wVGhFSkUzOGVGT1NfdklaZdIBV0FVX3lxTE02OEtlclFheWoyZTVEVTFpcG5NTHVNbUllN3V0dzZ5WXRHb0hScWRENTJiY1p6OUl4NzU0UV9MX1JXRFdaZ3J1OUY1M1ZYMkk0S0lmdHdmdw?oc=5
+・国税庁「e-Tax」不審な通信検知でメンテナンスも再開（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261105de70796
+・本日の決算発表予定 … 太陽誘電、任天堂、トヨタなど 157社 (11月5日)(株探ニュース)（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNMG1seXBFa3ZYQ2cxSFRDcUVpM29yM3FEZDVRRWVidmpTMTRhSS1iWW9lQlJCcko3eHMxWmwtQ2MxZ3NsaXNITjZSRkJFY1dfR1BCNVJBb3ZYWXppTnBneGlQMVVxeHV2M25qUGwyU2tzS3FGSmJXbnF5d1lnd3RmaWFwejlGVG8?oc=5
+・【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GUWZrNlFUOHQwbnFuMnFaN3RxdUNPdGFaV1pFay1XUUxMMW10SGt5WHlRd21TUzNZUndkWFkzWlEtdzR1c0EyMURVbHFjczFkdmc?oc=5
+・千葉県の過去の天気(実況天気・2026年11月04日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YLU1fcTNlaHBfY0RNdDJrcXlicWNKcF8zNHljMVNIZkRYNVlwek5Wd3R6NkZHcGJTMG1GSkRSeVNTR2dfVHRPOWRsMmlFNmVlZVg4TU9UMW9Pdw?oc=5
+・経済建設常任委員会で果樹の6次化とブランディングをテーマに視察です。（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE1haXEyWXFITmh4VEVqcmxCc1M5UDBaY2xyemRzbGdxZ2NwTjNTU1pITU5HeFdRaV9wMVZ0bmxGdWoyaTdnRzMzMEZDdFFjSnNBOENscFJya0FjMm93UkZn?oc=5
+・【速報】千葉県内に土砂災害注意報 大雨で鉄道に遅れも（千葉日報オンライン）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9XTDl4TTkyd2E0OEtDejFfLTZUMlo4bDF4SG5BUmxaTEQxOGZfbHVkbUUyMG5ETzdHalZDUlpzbHg3aG5PZzRpektPdE1fZzQ3dUV3SW96cS1oR3g4TDhVSmRVVW5CT3ZTaHJ0LWhEWkZ4VFZacmtLWVJnSVFOTW8?oc=5
