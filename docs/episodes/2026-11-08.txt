@@ -1,0 +1,68 @@
+・愛知で震度5強 12人けが 各地の被害状況（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261108de72310
+・福井の山林に女性遺体 監禁疑いの容疑者の関与捜査（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261108de72420
+・震度5強 愛知で観測約30年ぶり 南海トラフとメカニズム異なる（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261108de72252
+・東海道新幹線 運転再開（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261108de72365
+・トランプ大統領 総合格闘技団体代表に報道官打診（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261108de72412
+・東北新幹線 全線で運転再開（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261108de72358
+・【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理（ITmedia AI＋ 最新記事一覧）
+  https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html
+・生成AIによる自動電話「ロボコール」はなぜ嫌われるのか？ 回数の多さだけではない、リアルタイムで受け答えされても「ニュアンスが通じない」（マネーポストWEB）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1udVAyTHE2OE9RNmRkOFNqdzFWeTQwU2dsZGlvVFZRVS1faWZQSWtWUUVJNTE4amhmcWlHVzhEdnNPcTZHQnlhUmRSLVZuVkV6NWY3LXRzb2xQVE9aN1pPNS1rVVFqVjYzQVlFdWRQZFpHcXN5SW8xMUhad21RMlk?oc=5
+・[FT]AI導入支援で潤うインドIT企業（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5heVBkMDE1S0lLNUNVZUY2WmY3Rngwa1RCcmR4MXhuSHpqeXJxUVlEQXBNY2NENXJyaTU0MVlsT0RIbUk2ZlMxdVRTLVJZbTRtZmRpUEU5R3J6R1VUaDhtTlAyaXhvcWhrSlFvVw?oc=5
+・AI面接を導入したのに、応募者情報は手入力？ 採用現場の「二度手間」を解消へ（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/
+・Claudeの性能向上ペース、約2倍に加速--「AIを使ってAIを開発」が要因か（CNET Japan）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xVGFBODhOVzVhRG9VY3N1VG8tMjNPZjNJdkhWQUM3clpyZXZsd3FmcUIxS0xmVWViYzJYNXUyYjUtZzVRY0ZjOWxGLTQ3MnR1dGc?oc=5
+・AWS「1つのAIモデルですべての業務は不可能…段階別の最適選択が鍵」（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE5XZmc3bGFndGZMVURDRGxjWVBzLWs1MldzVUl1ZHpUVUtnVGVXNk1FQ2tNWk1WS0hrb2VQbFd0XzFXcHcyS183RG5GcTJXZ0UzLTNoVW1wWW1XSFFXMDhfZlhrdDhKY09ZVXZuLXZXaGU5eTBQ?oc=5
+・新型iPad miniとiPad Airを比較〜画面と使い方で選ぶ（iPhone Mania）
+  https://iphone-mania.jp/ipad-608431/
+・【本日みつけたお買い得品】USB PD対応27型4Kモニターが約3万5千円！Amazonタイムセール（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2154552.html
+・日本最大級のAI文化祭「AIフェスティバル 2026」が本日11月7日に開催 ～今年は渋谷の地に、入場無料！／新企画も多数実施、AI好きな仲間と「参加して交流する」イベントに進化（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2154555.html
+・AppleはiPhone Duoの何を知りたい？購入者への質問を読む（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608429/
+・【本日みつけたお買い得品】Chromebookが2万円引き！Amazonでレノボ製が2万9,800円（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2154551.html
+・【編集部からのお知らせ】窓の杜とAI Watch、7日（土）、渋谷のAIクリエイターズマーケットに出展します（窓の杜）
+  https://forest.watch.impress.co.jp/docs/info/announce/2153330.html
+・ロート製薬、約280万人分の個人情報漏えい 9715件は通話音声データとクレカ情報が流出（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/06/2000002984/
+・521日間監禁されていた少女が「Among Us」で助けを求め誘拐犯から救出される（GIGAZINE）
+  https://gigazine.net/news/20261108-missing-teen-saved-kidnapper-help-among-us/
+・CIO、ドン・キホーテ限定カラーのモバイルバッテリーと充電器を発売（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2154391.html
+・政府、相次ぐ情報漏えいで事業者に注意喚起 「基本的な対策が不十分」な事例を複数確認（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/06/2000002976/
+・人が驚くと瞳孔が拡大するのはなぜか？研究者が解説（GIGAZINE）
+  https://gigazine.net/news/20261108-pupils-dilation-surprise/
+・「ANIMAX MUSIX 2026」、TIGETでチケット販売中 11月20日・21日に開催（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2154546.html
+・HIS子会社がモバイルWi-Fiレンタル料で不当表示 消費者庁（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261107de72235
+・決算:製造業の27年3月期、半数が純利益上振れ 値上げや円安が追い風（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBLWXJwaTNIYm9nSDItM2NtNlBvOFN3TVVQRktObV8zR1lJMFJTUEUtM3FPQ1RFdFRlN3RFN0pZWkExcGJfd0RPY3BjYTQxb3YzMk9aSDg1WERuT2RiQkNxU0ZqcHdUOGFOa3FhRA?oc=5
+・物価高の波 大学の学園祭にも 早稲田祭の運営「少しでも安く」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261107de72163
+・【Q3決算】福田組、3期Qは大幅増益 建設事業の利益率改善が寄与（にいがた経済新聞）
+  https://news.google.com/rss/articles/CBMiREFVX3lxTE5IR25YTFI3TTk1aTVSTWlnTXlTZUR5UnlvUTN4NVdoSmE0TTZWb19FVUY3cHcwa1RMclFFZjl2MkFFZzRG?oc=5
+・GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261107de72062
+・米物価・CoreWeave決算・オプション満期が重なる…KOSPI 5,000ラインの行方を左右する変数（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE1mOTZkZEpYaDdxZWw5SWg0ZTJWb0FlbkpTdndJaGVkbTlfZzNSNGg2dmpMSS1jcTlPUXRtd1RVM1ZaN2pSakZNSC1zcUQyaEtJbHZiNmZyUDduNnFnNklFUkxoTmtuRzFuU1hsYWNoYnhWV24t?oc=5
+・【千葉県 印西市】次世代へ繋ぐ責任を胸に。市制施行30周年「中学生平和学習派遣事業」の学びを振り返る報告会を開催（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GUWZrNlFUOHQwbnFuMnFaN3RxdUNPdGFaV1pFay1XUUxMMW10SGt5WHlRd21TUzNZUndkWFkzWlEtdzR1c0EyMURVbHFjczFkdmc?oc=5
+・千葉県の過去の雨雲レーダー(2026年11月07日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLb2NKbUxOUFZ1Ti03ajdVQ29qSnlPc3k4cXVKazZOUTFnUThTdkNJQ2doMUhUT0UwdE5idGRxZlFmT1BkRTR1b3hrM1A0VFJmbHN2ZkNWVQ?oc=5
+・北総7300形7318編成が千葉ニュータウン鉄道9000形カラーに（鉄道ファン・railf.jp）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DYWYxSF9WdnMxMUtKbVNmMUZOME5BLWNjN3djbVIyUDQtbUJReV9kMjMxbjlOME50VUZPTmdseWdQNE9BMnZQQWZONWdHRUN6YnFoeE9fTQ?oc=5
+・千葉県の推定成約ADR — 確定9月はリゾート+14.8%・シティ+9.3%、8月の前年割れから反転した業態と10月の着地（HotelBank）
+  https://news.google.com/rss/articles/CBMiiwFBVV95cUxObGt5Q2RjUFFRN1UyTDlUMVp6QkxRMktBR2xGRDJPeFVsdmZEaGktdHJFdldvUlRPSGRYcGEwOWdxdWJDSlpGTEU3ZnZVR0JOa09waEdUQ0Zzbjg3UThkd0lkVUJGTGh5aENPVF9ySWFES2tVc08wTFFCUllUYm1NNWlLMkZqQy1BcG93?oc=5
