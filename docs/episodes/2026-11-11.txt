@@ -1,0 +1,68 @@
+・NTTドコモで通信障害 原因調査中（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261111de73934
+・岐阜市のアパートで火事 1歳児含む12人搬送（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261111de73892
+・各地で厳しい冷え込み 台風32号は小笠原離れるも高波警戒（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261111de73870
+・“年内入試”での生成AI活用めぐり大学の対応分かれる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261111de73858
+・文化庁の新たな顕彰制度「食の至宝」 8人が受賞（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261111de73866
+・英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261111de73900
+・Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始 Antigravityでのマルチエージェントチーム編成機能も（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/
+・Claude、まるでExcelな表計算機能「Sheets」公開 共同作業用の「Whiteboards」も（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5ka1RPMXJHVmNLdEh4RGljMU5QcU1uakJ3RjhrN2dXWTI5b0lQRGwyTGlsM256QkVfckotT3UzbjI1bk1YLS11aXdkM0szNVJPLTF4VlRfbmFkejF5UVcwVmxIc0N0S0JIUVpHRUxpZloxRTdNYWJKZUozU3g4aTQ?oc=5
+・AI全社導入企業 セキュリティ対策「できている」85％も、トラブル発生37％（キーマンズネット）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE4zVjZmVVEtaFFTUXBKZVdOSjBuYmVTczN5bWVIdHBqeWFEeU1pUzhsTDdUWVFrRzJpSzAxZlczV3hYamJ4Y3QyZlVpNVFZeG45VkNXX1FmekxDalVNdVdxNTBHQzM1dw?oc=5
+・「Claude」に共同編集の「Sheets」「Whiteboards」 外部アプリもClaude内で開いて作業可能に（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/11/2000003089/
+・OpenAI、ChatGPTに企業専用AIを導入へ。検索から企業との直接対話まで可能に（XenoSpectrum）
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE5qajlHUnhNOWNrSlRvVHQ0TEZtbHZyaWhsc0NWY2JLaERGWUlMR1U2ci10SXcwOFhFN3V0N1UxQmdTSjZWVWhvNmZQc1kxU3ctS2hHcWkxU3lMRFZ5RzJ3NHdfVWdXaW1sM0hYalpINks?oc=5
+・ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/
+・iPhone20 Proは何が変わる？20周年の進化10項目（iPhone Mania）
+  https://iphone-mania.jp/apple-608549/
+・【本日みつけたお買い得品】ロジクールのトラックボール「MX ERGO S」が約2,500円引き！スマイルSale（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2155424.html
+・加湿機能搭載！シャープの空気清浄機が22,200円から【AmazonスマイルSale】【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2155420.html
+・オリヴィア・ディーン、Apple Musicアーティスト・オブ・ザ・イヤーに〜英国人初（iPhone Mania）
+  https://iphone-mania.jp/apple-608543/
+・【本日みつけたお買い得品】約2万円オフでカラー対応Kindleが販売中！AmazonスマイルSale（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2155403.html
+・PHILIPSのAndroid 16タブレットが最安23,979円！【AmazonスマイルSale】【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2155409.html
+・ドコモまた障害、全国で通話・データ利用しづらく Xでは「5G SAがつながらない」の声（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/11/2000003095/
+・「Firefox 160」正式版リリース、ウェブページを常に最前面に表示できる「ミニウィンドウ」機能が登場（GIGAZINE）
+  https://gigazine.net/news/20261111-firefox-160/
+・ドコモで通信障害、全国に影響 11日昼～（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2155413.html
+・「ブロッキング」実施検討へ向けた作業部会設置 総務省 法的整理など加速へ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/11/2000003094/
+・今日は毎月恒例「Windows Update」の日、1235件の脆弱性とOutlookのゼロデイ脆弱性を修正（GIGAZINE）
+  https://gigazine.net/news/20261111-windows-update/
+・[本日の一品]データ転送・給電をオンオフするスイッチ付きUSB4ケーブル（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2155227.html
+・NTTドコモで通信障害 原因調査中（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261111de73934
+・Ｒｅｃｏｖｅｒｙ Ｉｎｔｅｒｎａｔｉｏｎａｌ(株)【9214】：企業情報（決算時期・代表者名・大株主情報・IR動画など）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMidkFVX3lxTFB2Q2JzeHhwVmZFZXFPTGMxY1dFbTNVWmlsR0pzTGhpc1ZtTGEtTWI3T3NGRUxVT2NjWDBCbi1Ielp5MUZxRk5paVlOb1ZmVEgtYXVSaGdsZ2lmUF9vbDNnaDk1YnFBOXRqc1VfeDRtWG5WUXFucUE?oc=5
+・【きょうのおはBiz 11月11日(水)】中国就職難 若者が日本へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261111de73893
+・出資から決算まで、高校生が「会社経営」体験 秋田県やセイルオン（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcDF1NlZnRllnTjVEZVAxcFN6Qi1UZlFqYTQzazh1d241Wi1fVlQyWW5mT3hvMUIwUnNkaG9pT2NHUkt4SnlDdllvaG1NNDB2dFdsRmZJcEdsX2JVbVQ0a1pNOTRLYU5BMTFDLQ?oc=5
+・「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261111de73895
+・ホンダ 今年度の業績見通しを上方修正 円安やHVの販売増で（NHKニュース）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zcC1RcnQ3cXVCSktzendKbDE4WEtaNUYyUWdpZ1g3N2laellpSzctYjNLQ2FaRUMxRURiTEJjQ1ZncVkxTW1Rd0lNX01tTFpIODlVak5BTENtU3VtR0FJ?oc=5
+・新着情報“クラウンハイブリッドアスリートS”2017年式プレシャスブラックパール入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE44Y0xkTURNQXI4UTRGVzFFdXlqNXRCWGVJTE1WQ2hhTHRITkJsa1EyWFA2cFlTZjUtV1VWYXdkRkM2LU9hN01mRUZlaHJCWHhqR2lLMTQwWGdlN2hQRDlZS3lqXzBrcHhMZTYxWU5ET1NLNklmWW94eDZiOGtDazA?oc=5
+・C＆W／千葉県市川市「ルネロジ市川II」テナント募集、随時内覧を受付中（物流ニュースのLNEWS）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vaWZUbWtXc2VQUEdRbjhrSm05R2djYkNTOUlnbXdndFZkbUU1bGNDdExaS29FajRHR05tUGk1Yk1SbDY1UzRqclhSczZoR1p6MkswcA?oc=5
+・「CRASH GATE 千葉ニュータウン店」2026年11月13日（金）グランドオープン！ | 鹿児島・九州プレスリリース | 生活情報 | くらし（南日本新聞）
+  https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2tXRlc1cWFsQ2VtU25RQm9NM2pWemNJX0lpRUVLbm1laDdZbU1hNFI2YkxiTGQ0NVZJWHlpQUF2U214d0dYbURDWDlSZ3VtZjdRRnZnTFNkRE5EQURPY2tyUXl5VlIzaHNYb1owTnlYdG5RTHp5UTlfZ2lPai1ESw?oc=5
+・千葉県の過去の天気(実況天気・2026年11月10日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EWjRkeXI1SnRIYkN5MGtTY1Z5REZYdU5nYWE5RV9FQkRJa3U5dFJ4VzFoaFd4dzlBajgtbC1qWjhaV0ZoQ2RxOWJuLVI3ZGROYXpzVTNUUHJQdw?oc=5
