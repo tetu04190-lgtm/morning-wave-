@@ -1,0 +1,68 @@
+・【速報中】マイクロソフトで接続障害 世界各地で影響も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261113de75121
+・井林氏「党費含め費用まかなっている」会費超の景品提供疑いに（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261113de75215
+・秋田 湯沢で住宅火災 2人の遺体見つかる 女性2人と連絡とれず（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261113de75248
+・エヌビディア 暫定CEOを任命 フアン氏の後任選びは難航か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261113de75212
+・ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261113de75109
+・千葉 旭市の養鶏場 鳥インフルエンザ感染確認 全国で今季2例目（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261113de75136
+・「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか “新たな一手”のねらいを聞いた（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/
+・M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」（ITmedia NEWS）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE5xc0NneGZkY1FyNjJmQjhTTmd0elBjSzFJYmlPckFqV3dQSm9Ia1ZhMEQ0RkhzcTYxdVJBMDUyaHZDWHhic0RFcFBfLW8tRnE4czJ6NXRfYnFNVk40ZFluWVdfQUJSVVk2cGFNbV9LYnpneXR5ZTZXa0dYamV1M0U?oc=5
+・米政府、中国AI企業によるエヌビディア半導体の遠隔利用規制を準備──中国勢は海外の利用枠確保を急ぐ（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1UMHBmeF9kdTUyQ21Eek5jX284ODZMNERaWHZseWhJWkh0TnJBbzJJT25FcGhEeDNSRm1ScE95TEtWOGNKbkphdXVMbGZKeXVobVdGM0xnS2cyckk5ZEQwSnRZaFY2M2xiV0hqX3l4V2ZaRER4Z2EtZUpaTnJLYTQ?oc=5
+・「AI処理、データ非保持が守られず」――Notionが委託先の問題指摘、漏えいの恐れ巡り（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/
+・PC作業をAIにおまかせ『Claude Coworkではじめるシゴト自動化入門』を3名様にプレゼント（Web担当者Forum）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zb1BBZ3MzN3FsT1Y3OXVnWFVaZVJwLWF4amNWTDU5TGJoZFZvVHY5aDRzZ0I4SzQ1aWgwaXdSSmkxN1ZGMHAtb1RUOUNIeXdmLXI5YnI0dw?oc=5
+・Cohere、日本におけるソブリンAI導入拡大に向け投資を強化（Infoseek）
+  https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KTk5GaVRhdmk4U1RfX1EwSDcySm9HelB6U1NJZGxoaFozRjdWQzd0YmdleGdJVzJfc1c2ZVdfU3VDcTFNSHNzVzVicGU3S2s2MTVuM01xbWZZLXVxb3VMV3k5dEFyaGs?oc=5
+・iPhone Duoの読者投票で約3割が返品回答〜数字と理由を読む（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608646/
+・【本日みつけたお買い得品】4K液晶一体型FMVが約2万円引きでAmazonセール中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2156169.html
+・Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2156117.html
+・Galaxy S27の本体カラーがリーク〜Appleを揶揄しながらバーガンディ復活？（iPhone Mania）
+  https://iphone-mania.jp/android-608637/
+・【本日みつけたお買い得品】iPad Airが約1万5千円引き！AppleCare+付きAmazonでセール（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2156158.html
+・Microsoft、Linux版「Autoruns」を公開 ～自動起動するプログラムを洗い出せるSysinternalsツール／「Rust」言語で開発。「systemd」や「cron」、ブラウザー拡張機能などをカバー（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2155574.html
+・ANA、予約システムの一部に障害、予約できない場合も……国内線タイムセール初日に（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/13/2000003178/
+・Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮（GIGAZINE）
+  https://gigazine.net/news/20261113-gemini-4-hydrogen/
+・「Microsoft 365」で13日未明から大規模障害、OutlookやTeamsなど全世界で利用しづらく（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2156194.html
+・緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/13/2000003167/
+・ウクライナのStarshieldに再度の速度制限、「ロシアからの攻撃を阻止できない」とゼレンスキー大統領が報告（GIGAZINE）
+  https://gigazine.net/news/20261113-ukraine-cant-stop-russian-strikes-starshield-limited-again/
+・NVIDIAのジェンスン・フアン氏がCEO辞任（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2156178.html
+・円相場 1ドル＝160円迫る水準 米利上げペース加速の見方から（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261113de75259
+・本日の決算発表予定 … 三菱ＵＦＪ、みずほＦＧ、三井住友ＦＧなど 783社 (11月13日)（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mbHl6V0VtV3JyaW1TOEJQTXdsM2J4d1B1OU9oVU1JOE9Od0d1YnZVTmJJVEt1clhweXc4VC1MLXRDdExsSDdUVGdWM3kyWS16X2oycGZjWm9jVXk3N3hfbA?oc=5
+・エヌビディア 暫定CEOを任命 フアン氏の後任選びは難航か（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261113de75212
+・GMOフィナンシャルゲート株式会社 2026年9月期 通期決算説明会（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFAtdFFTdHphamJWa0ozYWJWdDBTd2d3bzZwbXBGNy1CVi1rR2k0ckRHVHBoOWZZQ3ZQWHhJTzhCLUZUMlVZYzQ1UTFyaDZVbVFraWtrVU05LVRIQzJQaWdwY3pfbFJ6eFF0M0tRczdXZFdvb1BBRUxqVDFUdTk?oc=5
+・独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261113de75168
+・エヌビディアの動向注視、フアン氏は大変な業績で敬意＝赤沢経産相（Reuters）
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ283OXVMb0xUSEQwSkR2aHVRM3V0RXo2cFUxOENNOWRVbjJqaTZPVW9YbGZlSi04Wnh0a3hEOXhFU3JRdTBELXFDdmVQY05HWDJ5RzM3MW9SYjJUYXZCUnI1Nk9pclFFQjJ6bjdDZXR4WmxlYWp5Ujk2d2JOdU93VEo0N1FkQQ?oc=5
+・炭火焼鳥「銀座惣菜店」フランチャイズ1号店、イオンモール千葉ニュータウンに2026年12月17日オープン（千葉テレビ放送株式会社）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE84ZlFGQWViVFF2bnlZQXFTX3FiaVVlY3h3M1E2dVRvQ2I0LUJoQ3hZVE4wX2tzVmhSOC1IalduSDQ4Y1NscTY3Ym1Id0Y1aE9XWXhWeEN5dnVaZ2NDTldr?oc=5
+・気軽にクラシック！～ピアニスト・伊藤順一が奏でる極上の響き～（白井市）
+  https://news.google.com/rss/articles/CBMiggFBVV95cUxNSi1IVzhyOU1ESWtsakQzQlVrMURkdWZzaWd6ODNPTDczY3dRT1hIbVZSWUdfbXBQdGFoc2diMkdtNkt6dUNDNjhXSkxVWm5TdGJ1MThWUEl5S0I4cnN4VlNJY1FrNERqV0MySHFlNkVGeS12MkNWQ2FqRXJabWhnYThR?oc=5
+・千葉県で鳥インフルエンザ確認 京都に続き今季2例目 武部農水大臣「全国的に広がる可能性」危機感 最高値更新中の卵価格も注視（TBS NEWS DIG）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE80Y3N5ZU42LVJlZFZjOHhiSFpGQnZOZTJEajNING1NYjBlcjVHZVdablQ0YWgteGlPb3RhTHkxcS1uZ3o0TU40OUhXSFJ0LWpyOFJXNXRxMA?oc=5
+・（千葉）市原市白金町で暴行 １１月１０日［解決］（ｄメニューニュース）
+  https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVJyU29KVFZGYVRYSlNxNkhRYV9DbHdnWVZlTFJzU3g5d0ZFOUNrRHhWZlRoaEt5TzVkQzREaHB3S29BeVpxUmRIeG1TUjNoQzR2dFh2OHhZRHZXRlZVcVBXQjl2bHN4TmNmU1lCaFZSV1NXVHFZYkp1akpXc1RwZEZBeWwyYktITEZyZ0poQ2pLTnh1b2pCZVZ2Y1ZUV2pZZHfSAaIBQVVfeXFMT01SclNvSlRWRmFUWEpTcTZIUWFfQ2x3Z1lWZUxSc1N4OXdGRTlDa0R4VmZUaGhLeU81ZEM0RGhwd0tvQXlacVJkSHhtU1IzaEM0dnRYdjh4WUR2V0ZWVXFQV0I5dmxzeE5jZlNZQmhWUldTV1RxWWJKdWpKV3NUcGRGQXlsMmJLSExGcmdKaENqS054dW9qQmVWdmNWVFdqWWR3?oc=5
