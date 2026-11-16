@@ -1,0 +1,68 @@
+・NTTドコモ 全国で通信障害 不正アクセスか含め原因調査急ぐ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261116de76369
+・介護従事者の平均給与1万6000円余増 前年同時期比 厚労省調査（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261116de76367
+・元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261116de76383
+・茨城 常磐道で車複数台の事故 十数人けがの情報 消防（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261116de76371
+・【動画】Pickup NEWS（11月16日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261115de76258
+・フィギュア 中井亜美 今季世界最高点で連勝 GPファイナル進出（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261116de76349
+・OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/16/2000003208/
+・Gemini 4 Hydrogen、Businesses in ChatGPTほか 広報がおさえておきたい生成AIニュース（11月9日〜15日）（共同通信PRワイヤー）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ERTUwaVRHOTZzelpyNVhuTlpGYlBTOFhLQTIxWXhGbkYzVURwazBncHExcElHOFQ0VXROQ25qQ0NCdU5zd2RBMVFUYndhUEw0TFhkWnJvUQ?oc=5
+・AI導入の次に来る課題--日本企業のインフラは準備できているか【前編】（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVT2ZWeEQ0T1BOcFRRZk9hYnRWMFZQRFgtSGtrMTRRaFpWZEtURlVqUXRGcGt0d3M1SGM2ZDlPREJXTUdhMVM2b3duc0lXZ2R2cTBr?oc=5
+・エージェントが「安全に支払いを代行」する「ChatGPT Wallet」登場 OpenAIが決済大手と提携し開発 提供は米国から（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/16/2000003211/
+・生成AIに手足を付けたエージェント、Claude Code登場でブレーク（日経クロステック）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE9sWktfUXlaTUU0NVZidGVlT1BrNVh4TlFaZWhHN1lLWGw1OVR2dHVGSW1rU051bW9OclNXVXQtY1RVcXpKY0pQTFJsTlJuZVZwVHRvWU43Z2JWT3dhVXNTeElhWjN4V21RUnVMUg?oc=5
+・AI導入で開発は「爆速」化したのに…なぜか成果が出ない企業が知るべき「4つの観点」（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Kb25DR3NwbmphVmdIdWp5OEd1WDM4V0o0bTN0SXVjUWZjNy1yaVMyWXA4M3NBMk9seGViRE5vbVZfQ01kQkZxLVFGNXJtS2M?oc=5
+・Appleのブラックフライデーは今年も？昨年の還元内容考える（iPhone Mania）
+  https://iphone-mania.jp/apple-608768/
+・【本日みつけたお買い得品】チキンラーメンどんぶり×12個セットがお買い得。どん兵衛や焼そばU.F.O.も！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2156597.html
+・バッファローのポータブルSSD、USBメモリ、BDドライブが安い！Amazonタイムセール【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2156604.html
+・iPhone20 Proの背面デザインの意見が分かれ始める〜現行似？それとも横3眼？（iPhone Mania）
+  https://iphone-mania.jp/apple-608752/
+・【本日みつけたお買い得品】Type-C/A両対応！バッファロー製USBメモリがAmazonでセール（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2156585.html
+・冬場のデスク周りを快適に！山善のあったか家電がAmazonでセール中【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2156591.html
+・「艦これアーケード」「オンゲキ」など一部再開 不正アクセスで停止のセガ系システムが試験復旧（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/16/2000003220/
+・NVIDIA製半導体の中国への出荷疑惑があるMegaspeedが「法に基づいて適切に運営している」と声明を発表（GIGAZINE）
+  https://gigazine.net/news/20261116-megaspeed-says-alice-huang-left-in-2025/
+・ドコモでまたも通信障害、11月3度目（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2156616.html
+・ドコモ、また「5G SA」で通信障害 今月3回目【更新】（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/16/2000003218/
+・ULAの新型ロケット・VulcanがAmazonの衛星インターネット用衛星40基の軌道投入に失敗（GIGAZINE）
+  https://gigazine.net/news/20261116-amazon-leo-vulcan-rocket-fails-destroying-40-satellites/
+・[みんなのケータイ]石橋を叩いて渡る筆者ですが、詐欺サイトに騙されました（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html
+・NTTドコモ 全国で通信障害 不正アクセスか含め原因調査急ぐ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261116de76369
+・技術承継機構[319A]：Q&A 2026年12月期第3四半期決算説明 2026年11月16日(適時開示) ：日経会社情報DIGITAL（日本経済新聞）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE9aX1Itbm84ejlDOVllcW1mdmhGM0FzQ3AxTXY5Z3VfdTVpOVREMUkxaHBQTVVIUFVGOWwzZGFZWlRoVll2d2pMWlhFWmN4SXRDT3M5ZGw5d3FuVDNIZTZUWkNVeEFIbmQ1T3c?oc=5
+・7～9月GDP 年率換算で-0.1％ 4期ぶりマイナス 個人消費減少で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261116de76344
+・estieが買い気配､第3四半期決算を材料視（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1pMzZ3TkFLX0wzZ2o1aDltbmFWRnRrQW5IQ1JXWEtnbGxYTHVaT25IWDVuQ2hMdnhlaUd3NDN5ZG1YMEtfOU80bFNqR2VmYU5CV3VxcFh1cw?oc=5
+・AIの安全確保に向け 事業者はリスク情報を国に報告 法規制検討（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261115de76259
+・AI相場を占うアンソロピック上場 今週はエヌビディアなど国内外で注目企業が決算発表（テレ朝NEWS）
+  https://news.google.com/rss/articles/CBMickFVX3lxTE5nS1EzdkNFNWpoc0IzejdCNUlnNmRTN1JiMFY2VHhKb21IcDdRcnc1LTZQQ3lYSzM5bnA1d3F5eTF1X3lpZnJnaUYydXdEVVp0d1FETFd3aVdiMnV3Tms2V3h6UjlXWXJaRG0zdTRSalJkUQ?oc=5
+・【千葉県印西市】中学生18人が広島へ 平和について学びを深める3日間に（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wVGMxV1VPTnRIRXZXc2tiVTFqakZpOXdfa0QxRVIxWHpOZ0ctWk5SVEhoMVc0R2dvUXFSSWFnQzJQX3RNSzUxRTBNc1RHTnF3TXc?oc=5
+・千葉県の過去の天気(実況天気・2026年11月15日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE0taUFCWTBnSDZDU0staVJLWVpjUmc4RjBOcFZMUU40Y2VKbWlCQ0Q1eElRcWt1SXZGSG5aVzZrellYZGtYdUt4bGhiUGsxTFZiemtQcmhhZGlfZw?oc=5
+・2026年11月21日（土）・22日（日）千葉県 柏の葉T-SITEに 「ウィルソンBIGトレイン」 がやってくる！（フジテレビ）
+  https://news.google.com/rss/articles/CBMie0FVX3lxTFB3b3doMW5ZdnNQWkpPc3prazg3VUFjR3FFTkppZ0pIWWYyWVBoU3Z3Ml9UVUhZaXQyTS1TQ2E1RjA1LUk0SE9NaGxqTWhnYVlCM2g2aDFIVC1GYUE5QnpTOE0yQ2FxdkdzUmRDZ3BUZnRjNVo2clI2WmVHMA?oc=5
+・【速報】千葉県内４８０軒停電（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1Ga3kzTlpYemdqcXhvcGU4RzdyNEYyRVc2Zmw2QnpQZ1REREhITUJ5RTJLQWVFRjRtd1A3U01IZEhaM0Z4OE9WVERHTEJLMnpqdklOUVE5MF8?oc=5
