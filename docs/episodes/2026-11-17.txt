@@ -1,0 +1,68 @@
+・江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261117de77026
+・横須賀基地所属の米兵 酒に酔ってマンションの扉破壊か 逮捕（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261117de77047
+・ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261117de76912
+・愛子さま シンガポールに向けて出発（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261117de77001
+・群馬 前橋 住宅街にクマが出没 男性1人が襲われ頭などにけが（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261117de76952
+・関文科相 2024年6月の政治資金パーティー“法的に問題なし”（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261117de77033
+・AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/17/2000003241/
+・ChatGPTのAIエージェントに仕事を任せる方法がわかる！ 『できるChatGPT Work&Codex 仕事を自走させるAIエージェント実践術』を 11月17日（火）に発売（株式会社インプレス）
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE5BWnpoMmdyZ1FOdmRLU2swRXdqS3lzWjlJQkEyb2dlR21ueTl4LXA1Y3NBNS1xSjh3NmdOVnc2WE5WRXp2Rk1NazYtOUtmczRSRTJuSHUwTHF0a09GNWpwMkdxR0ZYS1RkN3JVY2xkWQ?oc=5
+・｢これ､自分が見ていい資料じゃないですよね…？｣ AI導入で高まる情報漏洩リスク､企業が取るべき4つの対策（東洋経済オンライン）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qVnlLamY4WXIwUzdNb0lNVWV2SEFod3RfTjZFUTdxXzR2Qnp4S3kwV1F2Zy1DRmcxaHNFODlDcVBxcTg1cGtSVEhYRGd1cW90LWs0d3lqbEJXVkJycHBF?oc=5
+・規制の厳しい業界でAIエージェントをどう導入する？ MicrosoftとIBMが発表した基盤「3つの特徴」（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2611/17/news015.html
+・科学者への AI 利用機会の拡大（OpenAI）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VjlZelJEcU9rOUNLWVJ2aE01d2xsZU1ydVlNV1hUTzJJZ3pTX2RLS3VFUDhBMVZDQlFsYmNhWGJHaW4tQ1k1ME51cFdrNE45QWZjX2UxWVpLZHlTVDFDdTc4aXBlR1U4aGl6NGVJTndualhYMmxuN2U4c3FSdGM?oc=5
+・AI導入の次に来る課題--日本企業のインフラは準備できているか【後編】（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwUDlOZVprbXVIcndHZ1pOaUtJRkxzZE9vYnBrTHVLUW95WmlEeXdSa2xmWXgzdVZ6NElsMFhZU2t0UEs0R2hjZnZtWUdrckRLSlBR?oc=5
+・iPhone Duoの納期短縮【11/17】〜公式・キャリア・家電量販店の最新状況（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608812/
+・Microsoft 365の大規模障害、原因はサーバーの潜在的なバグ（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2157036.html
+・Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2156900.html
+・iOS27.3ベータ2が公開〜iPhone Duoの顔認証追加など新機能と変更点確認（iPhone Mania）
+  https://iphone-mania.jp/ios-608799/
+・【本日みつけたお買い得品】1食約203円！松屋の牛めしとカレーの2種32食セットが2,500円引き！Amazonセール中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2156992.html
+・インプレス、AI機能を網羅した『Visual Studio Code完全入門 改訂2版』を発売／新たに第7章『GitHub Copilotを活用しよう』を追加【Book Watch/ニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/bookwatch/news/2156871.html
+・米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/17/2000003258/
+・OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴（GIGAZINE）
+  https://gigazine.net/news/20261117-california-doj-sue-openai/
+・「AQUOS sense11」キャリアとMVNOの価格一覧、ソフトバンクは2年間24円（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2157032.html
+・モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/17/2000003257/
+・OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始（GIGAZINE）
+  https://gigazine.net/news/20261117-openai-child-safety/
+・インプレス、発売前の「そのまま使えるAI×営業」全文無料公開 登録不要・ブラウザで（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2157034.html
+・株価 値下がり AIや半導体関連の銘柄を中心に売り注文（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261117de77024
+・株式会社アイティフォー 2027年3月期 第2四半期決算説明会（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMifEFVX3lxTFBvc2lwWXdaRXNucmhmblNWQTBFemxYdjB4T3V2eGI1TkhRWWxZS19ldmNscl9CRGQ0R2twNUJsZ2ZUNWZEc1RvUmJlYVFwX3A0d29mLXBiRWMzWlM1NFlWT3VkYWZZNVc3SjlXOFd5aWtQN3ExVnhBTEZ4Tmo?oc=5
+・ドコモ通信障害 藤井総務相「大変遺憾」原因究明求める（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261117de76976
+・(株)コスモルート【687A】：企業情報（決算時期・代表者名・大株主情報・IR動画など）（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiXEFVX3lxTE5leDhiZlYzSnhYVkNLSlBIZGVTVDg0dHZLOVQ2YlR5aXhKZGRZYl9ZWUxoZm1tWDFadFBzREdkYWU1YklORXF2OVY5VlFvT1I1U1p4ZlRMM1JWYjFQ?oc=5
+・【きょうのおはBiz 11月17日(火)】半導体 設計人材を育成せよ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261117de76916
+・スペシャルコンテンツ：企業の需要も急増、９月連結中間決算（アドバンスニュース）
+  https://news.google.com/rss/articles/CBMib0FVX3lxTE94czFncGVVVjdiSi1YZDdQcERKcC1kNDdhZW5aTnNYcTNud0hEdVFHUzJoTVRVR0s4eS1aVFNCaHVmdXI4cC1iR2E4WU5CcUdRWU1ldEV0RFZxYkxyTmVIajl6NGh1TzdyOHlOUHNXWQ?oc=5
+・千葉県の過去の天気(実況天気・2026年11月16日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnblZnUWp0V2dkaEdmWmI2cS1MWXJXTjVTSGtrZUtiRWlxOWc1M2ZualBRTmtmbF9BT3BTSUVLSlBrTGlpX21YZDZkbExrQWhJbnplRnJXcTFzQQ?oc=5
+・千葉県主催「ちば夢チャレンジ☆パスポート・プロジェクト2026」実施のお知らせ（クボタスピアーズ）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yTkdSbHVaSGpwZk54UXA1Q0VHdmZoOGpfX1JnYWp4bzRMczlkZ0hFZVg1bHpOLWNLSU8wUUFZT09fclVWdG5LQTNjMXd4bkEwRld6aTFhVlVtY2ZfczIxUnJQY0VYQmJK?oc=5
+・【高校受験2027】千葉県立高、選抜・評価方法を公表（リセマム）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1CSHhxLUFLdnh4dDNIZnBmZjU5V2l1ODRkN3lTeWlCUlpfd09UM1hLMGRabS1PSmJnRThyUm8teEJaaldzMkw2aFdaLWJ3RlVNT0tJb1pjRkhhaXBCY0g1LVAxYUpwQllVTExnZHFRRURTcVY4SHAwVjBQYWh1RmM?oc=5
+・千葉県いすみ署と勝浦署が消防と大原漁港で水難対応訓練（日刊警察）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE9hNkRfZV9zNEw3eVBRSElaZzl3cDRNeVVpTWltbGpBZlZ5dnJNMkx3TjEyUTE5dmw3YjlWa05qMmZRdW1pTXl5VF9TdmVYUkZkal92dE5EZG93d1k?oc=5
