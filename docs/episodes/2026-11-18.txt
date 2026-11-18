@@ -1,0 +1,68 @@
+・日本の自動車業界 主要素材・部品の共通化で国際競争力強化へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261118de77529
+・前橋 住宅街に出没したクマ1頭見つからず 警戒続く（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261118de77643
+・3歳の娘を暴行 死亡させたか 父親を逮捕 兵庫 伊丹（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261118de77627
+・JR新橋駅前のビルに入る飲食店で火事 けが人の情報なし（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261118de77596
+・高市首相APECで訪中へ 習主席の対応は プーチン氏と接触を調整（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261118de77470
+・大分 佐賀関火災から1年 地域の空洞化防げるかが課題に（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261118de77501
+・わが社はChatGPTでどう紹介されている？ OpenAIが企業向けの確認機能を提供開始（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html
+・心の不調が強い人ほど生成AIに「悩み相談」 東北大・岡山大が全国調査 支援ニーズを示すサインに（KSB瀬戸内海放送）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1USXRlM0lacERaRUtzS0pscElQQzBWZHFERGN4Nm82X0RLOFIzRDNZczYzWEVRMkVmOG5HNWZYVlJSMUo5MzVxaHRsRF9FdHJpQ3J3Z2ItQXlwTUxDMklzV3piY3FyUWN2T0x3YTZSTExESVpXSktFX3ZjTGdUMU0?oc=5
+・企業での生成AI、「導入」から「活用」へ 全面利用可は68%に（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTFBhTEdLcGRWaGN2UnBBdjZiVkpQaWQwNmlsdWo2ejZTZnlQN25DTzZ0d3ZOcnYtODVKRDIxVHhGbkxMTFZQSTlnRmRWUXpyME55WjVJYXR4R3NZQ1RkR1I0dEM2UUlvRU01ZWV6WA?oc=5
+・「GPT-6.2 Astra／Sol」登場 前世代超える性能を「コスト1/3で実現」 Ultrafast提供も拡大（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/
+・OpenAIが営業の全工程をChatGPTに集約、30件超と連携 営業SaaSの勢力図は変わるのか（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jOTVpdTBiWTlmeUxGbkhSRzVvVVdROVZ5dGR6My10X2dyLWQtRElVMlpQcW5YUWgzV3FPLTdKdXlKR2cxYU1OeVBiUFVkaDk0cFdn?oc=5
+・AIコーディング導入、生産性2倍の企業がある一方で3割が低下 マッキンゼーとコグニションが提携（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE82dXR6Zkx1LUpLWkdIaWtmRXBmUGVpQm54d1JaMW05RFZ6ZHFjNTJidkIxdWw3bXRzQy1HbEhzcWVKZ3JVV1RObGVjc1NuTXRxWW5hSF80ZlIwdmxWLXVVUkpDbmtzVXZ2YUxRd3FiZnU2RlRw?oc=5
+・恋愛系AIチャットに18歳以上の新基準〜zetaはApp Storeから姿を消す（iPhone Mania）
+  https://iphone-mania.jp/app-608814/
+・同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2157394.html
+・「Google Chrome 158」が公開 ～204件の脆弱性を修正、「XSLT」サポートが終了／「Web Install API」対応、Android版では「WebHID」にも（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2157314.html
+・iPhone18 Proは中国で783万台〜日本の販売減と対照的な人気の理由（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608816/
+・PowerShell 5.1が非推奨に。次期WindowsからPowerShell 7へ移行（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2157354.html
+・「AI対策」より先に見直すべきこと――流入減に悩むWeb担当者へ、SEOのプロが示す答え／「AI時代のSEO実践講座」ダイジェスト版が無料公開（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2157185.html
+・未成年の電動モビリティー事故、3カ月ごとに15?33％増 脳損傷は普通の自転車の2倍 米スタンフォード大が1.3万人分析（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/18/2000003265/
+・OpenJDKのBase64デコーダにおけるメモリ破損の脆弱性「Java4Shell」をOpenAIのCodexで発見、わずか3時間で攻撃実証まで成功（GIGAZINE）
+  https://gigazine.net/news/20261118-java4shell/
+・シャオミのブラックフライデーが19日開始――「Xiaomi 17T Pro」が13.3万円など最大5割引（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2157409.html
+・「JINS」最大約1829万件漏えいの可能性 RIZAPやしまむらも……「KARTE」不正アクセスの影響広がる（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/18/2000003287/
+・NVIDIAのコレット・クレス暫定CEOが中国向けのH200販売終了を発表（GIGAZINE）
+  https://gigazine.net/news/20261118-nvidia-ends-to-sell-chip-to-china/
+・IIJmio、「Xiaomi 18 Pro Max」「Xiaomi 18 Pro」27日発売 MNPで18万9800円～（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2157391.html
+・株価 値下がり AIや半導体関連に売り注文（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261118de77610
+・「会社の決算より自分の身体の決算を」過食で72kgになったAIエキスパート人材で企業課題を解決するソリューションカンパニー「ランサーズ」社長が筋トレに救われ、リバウンドを経てボディコンテスト優勝（FITNESS LOVE）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1hWmUzZUpMcWhWQWVHUUp0TTZ1S3Z5OGxkMU1FbXRyeGw1OVh1eVpjVm1FRWxucTlWQzZkRU9ia1BNdnF6bm1iSHVHZVpXcm1RLXVRUnlKaldYbmswdklnZG1MRE85Vk1zbmxRQktiWGlyaVpPa3VrSDhITE9xR00?oc=5
+・日本の自動車業界 主要素材・部品の共通化で国際競争力強化へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261118de77529
+・AI関連の中で"売られすぎ"とみられている業績好調な銘柄（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE82ckFYU3N3YVdqQVVQc0hkNHpuMllyUWFSTlA0RmFVVmZtVGZLX2dMUHpSSng1ZEpiSjlPYTFFRFJZaVZGTFRPNVdDTl9OdVZlQmhHOW92VQ?oc=5
+・【きょうのおはBiz 11月18日(水)】サラダボウル市場好調の背景（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261118de77517
+・運輸業の賃上げ、業績改善伴わず防衛色際立つ（LOGISTICS TODAY）
+  https://news.google.com/rss/articles/CBMiSkFVX3lxTE90SnJocnZ2aF9OUmpUY0xSOTVvUERyQVVyNUtxT3hmd3BMT3FjVnktdEpYaVNFc2YzcHJZZmwxc1I4S0RSbmhXcjNB?oc=5
+・2026年11月18日（水）6:00〜7:30千葉ニュータウン中央駅今朝は白井市政策委員の吉澤...（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE00VjBubDBWd0huZW1LMm80SjJXVlg3dkdEQ3lOd0FXU3lDZW8wYndzak5IUUlmT0VvcVhaRXBJUEZWWnpuRHJoNFVYUGJIZFpnTzhmbF9EV1hCQWtEbDd3?oc=5
+・野生イノシシにおける豚熱の確認について（県内19例目）（千葉県公式ホームページ）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE5nTjY4QjBpT3NsY3RvNHFDeHJPV3VBWExXR3hOcFk0T21qMVdTNXN1SU1aOElKMXJjVWl2YVRDWm1qRm83TjRnM21NempYMVFEMkgyR3kwdDlYQ0tLUFhjYzdoOFF0dm1tTkNuRw?oc=5
+・【速報】千葉県内２００軒停電（47NEWS）
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BU2FCSVdHZjFWeVF6TE1vUk1GQ3BTSS1GRWhfVFVEZEtnX3JiaVNnb21wM2xBTm5lU2Jrbk1JQ29qZHNJN1htRGc2MA?oc=5
+・令和8年8月豪雨・台風25号千葉県緊急支援（OPEN JAPAN）（Yahoo!ネット募金）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE9IYUJkMDhISlNaNTN0WW82ZHhOWVl2ZjV0eVlpb3pvc2JVOGZ1Z3JVdjVEeUJnc2tCVVlsSjRTT0x3X2V3NkcxTVhHc1R2QWVRZ1B5REln?oc=5
