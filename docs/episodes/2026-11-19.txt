@@ -1,0 +1,60 @@
+・高市首相 APECで中国の習主席と再度握手 首脳会議に臨む（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261119de78187
+・愛子さまにちなんだ「らん」の命名式 シンガポール植物園（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261119de78233
+・注目の米中首脳会談 米中ロの3か国首脳会談 このあと開催へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261119de78117
+・警察のサイバー部門幹部が臨時会議 個人情報の流出相次ぐなか（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261119de78229
+・北朝鮮メディア トランプ大統領「米朝会談」発言に反応伝えず（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261119de78261
+・【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261119de78097
+・ちまたの“格安GPT”、中身は偽物？ 非公式APIのモデル偽装を調査した結果……（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/19/2000003309/
+・AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/19/2000003310/
+・Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」 一部「Fable同等」性能をコスト半分で（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/
+・AIによるAI研究「指数関数的に増加」でも「依然として人間中心」 OpenAIがレポート公開（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/19/2000003318/
+・PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2611/19/news044.html
+・ソブリンAI実現に向けて再び立ちはだかる「旧来の課題」 データ・インフラ・モデルの自由度をどう保つか（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/19/2000002979/
+・【レビュー】iPhone Duo純正フォリオ、24,800円の価値は？（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608860/
+・NVIDIA、Qwen3.8-27Bの推論を高速化する外部ドラフトモデル公開（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2157818.html
+・「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2157700.html
+・iPhone20 Proシリーズのディスプレイサイズは2種類？サイズが異なる画像（iPhone Mania）
+  https://iphone-mania.jp/apple-608836/
+・ASUSのRTX SparkミニPC「ProArt GR1X」がドスパラで販売中（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2157780.html
+・TP-LinkのスイッチングハブがAmazonでセール中！10GbEの高速モデルも【本日みつけたお買い得情報】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/serial/goodbuy/2157757.html
+・Webサーバソフト「NGINX」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/19/2000003325/
+・AI音楽生成サービスの「Suno」がAI音楽用のPVを作成できる「Visuals」を発表（GIGAZINE）
+  https://gigazine.net/news/20261119-suno-visuals/
+・ドコモ、dアカウントの「写真撮影で本人確認」を2027年2月末に終了へ（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2157815.html
+・職人の技、AIで見える化 工科高校でモーションキャプチャー 企業の8割超が継承に不安（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/19/2000003324/
+・ケンブリッジ辞典が2026年度版「今年の単語」に「人間(human)」を選出（GIGAZINE）
+  https://gigazine.net/news/20261119-cambridge-dictionary-word-of-the-year-human/
+・iPhone版「My docomo」で緊急メンテ実施中、18日夕～（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2157802.html
+・片山財務相 非上場企業の株式評価 税調に委ねる考え（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261119de78296
+・日経平均株価 売り買い交錯で小幅な値動き（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261119de78267
+・FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261119de78144
+・ソフトバンクGの孫社長「AIバブルではない」投資継続の考え（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261118de78044
+・日本とインドとの関係強化へ 政財界の関係者が議論（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261118de78046
+・東京電力 12月使用分の料金 政府補助で前月を下回る見通し（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261118de78043
