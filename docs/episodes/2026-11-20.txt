@@ -1,0 +1,68 @@
+・北海道や北陸で暴風に警戒 山沿いでは積雪も 強い冬型気圧配置（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261120de78769
+・【動画】前橋 きょうもクマの目撃情報 高校生が追いかけられる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261120de78906
+・中司こども相 相次ぐ幼児死亡受け 関係機関の連携を緊急点検（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261120de78923
+・トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261120de78820
+・シンガポール訪問の愛子さま「実り多い滞在」（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261120de78827
+・株価下落 アンソロピック上場もAI・半導体業界への懸念根強く（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261120de78808
+・日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算 3.5万人の新会社トップが語る「戦略の2本柱」とは？（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/business/articles/2611/20/news024.html
+・Claude Codeに実験機能「Code Mode」、AIがJavaScriptでツール連携し作業自動化（ビジネス＋IT）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE80eTRNc3F2R1d5aHRhb2hFQWtEcFRQTy00MUNRd2dQR3ZZVHJPQ3MyaDc5NjgyVUwtWlgtUzNGMmtreWFtdVZ3N3RYcFMyajljUDYxcVFHdUdoOXpyQ1pvRW1GY0VELWV4RHQtMFVva1VJcGlpNFU5UFUwRnJ5Vzg?oc=5
+・愛媛県内企業のAI導入・AX化支援を本格化 株式会社ネクストスケール、東温市の本社から訪問で伴走（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE03d3kyY1o4Z0wwQnAyaWJGQ01OYlk4MUlnQ3BpWUgyalFsNFB0ODVuRzdMZVlhb2lzeUFRVzFpRFBNSVY3eWRkV0ROM01oLWhzZWc?oc=5
+・車体形状を変えながら空力性能をAI予測、AutodeskがNVIDIAとの技術統合を計画（ITmedia AI＋ 最新記事一覧）
+  https://monoist.itmedia.co.jp/mn/articles/2611/20/news029.html
+・「パスワードを変えた」「2段階認証も有効にしている」――それでも攻撃されるのはなぜ？（ITmedia）
+  https://news.google.com/rss/articles/CBMickFVX3lxTE9nSlBUbUJOeGtyLVFBYWItdC1NOHJ2MFA2THR4UW8wc3VRZE50S3Bob0NsVVV5TUtGelY5V09aQTlYQ3VRUG5DQW1qU2ZUVzR1bW0ySmhzQm95aWhHeDJFd3FGQmw2M2Q0UmxTTUZGcmViQQ?oc=5
+・横浜F・マリノス、公式サイトにAIチャットボット導入 - チケット情報などに回答（マイナビニュース）
+  https://news.google.com/rss/articles/CBMiaEFVX3lxTE5scVRWdlg0Zmdkb1V0alVPSDVCOUtVV29yal9HUXdXWlc1aFVQYTdwMld2TFJqYl9kQmNQU3ZKOVdtVkZtdjFkZ1IzdzRsT2p6cUtoVl93Q0tLR20zRnVyTmxmWXVnSE1s?oc=5
+・他社アプリで仕事用番号から発信？iPhoneのデュアルSIM連携が広がるか（iPhone Mania）
+  https://iphone-mania.jp/apple-608906/
+・NANDフラッシュ、ついに値下がりへ。2027年第1四半期に最大-5%の予測（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158129.html
+・2026年最後のWindows 11プレビューパッチ、モダンな［Windows］＋［R］ダイアログが導入／暗い場所での顔認証を助ける画面輝度の自動調整、「Windows Search」の改善なども（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158070.html
+・iPhone Duo 2はTouch ID継続か？簡易顔認証がiPadにも広がる可能性（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608902/
+・ポータブルゲーミングPCやUMPCなどが最大43%オフ。天空のBLACK FRIDAY（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158100.html
+・「WordPress 7.1.5」が公開、認証なしでリモートコード実行につながる脆弱性などを修正／前回から3週間でのセキュリティリリース、速やかなアップデートを（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158042.html
+・掘らずに地中レーダー探査、AI分析も 奈良文化財研究所が挑む次世代のサイバー考古学（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/20/2000003362/
+・Blueskyで投稿の閲覧数を確認できる機能のベータテストが始まる（GIGAZINE）
+  https://gigazine.net/news/20261120-bluesky-impression/
+・楽天カード会員が楽天モバイルを初契約で2万ポイント還元、26年最後の「楽天マジ得フェスティバル」開催（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158152.html
+・Google、宇宙AIデータセンター構想「Project Suncatcher」でベゾス氏のBlue Originと提携 2029年に衛星打ち上げへ（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/20/2000003358/
+・濡れ場に合わせて映画館の座席が動く4DXならぬ4Dセックスが流行、「まるで3人で致したみたいだった」と鑑賞者は語る（GIGAZINE）
+  https://gigazine.net/news/20261120-4dx-love-scene/
+・「超PayPay祭」本日20日スタート、最大100％還元の「スクラッチくじ」など（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158160.html
+・片山財務相 JTの巨額損失計上“成長投資に影響及ぼさない”（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261120de78903
+・保守的？中間決算が好調でも通期予想を｢据え置き｣の3銘柄（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE84aG90TmRFTFlmNzd5N1RvTmY1STNVLUhuVFNEZDhZdDhhM0tKNzJKTHgtSW5VeVhybnZDZnVjcmZMYzlvM2VJUjZuWGNyZGR0N196RkNjWQ?oc=5
+・H3ロケット 次の11号機の打ち上げ業務を民営化へ 三菱重工業に（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261120de78738
+・上場企業は6年連続で利益増加 でも採用数は歯止めかかる？ 経済の動向に敏感になろう【時事まとめ】（就活ニュースペーパーｂｙ朝日新聞）
+  https://news.google.com/rss/articles/CBMieEFVX3lxTE9EaXFTdEk3cEM4d1pJM0pVZXpvZG9kLURCTDNmQnlQTVpReTlEX1JadV85bUk4cVVRVlJOdEt0czRzT2h0NjhaVnJoX1BRaFNsM19adm96UHRiUnRsaHV3WnFXeTBkZ0o4OFRmMDk2YnAxR0hRNkQ3MQ?oc=5
+・井林国交相 JR東海のリニア年内公表断念「1日も早く見通しを」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261120de78848
+・九州・山口・沖縄の主要企業５０社の８割が増収だが、熊本地震の影響で減益のケースも…９月中間決算（読売新聞オンライン）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBuOHREVW14bDhsUnQ3dW04ZkhsVUNMbXJvWUc4YnFkSzZTblRoQWJzb1VHa3FFamRHUjY3b0pGd1ViQ3NRYnRmYkFtOEdsc0xYV0hKU2Z0TnRILW9Kcmc4WjVpYkhWckdtVVhhdzdJeGxmeUlBeTRKU182ZlB6dVE?oc=5
+・なぜ家の隣に“四角い塔”を建てたのか？ 2層の図書室に込めた夫妻の夢…千葉の個性派住宅へ（山陽新聞）
+  https://news.google.com/rss/articles/CBMizgJBVV95cUxPZTFiSWpWSWVUZVpGSzhpRUdnRFVBT0NwTE8ySk5Vbmc5c0FXdEpISVA1N0ZEYTh0ZlVhSFlqZHFJcjdzeEVsbHdFY1IzanNzQm0zTVF2YUZhRy1VakRkTl80bDZyZ2RsakpKeVY3dDd3ZWZ0RncwVHBLRE5FeDd1YmVzUlhTMUJnMjlxci1Ib3lZSV9iTFI0YnNsaTI3TUVIYUR6VkJxLWlDWnplZ215QkhxNFV3RHZMaXZlWC1LdjY3ZlJMbGxEM19EbnEtZjB2bzNPa2x1YzcyWnh2Q3JFRF9mWjRzNFA2d2lITVpiNjROUHFIcDJqTnpseFRwc2pUcFlqWlBScklKMk9ZT0VYaDJlaUZoYzh4bXZRekRqbmVrNUROMngzRlJfVlFSYnBIMkE3czVGYlJqN0VkVFFpX3g0Q1pHNG9FWWMyR0pB?oc=5
+・令和8年11月19日定例記者会見（白井市）
+  https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0NKM0xIeDFrMGRvQ3pOcU0teURKY2FlRy15ZDhYekY5bXIyVHRkQW5nSnppNDF1dFFibnVoU0FKbWlScVZIV2kwa0JKUkFtRVFLNlpfSWk0Qk1aQjJlRlZKNEp3aEwtT2NUOWtJdVh6VmYyQUdEd1RVSU8zbWtMTmlTTEJJdw?oc=5
+・駐車していた大型トレーラーに追突、女性が意識不明の重体 印西、国道４６４号に合流する車線 「休憩するため止めていた」（47NEWS）
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE5jY25RdkdLVTBkaF9TNGhNa1daU0M1eWQxYmU0bldNWkQwN2RtZ1YtRHI0ajc1X0V4TkhBLWFTTy11QXVqejhpQkhqaw?oc=5
+・千葉県の過去のアメダス実況(2026年11月19日)(風向・風速)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fN2xTOEs4SUhTVktaYTMtTUV3eFU1ZnB1eDR4cmZ1ZmU5bEJIdW1UTkdmUVdpYkQ4Sm1zSGEzRXNpcF9GcGJSSEtJdDJ3ZW5ial9pT0VWbXpnUy1RN1JPU3JOa3I?oc=5
