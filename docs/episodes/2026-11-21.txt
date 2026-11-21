@@ -1,0 +1,68 @@
+・冬型の気圧配置 北～東日本の山沿い中心に積雪増 各地で事故も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261121de79490
+・住宅街にクマ出没の前橋 けさ警察官が目撃 捜索続く（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261121de79555
+・リニア工事現場付近の川で水吹き上がる JR東海が関連調査 川崎（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261121de79560
+・東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261121de79559
+・愛子さま マーライオン公園を視察 帰国へ（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261121de79551
+・プロ野球DeNA FA権行使オリックスの宗と契約合意（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261121de79591
+・AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html
+・生成AIは物価を押し上げるのか、それともデフレに戻すのか…経済学者・田中秀臣氏が総需要と総供給から読み解く（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9KSjVjcEZXaUxaZ3RxaTBFblhiNV8ydU5UZGdTV3ZNbEh3X0FrMmZHbHhYZzN3NDAyQWxlbGthNzFKMV9VY1NfZW9ST3NEOHd2MHdmSlZxVU5nY0NVTE9pNjFoYnFZWGE2VERRcjlvVzFmZTIwUnBHVU43SDBrTW8?oc=5
+・【生成AI活用の次段階】「導入した」だけでは成果が出ない、企業に問われる実装力（ThinkIT）
+  https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OdzVrYUZPMkM0aFNVX1YzdUwwTno3cFhYUnFvOU9pX0pJb3ZKX0JYaU1JdjhQTWtES1dzT2V6NVZJTWFQN2ZZdjJQVQ?oc=5
+・京大がAI依存チェックリスト公開 「当てはまるものあれば、しばらくAI触らないで」（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/20/2000003378/
+・Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ（CNET Japan）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uNko1OWNBVVVRdTRLcHpHRzhRRjZoSlJXTll5c3J5bmZTc1ZMaXRfX0Fram5rVXhvMzJOdDYyTWhNX3VmdkFyMmhzWk5aYmJCWXc?oc=5
+・愛媛県内企業のAI導入・AX化支援を本格化 株式会社ネクストスケール、東温市の本社から訪問で伴走（山陽新聞）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE03d3kyY1o4Z0wwQnAyaWJGQ01OYlk4MUlnQ3BpWUgyalFsNFB0ODVuRzdMZVlhb2lzeUFRVzFpRFBNSVY3eWRkV0ROM01oLWhzZWc?oc=5
+・iPhone17 Pro Maxが189,800円など〜11月23日までセール実施（iPhone Mania）
+  https://iphone-mania.jp/sale-608924/
+・クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158420.html
+・マウスジェスチャーでブラウジング・編集・ウィンドウ操作「Mousetroke」v0.3.5 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2158386.html
+・iPhone Air 2と18のモックアップを的中率が高いリーカーが投稿〜改良点確認（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608920/
+・49gマウスも、ROGに「Phantom Blade Zero」コラボ3製品（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158419.html
+・「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158261.html
+・デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/20/2000003381/
+・BlenderのGPUアクセラレーション対応UIを他のアプリケーションから再利用可能にする「BUI」（GIGAZINE）
+  https://gigazine.net/news/20261121-bui/
+・サムスン「Galaxy Ring」米韓で睡眠時無呼吸検知に対応（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158289.html
+・韓国大学入試で電子機器不正111件摘発 AI受験疑惑巡り死者も発生（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/20/2000003376/
+・SpaceXは圏外エリアを撲滅しあらゆる場所で通信できるようにするため屋上設置型基地局の設計を完了したとイーロン・マスクが語る（GIGAZINE）
+  https://gigazine.net/news/20261121-elon-musk-spacex-plan-eliminate-cell-phone-dead-zones/
+・[DATAで見るケータイ業界] 「端末のレンタル化」と「契約長期化」が加速する法人向け携帯回線市場の攻防（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/mca/2158319.html
+・東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79559
+・上場企業の９月中間決算、最終利益が３年ぶり増加し４６・９％増…ＡＩ・データセンター関連需要広好調で幅広く恩恵（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE83bkFLdkNROXVkSWVMTE5Kd2RfODlKZXFfbGxzUHROMWVOVUJ1aDdIdW9BejVnaG9PN1pfTV9ZcDVWUzBjXzR0UEZPVkFUVDhrcGJuN0RzcjQ1UEtvWHZvNVBGcUJEX3R4eHBUZ2pNRmxwejlDYWNic2daT3ViR0U?oc=5
+・日本企業などから高額収入の海外居住者 課税強化へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261120de79460
+・来週の米主要企業決算 デル、ＨＰ（株探）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwOUZROXZMTVE4a0xsdWNyN1R4WWk1RjhCcVYwSXZJN0pCTlFySzQ0TkpTbzBaMG9RZWtmMDd6U0phVXQ3ZUNET1J3T3U2MVozLWc?oc=5
+・ナスダック指数が一時5%超の急落 AIブーム持続性に疑問符（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79481
+・大崎電気 ネット上に技術情報の掲載確認 ランサムウエア攻撃で（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261120de79441
+・（千葉）印西市中央北２丁目でスカート内盗撮未遂 １１月４日［解決］（ｄメニューニュース）
+  https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbDlER2lPcUNIa3kzU181WWp3WGVrejJCNll0eHpwU0FwbXdXWVYyRjN2WXUxUzBqbmVMRXRQajFmUmZyRDg5QkdLQWh1Q1FiMWMzZFJ3QVhaa3Nac19UdEQ0a0Q1bUtYUmFUUVA4eXM4aXpMMV84TzdqM3VoYjc5MlFtUDVBUnVKSWZpWWNKN00tN1ZLbVFfYS0xTnRxT2w1cHBBY2tEeGRsYVRzb2p3U1R0UkJYZ0swckp2Q0NFRXljQURPVUJyajA3QndTMkczVG5vWXJFSjktZE9LUXpuRndlV1NfN3c5N3lMWTBYVUZCQdIBogFBVV95cUxQUk9qbUpzTkJpbU50dEVTT0FiZllwd2lDeWJVdEFqdFBwQjVreUFPaXNfZmE5RUZBM0N4dFcteVVyYUZrSVNaOHZ1d0pzd1ZueUFnNTFYVW9uWE9SWFhkYndrTzRhUjVjY0I3RWlMTi11QTR1cl9ueFRkVW5NVXdsa1ExenFIanFlUDc5SW8tX3p5OFdPUExTa21aUXdaVHQ1cVE?oc=5
+・【速報】千葉県内３９０軒停電（千葉日報オンライン）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TLXA3Rmp2Q2NlbmNWUGU0eEtJcVMyaTdLV1AtZWRGNDZUSXhFZ2tjT3dYSmY5NDdrbnpzcm5MVXdmMTVPS0Nqc2NvXy1xX0pxTmFOcjhKOHY?oc=5
+・新着情報“アクセラスポーツ20Sツーリング”2014年式ディープクリスタルブルーマイカ入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBRZXd3U0drY09PNWVhOWxMV0k3SzhRdk9PTFJLZmJka1lhR24wcjVCMEZ2YkM0ZjMxNUZwMUk1ejloeDFGY2Q0aUsyOW1jaGRBY2hxTzk2aUxLVU1pbmpFTlF4UktTaHJFNGkyUW8zSHdyY0M0bmJpTnVDbzJWSkU?oc=5
+・【千葉県】11/21の天気予報（FNNプライムオンライン（フジテレビ系））（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBUTmFNODBMU1RubHpZV0xmX1V2eTdTdFB0TzlPS29FWVd1TDZSTVBVem1nQ3k0THEyajVZdG5WS011b214N0pUWmNfeUc2LTRDSnBBS3o0T2NQSUxVd2tVdlBNTUR0b0pCdDFuSDE5UUlYM1Q1OWFPSXdhYS1fYmc?oc=5
