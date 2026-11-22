@@ -1,0 +1,68 @@
+・日本海側中心に断続的に雪と雨 各地今シーズン一番の冷え込み（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261121de79767
+・火災で焼失の首里城正殿 午後から国主催の復元完成式 沖縄（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261122de79841
+・ホテル更衣室で保育園児など盗撮疑い 福島県警の行政職員逮捕（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261122de79820
+・アンソロピックの数学者 AIで難問「リーマン予想」証明と主張（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261122de79817
+・【動画】Pickup NEWS（11月22日）（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261121de79711
+・金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261121de79776
+・Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/22/2000003388/
+・MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説（ITmedia Mobile）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1XTlBET3RBdS1IYWJlXzJHcV9MWW5jdHNYSkhDaUQ3Tng3RE0wNWUtZ2Z2cnpfQ25RZEZpSVlWZDlFMU1SZWxMWEpSRTlEVFlhWUZNR2tfYVI4MVpnNmFRa0FhODZoTnJJM0gzMlZHay1VTjZ0OUpVZGp4YmdoNjg?oc=5
+・中小企業のAI導入はなぜ「広く浅く」にとどまるのか（Forbes JAPAN）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOQzJGUEFnT3NRXzVwc3I4MHpaeVhUalRpRXJJRW0wVWs0LVM2NFhrNklwVWx4alY1LUd1djBjRGNpUGJ3eXF3R2lycGFXWFZPVWVXVWJXeXlldw?oc=5
+・AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/
+・企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/
+・生成ＡＩを使った訪日客誘客策セミナー、上越市で観光関係者ら有効的な情報発信学ぶ（新潟日報）
+  https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRE1mSk44Z0hpM3d0TVFSelRna041ZU8tekRQTER3Y2tLNGVlRlBQZU9LRXUzREdFQ1c3OFduU3RxX1d5bEtpM3Q3QzBzWlRvbnhuUFFpemhjdmkzakE?oc=5
+・Apple初売り2027を独自予想！最大5万円分還元、新製品も対象か（iPhone Mania）
+  https://iphone-mania.jp/sale-608940/
+・インテル50周年記念のゲーミングPC、ツクモが50万円で発売（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158418.html
+・マウスジェスチャーでブラウジング・編集・ウィンドウ操作「Mousetroke」v0.3.5 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2158386.html
+・iPhoneのカメラアプリを統括したApple幹部が退任〜8年超の在籍に幕（iPhone Mania）
+  https://iphone-mania.jp/apple-608936/
+・クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158420.html
+・「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158261.html
+・Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/22/2000003388/
+・無料のWindows用Pingツール「PingTool」、TCPポートチェック・速度テスト・Wake-on-LAN機能あり（GIGAZINE）
+  https://gigazine.net/news/20261122-ping-tool/
+・サムスン「Galaxy Ring」米韓で睡眠時無呼吸検知に対応（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158289.html
+・AIは人並みに動画編集できる？ “バズる切り抜き”からガジェット開封動画まで2つのツールを試す（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/21/2000003387/
+・Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中（GIGAZINE）
+  https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/
+・[DATAで見るケータイ業界] 「端末のレンタル化」と「契約長期化」が加速する法人向け携帯回線市場の攻防（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/column/mca/2158319.html
+・暗号資産利用者の申告漏れ多く 国税当局が調査体制強化へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79765
+・転換局面で資金シフト加速、値千金の好業績ディフェンシブ厳選5銘柄 ＜株探トップ特集＞（株探）
+  https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4dmVvSlBqenE0YkJfY0pXS0IycWhKS1FSSi10WlRSVmpDS25MeXFsX3BqU0RWRmdqaEpxLUFHcGd6dUs3R3I1bjZkdmhHVTE1bEhDZm9vb3Q0cnZnaXZBRg?oc=5
+・メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79616
+・フィデリティ・グロース・オポチュニティ・ファンドDコース(毎月決算・予想分配金提示型・為替ヘッジなし)の基準価額・投資信託情報（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmRDBqUy1NN1RvMWxlUlktYXF5c0ktZXJvQm9FS00wVDk4SlhWa0VwM280ZUdadjIzODVESVVmXzhjMzY5Y2h2cmxDT3dWVzJaWE5odg?oc=5
+・ナスダック株価指数急落 今週4兆ドル時価総額が消失（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79604
+・韓国大手企業、営業益3倍増でも寄付金は2%減…SKハイニックスは120億ウォン削減（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTFBFc1dzaVZma0hnM2hwa3c1RTVaWUhQYmpfeFNHN1ZrYVJXRlBnLTFXUDJURjFtaGZhMWtYWG4xYkZyeU1lZjhxYXh3cVZhVWduaXVodFFkekQ0SHAwSGRrVXE4bzMwMTBIQ0dZZVNfdFJwS3M1?oc=5
+・印西市・UR高花団地、BASEの挑戦（朝日れすかPLUS）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XQlJPM0JUckxlMktwMGhwdVRiZHFqMHl0NUg3QUJoSVYxR1JMTlRqbXUtcl9hdW1FUDljNWhtUUNFbG9VMXRoYldJS2NHWU1VeWlhUGR3dw?oc=5
+・第26回公明党千葉県本部大会が開催 : ブログ : 公明党 野村まこと (流山市）（公明党）
+  https://news.google.com/rss/articles/CBMimgJBVV95cUxQckRLQ0hFazNZbzlhdVo1eFRyb3lDSEpyNklFcGpLMVlpVnlCdmxJNHptNEQ0d0hlc1pfVmdyU1lOOXBteTRvcjl1RGZNRHhvMGpNTmNMTklVSV9rTmVNZWJHZkMzZ1VmSzR0ZGtkSHNQM2lBNlBNWWtvM1hxVngyd09CNlRLdFZkdDFvM1JUWFMydEZlLUt4Z2s2Y0FPa09MSXFaRVU2RE16SWVMSlhXNnJWMXVxbkU3T2M4dVJZRFR5ZE1rSmg0eHF1WWNtRkROVjB4RHU3QjVVTUx3RmduZ2VWNGhNbVp0WEZCUlBJR29VVmtLb1Y3ZFA1SWF5RWVsRUUtU1Z2TjBnSm44RDl0YWtJbzZCWkxYZUE?oc=5
+・新着情報“クラウンZ”2024年式プレシャスブラックパール入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFAtSjdTd19jOS1SdkR2UEJ6NFpSVlpGNFlWcDBxQmdMSEROR1Q4YXdJUGppWV9PXzVSRmU4R3FqV2RIckticC05Q2w2QUpOZG5Vd1hZcDN6a0t0SzExTHdkVGtwSzJYWWF6ZVRPT0VMaXhiZFBUaFhSTFhQbHJPc2M?oc=5
+・「造形がヤケクソすぎ」千葉県のベテランキャラにツッコミ！担当者が答えた「犬ではない犬」の正体（週刊女性PRIME）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMzNqeFRQMUZtblc4d1lmZzE5WXJITFhqVkxFcGFnSmdKLUtNc3hhZjE3c29WLThNSXBuUWRGUW5wYXhTOXl3U1JOS3ltZkRicTJiVmtoM0U1WEh1bzJlek82a2hmQU85NUN3SHlXRUg3VGxxT016ZVg3amhkbm8?oc=5
