@@ -1,0 +1,60 @@
+・沖縄 首里城正殿復元祝う県主催記念式典が開催 一般公開始まる（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261122de80078
+・福島 大雪による孤立状態が解消 停電は一部で続き復旧作業進む（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261123de80164
+・松山市中心部近くの住宅で火事 2人と連絡取れず（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261123de80132
+・横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261123de80134
+・【動画】上空から見た首里城正殿は？（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261123de80128
+・“会談模索もキム総書記の条件を米が受け入れられず”米報道（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261123de80133
+・OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/23/2000003394/
+・メルカリの情報流出、AI委託先で何が起きた？ 確認された2つの攻撃（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2611/23/2000003393/
+・Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/22/2000003388/
+・AIに必要なのは知識か、企業独自の判断基準か？ 管理職調査で見えたAI活用の盲点（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2611/22/2000003384/
+・企業はAIをどう選ぶようになった？ ChatGPT、Copilot、Geminiの勢力図（ITmedia AI＋ 最新記事一覧）
+  https://kn.itmedia.co.jp/kn/article/2611/21/2000003385/
+・AIで成果を出す企業ほど「人を増やす」？ “通説”を否定する調査結果をIDCが発表（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html
+・iPhone Duoのロック画面右端に2つの円形ウィジェット配置をテスト中と投稿（iPhone Mania）
+  https://iphone-mania.jp/iphone18-608987/
+・インテル50周年記念のゲーミングPC、ツクモが50万円で発売（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158418.html
+・マウスジェスチャーでブラウジング・編集・ウィンドウ操作「Mousetroke」v0.3.5 ほか【ダイジェストニュース】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/digest/2158386.html
+・MacBook Neo 2はA19 Proと12GBメモリ搭載で2027年春発表と予想（iPhone Mania）
+  https://iphone-mania.jp/mac-608985/
+・クーラーもビデオカードもAORUS、GIGABYTEのRTX 5060 Ti機（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158420.html
+・「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158261.html
+・「Microsoft To Do」、2027年6月にアプリ提供終了 法人向けは「Planner」へ移行、個人向けは代替なし（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/23/2000003395/
+・無料でMacのアプリのウィンドウをiPhoneやiPadからリアルタイムに操作できる「Sill」、オープンソースで中継サーバー不要（GIGAZINE）
+  https://gigazine.net/news/20261123-sill/
+・JAL NEOBANK、米ドルの受け取りで最大15万マイルもらえる（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158387.html
+・高級感のためだけじゃない 財布やバッグの新しいアイデアが“革製品”から生まれる理由（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/23/2000003389/
+・Amazonが配送業務の委託を阻止する配送保護法に対抗して配送物にラベルを貼り始める（GIGAZINE）
+  https://gigazine.net/news/20261123-amazon-complaining-nyc-council-shipping-labels/
+・ドコモの「AQUOS sense10」、Android 17にアップデート（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158009.html
+・ドイツ最大労組 メルセデスの工場でも24時間ストライキ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261123de80139
+・暗号資産利用者の申告漏れ多く 国税当局が調査体制強化へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79765
+・メルカリ AIに入力した個人情報漏えいか「リスト型攻撃」も（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79616
+・ナスダック株価指数急落 今週4兆ドル時価総額が消失（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79604
+・東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261121de79559
+・日本企業などから高額収入の海外居住者 課税強化へ（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261120de79460
