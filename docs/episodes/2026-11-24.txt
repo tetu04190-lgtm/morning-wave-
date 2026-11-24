@@ -1,0 +1,68 @@
+・参議院 野党6党 関文科相に対する問責決議案 提出方針で一致（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261124de80396
+・政府のAI改革原則の原案 "AI活用前提に規制や制度見直しを"（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261124de80568
+・エヌビディアCEO フアン氏が復帰へ 企業統治も問われるか（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261123de80304
+・教育の政治的中立性「確認・見直し」の学校は7割超 文科省（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261124de80511
+・荒れた天気 強風 土砂災害に十分注意 今夜以降日本海側で雪も（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261123de80284
+・前橋市 住宅街でのクマ警戒続く中 小中学校再開（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261124de80435
+・「ノーコード」の次は何か？ AIを組み込むkintoneの“新しい呼び名”を考える（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html
+・Anthropic、コードの承認までAIにやらせる「Claude Ship」発表 もはや人間は何をするのか（アスキー）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBKWDhWeS1RQ19jeS1YSXJLbzRNT2ZHSzJ6S2l2YUZmOGR5b3A0UGZNeG14TnRQNmxZNk12TVROYkpiMkc1d0wwaTh6UnpTWDFmV0xUVmtDN0dTQk91dnRuemVVdkpISHJRVkhhMmdRU3liZXJTNUd2NzlvZy1yZTQ?oc=5
+・SB OAI Japan、JDLAのAIガバナンス認証を取得--生成AI事業の信頼性強化へ（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UZUxUdDA0Zno5M2YyM0JtMGo2WExLTnEtampTR3Q3SU84bGNDT01LdmpMcHRHT0JSMTF0YzhTcGkzalBvLVJqY1BUNmp5SkV1WUE?oc=5
+・DeNA、「AI社員」を外販 使い過ぎを“残業時間”で管理（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/aiplus/article/2611/24/2000003406/
+・Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiOUViTUk3bWtNLVo0VEhXSV9hU2R3TVY4UkNodFFNajdScFM3V3I1NkhRWEhyeVN6ZnpoaHV4ZzNGd01qTHRXVi03SG9SZ0VNN2g4?oc=5
+・Sansan、企業ごとに異なる課題をAIで解決し、各サービスの導入効果の幅を広げる「Advanced Solution」を提供開始〜専門人材「Solution Builder」が課題特定から成果創出まで一貫して伴走支援。最短1週間でソリューション提供した事例も（Sansan株式会社）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kUjZteHhSLW1MTDBwY0pFa283ZUxsV3lZaWw4X1JrR0ZRVFBXUnFBWThxNEJxVTVYU1otOF9OUWJtMm9FUUltX2I2OVNPU3dCZWhVNlFYOHhCUQ?oc=5
+・Gecko版FirefoxがiPhoneに来ない理由とは？障壁は地域限定の別アプリ（iPhone Mania）
+  https://iphone-mania.jp/app-609030/
+・StrataとMayaがInkling 2 Miniに対応。26.4BのMoEモデル（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2158660.html
+・画像アップロードだけでサーバー乗っ取り？ 「Ghostscript」の脆弱性「Upload2Shell」／「WordPress」「Roundcube」などで攻撃成立、対策版への更新を（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158558.html
+・iPhone15と16シリーズの5モデルが販売〜iPhone整備済製品【11/24】（iPhone Mania）
+  https://iphone-mania.jp/sale-609033/
+・【本日みつけたお買い得品】スタバブランドの缶コーヒーセットがAmazonセールで1,783円引き！（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/todays_sales/2158659.html
+・定番の日本語フォント「M+ FONTS」に新しい一員、「M PLUS 3」がリリース／伝統的なゴシック体の形をモダンな手法でリデザイン、「SIL OFL」で無償利用可（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158533.html
+・東京都内自治体の中小企業向けサイバーセキュリティー支援相次ぐ 専門家訪問や窓口開設（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/24/2000003409/
+・冷笑的な敵意や自己主張の欠如は後の人生におけるうつ病症状の悪化と関連している（GIGAZINE）
+  https://gigazine.net/news/20261124-cynical-hostility-lack-assertiveness-depression/
+・アンカー、防犯カメラ2機種発売 4K対応で屋外監視用と窓に貼るだけのお手軽モデル（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158719.html
+・月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/24/2000003405/
+・【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど（GIGAZINE）
+  https://gigazine.net/news/20261124-udemy/
+・「Amazonキッズタブレット 8 しまじろうエディション」発売、ベネッセと協業（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2158713.html
+・ヴェレダ・ジャパン クレジットカード情報4万5600人余 流出か（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261124de80569
+・日経平均は2286円高、米経済指標や企業決算に関心(フィスコ)（Yahoo!ファイナンス）
+  https://news.google.com/rss/articles/CBMihwFBVV95cUxNWTJSc1pYendLSTRwdXpaRUpWd1pCczByZFhzcW9hR2FRQUZBREVEdWZBVmJjQjNnR0l1YU1BaGJBMnFWWjh4RkF1R0U3cXRUVkJJQ3VhUXI4UWVVenlGSkZrWjV3ZFNiWHdwZDV0ZTBGMF9ReGJydHZsZ1JoRTdRMG9XekJwajQ?oc=5
+・引っ越しに伴う住所変更など 一括で行うサービス拡大（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261124de80556
+・令和アカウントが上げ幅拡大､27年3月期業績予想増額を好感（四季報オンライン）
+  https://news.google.com/rss/articles/CBMiV0FVX3lxTE1IWWtXYUMzVVpPMXZudGxBTXlMNHhUNE5Odk51YVdEQVdhaXc2VTl6QUU1V003b0NuWnRKM0M4YzdHT3BlQnN2bW9jbHdPTDF1TjJkQjMtdw?oc=5
+・EV補助金受け付け終了で赤澤経産相「空白期間の対応検討」（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261124de80532
+・【Zoom Communications FY2027 Q3 決算説明会】企業向け事業の成長率が13四半期ぶり高水準の8.6%に、売上高はガイダンス上限を1,100万ドル上回る 初の配当を開始（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xYjdBOFdTcEZnVmZRcUcwTVdJcGNRTlZCTlp3SHc2V1JMUTNPMDN0S0Z4QmlNaHpNQVRocEZpMEpwOG5yR0dkOC1jeWhJYl9HRnB4SHJ0bDZ2dw?oc=5
+・新着情報“ライズZ”2024年式ブラックマイカメタリック入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE1rSFhkeW5CSUwzM1hTcURLQVJCQmVRZExTM0pZV1hHNnVscmpXUHJ5ZDQ0SHM5UWZIZWxnRklEMGdkeWVlaldHT0N0bmlDUnE4UElBcDM1dkt1Uk93cVV1TTN4cElXWnI2TGgxekJ3UzFxc2VVUU1WVHhHZ2k3bDg?oc=5
+・センバツ21世紀枠、千葉県推薦校の東京学館に表彰状（毎日新聞）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTE9YX0tUY01VczhEZ2txRnVMRDVOOXV4bndnaWhGSDRzNHhidlZlckhLMmRyZUJiUF9nRDZpdWlmS2NCNXhBaDBzMV9XTl9mUkRmeHdHYTZUMHd5cDB4a0pZLUdWNnZ4b0d2Q211dFpfRlNyRjdHRnBtZW8zblFVV1k?oc=5
+・【連休の地元活動】（選挙ドットコム）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZYnVKN1d5UHN6T0ZrVzFUX1BVazE1SkxieHpfczB0M0ZpQWcxbWxPdDZOSi1lRGt0WVhyQ0tBMGtWSk1wWW5VbTZlMTRidFFzQ0g3OHktN2ppTVdPVVFz?oc=5
+・千葉県の過去の天気(実況天気・2026年11月23日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVUUkxYkN6WldjUmNkNHlUT25iekVhZ0ZuWHJlYW51aVN4SFNROWdmVVV5bDlyWWtLbmtVU1hRMk9ra3NIWERHZnF1TG9uYnk2dVo0LWd4eEhzQQ?oc=5
