@@ -1,0 +1,68 @@
+・福岡市で男性が刺され意識なし 刺した人物は逃走（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261125de81118
+・秋田 羽後町 1人死亡火事 放火の疑いで近所に住む容疑者逮捕（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261125de81111
+・広島 庄原 高齢女性強盗殺人事件 逮捕の会社員 業務で土地勘か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261125de81022
+・原発事故避難者などの集団訴訟 東京電力に730万円余賠償命じる（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261125de81107
+・中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261125de80985
+・国民 古川代表代行“関文科相はみずから辞任を”発言相次ぐ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261125de80993
+・AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/25/2000003421/
+・トークン爆発を防ぐ、Claude Code実践ノウハウ（日経クロステック）
+  https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kVzZJOHBzNUtVRlVUMVVkRWowSU9XSXRERG91ZDUxLVoxY3NQbU5XM0ZybG9XS3FWQUhJMWJzQmNQdHNQanRQU3l5WUd0TllMWk5zZkNBV29tOXp1TVRF?oc=5
+・OpenAI、米国の中小企業のAI導入を無料で支援するプログラムを開始（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HcmMwc2pnQXI2T3NoZWN4V2hLVERTX2hOYmdqX0R5UVdIWmlGeWZDTEUtWjVnRHlHdGRlWGJMZ1Bsd1pUSFRRckkwZ09VYms4VmE4?oc=5
+・音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/25/2000003433/
+・パナソニック コネクト、ローカル環境で利用可能な議事録作成AIアプリを提供（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5PakNXVmpfTXJFUHhQdGFNOUtscUw4SThQZVpZbkpCYnlsNUlFZ0RUWDYzblJEbmJOazh1dDliQUNSdjN5cDJ1bWFxZHVQdTY1VTVz?oc=5
+・生成AI導入企業44.0%へ倍増も個人利用が先行、文書作成に用途集中 公開調査6件の統合分析（Media Innovation）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE5EMFVQMHhtRExIVEtoMUJhUkVGc2tsZkhKTXJkS0daTDBLaWpaQUNRRW8yTHFxN0xrQl9uYWRiSHV0UzdoNGZMelpVcURpTlV6TXZ4eGM5YmxkQlE5eWdDRjB2T3ZMVUh6Snc?oc=5
+・iPhone15 Proは最大8.3万円で下取り！今買い替えるべき？（iPhone Mania）
+  https://iphone-mania.jp/iphone15-609045/
+・山田涼介×Crazy Raccoonの木目調PC、今度は14型ノートが登場（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2159104.html
+・「VMware Workstation」「VMware Fusion」に“致命的”な脆弱性 ～Broadcomが公表／「26H1u1」で修正済み（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158928.html
+・Appleが赤いAirTagも開発か〜(PRODUCT)REDモデル拡充の動き（iPhone Mania）
+  https://iphone-mania.jp/airtag-609040/
+・Claudeで作ったツールがそのままデスクトップアプリに。APIキーも不要（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2159065.html
+・Mozilla、「Firefox 161」を正式リリース ～内蔵VPNが使いやすく、110件の脆弱性を修正／懐かしいクラシックテーマも追加（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2158924.html
+・タワレコ、会員情報約1100万件流出 「3年以内の退会者」も対象 通販サイト停止続く（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/25/2000003439/
+・人気の肥満治療薬が「精子の質の改善」や「テストステロン値の増加」をもたらす可能性がある（GIGAZINE）
+  https://gigazine.net/news/20261125-semaglutide-liraglutide-sperm-quality-testosterone/
+・モトローラ、ワイヤレスイヤホンやスマートウォッチなど日本展開へ 27年1月～（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2159111.html
+・AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/25/2000003421/
+・Anthropicが「わざとセキュリティの甘いサンドボックスにAIを配置して行動を観察する」というセキュリティ評価手法「Siren」について解説（GIGAZINE）
+  https://gigazine.net/news/20261125-ai-sandbox-escape-siren/
+・モトローラ、27年1月に新発表か（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2159107.html
+・「賃上げ促進税制」見直しや支援継続求める声 自民 税制調査会（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261125de81151
+・決算:関西企業の純利益27％増 4〜9月、近鉄など物流・空調工事にもAI需要（日本経済新聞）
+  https://news.google.com/rss/articles/CBMibEFVX3lxTE1YckU4NGtDZjM0U0VOdnU4ejBsN0tvVGxIY0JnVjVleTBfN285eHlQcGN0eHZaVERITFEzTTJXaTZXVlJSQ2NJUndKLUd2S1lCM0szTkE4SFRIb2M3STZ2WndYQnA3WUgtQXRnTA?oc=5
+・「船荷証券」などの電子化を可能にする改正法が成立（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261125de81109
+・（朝）米国市場は高安まちまち 好決算を発表した消費関連企業への買いとハイテク株の売りで方向感を欠く展開（マネクリ）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9faGV6QmJGeVpMUldqWWdJQkxucmtaZEdoVzI3SE53X0c0YmZpeC02ZzR2UzZjVHlnTFllX2lrNEdTbFVWUmt5U3hfdFhPeW91N29zSNIBV0FVX3lxTFBzQ3VjYl90b2FUZnFxdExUb2d4aDl1bkdRc2ZLcE9OQ0NabXpGTFFFd0JPeFlUQ1czTDVidEs4ajEydEgtdGx1a1laNUpJNEI3Wm5ZWkxvQQ?oc=5
+・【きょうのおはBiz 11月25日(水)】通天閣 “V字回復”の戦略（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261125de80969
+・AI需要が台湾上場企業の1〜9月期利益を押し上げ、6.7兆台湾ドル超に 永冠-KYは決算未提出で上場廃止（BigGo ファイナンス）
+  https://news.google.com/rss/articles/CBMidEFVX3lxTE9aMFp6OEhiWnY5UnBmXzc5RUcwczdHTjVvM0xXWjNqYng2a2VzdTYxc04yakZDMlE0TjUwbTI0V19vNTU3clJ4dWJpcHFnaGw1SnQyTDV1eVlRcXZLd3JhWEY3b0lwdlZSOUxrZ1A0WUxGWl9n?oc=5
+・富士山どこまで見える？（ウェザーニュース）
+  https://news.google.com/rss/articles/CBMicEFVX3lxTE1KX25iTHkyTUpPVkd0M2s2Z2ZXdVhyMjEwZlFDR3dXd2dYZUJ0T3RyTW4yY1dQVTBpeDVzSGc0NFA2NDFuZTZjeXM0THZpNl9mSlBBUm5XVjFJcTU4Sldid3BudzhubUcwd25pQTZUbGE?oc=5
+・千葉県の過去の天気(実況天気・2026年11月24日)（tenki.jp）
+  https://news.google.com/rss/articles/CBMiWkFVX3lxTE50amFCc0RiTmFqSWY1M0xBMnd0M1Q0ZFVFb2UtX0ZyN0gxWFYtS2d1aE5VS2FWMVYxRmdEd1BNSWgxbXpnTzh3b2NWOTNoalFCSm93bHVuMlRWZw?oc=5
+・菊池鋼板興業 経理まで連動、合理化追求 1枚当たり利益管理徹底へ（日刊工業新聞）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE03MjEyVERDaDgxWlpqZHBZV1dSeThUYTZjRk52b3BKV0l3ck5ySzE4YTRCb0lBTl83OGU3UEwyM0RFbkdUdU82NkxTTHNZMmwwcmtXT3hCcUY?oc=5
+・大髙正人展―建築と都市のヒューマニズム―（デザイン情報サイト[JDN]）
+  https://news.google.com/rss/articles/CBMiakFVX3lxTE1aUUlzRlpiWG9pRkdSRDB5R2lwVlBzcHI2MEJETzJJWkRzS0VkYy1CTzQwS3pOYWo5eDZVZ3hfTzNNbVRGOUJkOFBpR1k1UUxfaUN6WF9vNkR6TEc1UzhxcmN4bDJxMDE2LVE?oc=5
