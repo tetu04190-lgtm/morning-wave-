@@ -1,0 +1,68 @@
+・参院 野党側 関文科相の問責決議案を提出 あす採決へ（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261126de81559
+・東京電力 柏崎刈羽原発7号機テロ対策施設の完成時期延期を発表（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261126de81744
+・福岡 駐輪場男性刺殺事件 逃走の男は商業施設に約20分間滞在か（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261126de81597
+・店の壁の内側に女性の遺体 被告殺人の罪争う 札幌地裁（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261126de81713
+・PayPayのシステム障害が復旧 クレジットカード連携決済が再開（NHKONEニュース）
+  https://news.web.nhk/newsweb/na/nd-20261125de81532
+・アディーレ法律事務所 不正アクセスで個人情報漏えい（NHKONEニュース|社会）
+  https://news.web.nhk/newsweb/na/nd-20261126de81692
+・旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/business/articles/2611/26/news033.html
+・ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生”（文春オンライン）（Yahoo!ニュース）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBTaDFvQUlROXZPbHNfVlcxRUJzTmpXUEFqdEY0N0ppanRBdDU4clV5NmJSZDFTbmJHYWE3Y3hRMGpMRF9jaUdIcWV1enZKcUY3YVRyUzJhb3Z1bi1qUjJVYl9xQ2xCNVNIbzVobGpRc05QcGV4Y0JUNlBoVlhNdEE?oc=5
+・【Salesforce】AI導入で失敗する企業の盲点、注目の「ある新職種」が救世主に？（ビジネス+IT）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lRUpIV25STUNUaXowVHlmYkY5cC00ajJMcEZvN3lJUW12cVhkNmtDNjV3cUhtOXpLMEo1YUlZZWNRM1dHaS1FRXM2VDRVY2U5M3pr?oc=5
+・飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解（ITmedia AI＋ 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/26/2000003447/
+・Anthropic、「Claude」のアーティファクトをアプリ化可能に（ZDNET Japan）
+  https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wRWVYMHFDVEZQSmZfMm05a0kxWVZna1ZYQlA1OURobVlYbHVQd1ZDdGlfb1lOS0ZCOWJJakNUTHNCY3FYNXJpQ2ktcl84ZkJhUGxn?oc=5
+・城南信金、取引先向けAI導入セミナー 約50社が参加、効率化に関心（ニッキンONLINE）
+  https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sY29zWVdBbTU2dXVUanVacUJOTFM1aF9GMHFTeEJmMTN5QWhIZUdXdDRnZDB3SU9jSVg5dHFYVWRKcXNkSi1oS1QyUGJJdEFwS1RhYzRB?oc=5
+・折りたたみiPadは2029年以降か〜iPadへのmacOS搭載や新製品計画の最新情報（iPhone Mania）
+  https://iphone-mania.jp/apple-609228/
+・1Password、社員GitHub乗っ取りで顧客情報の一部漏洩（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2159390.html
+・「Claude」で作ったアーティファクトがPCにインストール可能に、Windows/Mac対応／月ごとの振り返り機能の正式提供、コネクターとのファイル送受信も、ベータ提供（窓の杜）
+  https://forest.watch.impress.co.jp/docs/news/2159316.html
+・2027年スマホ市場縮小へ〜Appleのシェア拡大が予想される理由（iPhone Mania）
+  https://iphone-mania.jp/apple-609092/
+・LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用（PC Watch）
+  https://pc.watch.impress.co.jp/docs/news/2159364.html
+・AIで“見たことない面白い”ゲームはどうしたら作れるか ～清水亮氏の「AIゲームセンター」構想が実際に遊べる形になった！【AIフェスティバル 2026】／自分のひと言でゲームの世界そのものが変わるシューティングをはじめ、5作品と「未来のプリクラ」を体験【特集・集中企画】（窓の杜）
+  https://forest.watch.impress.co.jp/docs/special/2159141.html
+・飲食店の“AI商品画像”は景品表示法違反にならないの？ 弁護士の見解（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/26/2000003447/
+・NVIDIAのスキャンダルを巡るトランプ大統領の言動にスティーブン・キングが「国家安全保障を犠牲に株式市場を守っている」と非難（GIGAZINE）
+  https://gigazine.net/news/20261126-stephen-king-trump/
+・楽天モバイルで「Galaxy Z Fold8/Flip9」購入で最大2.8万ポイントもらえる（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2159452.html
+・GitHubに「人には見えない隠し文字」 小型AIの操作狙うものも……1億4500万件を調査（ITmedia NEWS 最新記事一覧）
+  https://www.itmedia.co.jp/news/article/2611/26/2000003460/
+・曲げたり引っ張ったりすればするほど強度を増す素材が開発される（GIGAZINE）
+  https://gigazine.net/news/20261126-get-stronger-polymer/
+・アリババからAIボイスレコーダー「QwenNote A1」が発売、120言語の音声認識に対応（ケータイ Watch）
+  https://k-tai.watch.impress.co.jp/docs/news/2159471.html
+・韓国の中央銀行ことし3回目の利上げ 物価上昇抑えるねらい（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261126de81753
+・物流大手の鈴与が決算発表 売上高6年連続で過去最高 取扱量の増加や新たな顧客獲得で（テレビ静岡）
+  https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuZm9tRGk2TlVBMmFkd1E2LVZXYWpvWVR3ME5iRHZDdUxDOEk1Z28zcGZ1Qk1LMlBvY3Z0UmhqTnFidzg1V2NKWldJWHJTdFZYdmlSLUNlUHlodS1GeVhuUC04bw?oc=5
+・東京電力 柏崎刈羽原発7号機テロ対策施設の完成時期延期を発表（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261126de81744
+・増収増益の数字に騙されるな!最新決算で暴く企業の｢稼ぐ力｣ - PRESIDENT Online（プレジデントオンライン）（"決算 OR 業績 企業 when:1d" - Google ニュース）
+  https://news.google.com/rss/articles/CBMiWEFVX3lxTE1EVnI0NVpVV0FSMkZiTEZDYUhzMkkzTWJoYTNLRklKSDFEcElWVkxBRjhnVnN6YjNfTWtpNUlwU2dFTG9FOVR0bzEzdldSNDFRc0VHbEoyeFE?oc=5
+・高市首相に特産の柿を奈良の生産者らが贈呈（NHKONEニュース|経済）
+  https://news.web.nhk/newsweb/na/nd-20261126de81731
+・増益なのに株価が下がるのはなぜ？ 決算を読み直す本10選｜日本個別株デューデリジェンスセンター（note）
+  https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MkVPeFFrWm1nN1FNZndYMFhRbzc5aFhjZmdhbE5Ed3g2UkVSLWhqeUJGRGFYNERDVmh3ckJrNEpnN0VxS3I0cVJ5VlJQZHQ0d3RaTDNuZ2xTS0U?oc=5
+・新着情報“ＲＡＶ４ハイブリッドアドベンチャー オフロードパッケージⅡ”2025年式アティチュードブラックマイカ/グレイッシュブルー入荷しました！（中古車のガリバー）
+  https://news.google.com/rss/articles/CBMif0FVX3lxTFBoa2E2czZ0eUd5Tm1QSF83NlN2ald4Zlo3cU5ZeWVaNVVja3hLWTF1VzNkeTNFTklLMFdEQzhIX3BUeF94SVVCcmxmRndnbUlaVHpkcXNRZXZGTlU2akxsbUd6QUd1TnB5TzJBRXNmSGRnak91UGN0QmsyaXdmbVk?oc=5
+・千葉県、教職員らを援助する特別支援アドバイザーを募集（リセマム）
+  https://news.google.com/rss/articles/CBMiZkFVX3lxTE1vQmlKR3h6SDJJTmZzOTVhRHFRb0VWdWljNHVwSlhHeUtENUdscERVUUZHM2pfOUdFMmlNZDV5UkMzdmhwaGIzWHhhUDhZWW05Q0NDNnZRWXp0aHA1aW12WVVjUTRRUQ?oc=5
+・USシネマ千葉ニュータウン「またまたあぶない刑事」の上映時間（千葉ニュータウン）（映画.com）
+  https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEeS1IMjBaTXJOaU8tdXA0YVE5QnR4YmhkSzJxSGNMaVJOYjdRMFhZdERhMnRLZVZ1cjBfWTA5cDhKaW1sVk54Q3hjNHlrN1VHTWtNUlN0cjFmSEFUSmlFOVhR?oc=5
+・セイノースーパーエクスプレス／千葉県に柏ロジスティクスセンター開設（物流ニュースのLNEWS）
+  https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KRnl6NXY3UnJJMjZ4Z0oxOE1YNnRIeE9uNDVHVE1ZbEZZNUo0ZzJJNElhb1FoaHBCN3BKdi1hbmEyNXFvZGRKYmdreWh4d2REbWUzRQ?oc=5
